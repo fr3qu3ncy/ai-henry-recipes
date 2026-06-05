@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Pizza Dipping Sauces — Collection</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { background-color:#0d1117; font-family:'Segoe UI',Arial,Helvetica,sans-serif; color:#e6edf3; line-height:1.6; }
+  .page-wrapper { padding:20px; }
+  .container { max-width:720px; margin:0 auto; background-color:#161b22; border-radius:12px; overflow:hidden; box-shadow:0 8px 32px rgba(0,0,0,0.4); }
+  .header { background:linear-gradient(135deg,#1a2e1a,#0d1117); padding:28px; border-bottom:3px solid #2ea043; }
+  .header h1 { font-size:26px; font-weight:700; color:#e6edf3; margin-bottom:4px; }
+  .header .recipe-date { font-size:15px; color:#8b949e; }
+  .meta { display:flex; gap:10px; margin-top:12px; flex-wrap:wrap; }
+  .meta-badge { font-size:12px; color:#e6edf3; background:#21262d; padding:4px 10px; border-radius:8px; display:flex; align-items:center; gap:4px; }
+  .badge-icon { font-size:13px; }
+  .content { padding:24px 28px; }
+  .nav-link { display:inline-block; margin-bottom:20px; color:#58a6ff; text-decoration:none; font-size:15px; }
+  .nav-link:hover { text-decoration:underline; }
+  .section { margin-bottom:24px; }
+  .section-title { font-size:18px; font-weight:600; color:#e6edf3; margin-bottom:12px; padding-bottom:6px; border-bottom:1px solid #21262d; }
+  .why-text { font-size:18px; color:#8b949e; line-height:1.7; }
+  .sauce-card { background:#1c2128; border:1px solid #21262d; border-radius:8px; padding:16px; margin-bottom:16px; }
+  .sauce-name { font-size:18px; font-weight:600; color:#2ea043; margin-bottom:6px; }
+  .sauce-pairing { font-size:14px; color:#e3b341; margin-bottom:10px; font-style:italic; }
+  .ingredient { font-size:16px; color:#c9d1d9; padding:3px 0; list-style:none; position:relative; padding-left:16px; }
+  .ingredient::before { content:''; position:absolute; left:0; top:10px; width:6px; height:6px; border-radius:50%; background:#2ea043; }
+  .method-text { font-size:16px; color:#8b949e; margin-top:8px; line-height:1.6; }
+  .footer { background:#0d1117; padding:16px 28px; text-align:center; border-top:1px solid #21262d; }
+  .footer span { font-size:11px; color:#484f58; }
+  @media (max-width: 600px) {
+    .container { width:100% !important; max-width:100% !important; }
+    .header { padding:16px !important; }
+    .content { padding:16px !important; }
+    .footer { padding:12px 16px !important; }
+  }
+</style>
+</head>
+<body>
+<div class="page-wrapper">
+<div class="container">
+<div class="header">
+  <h1>&#x1f355; Pizza Dipping Sauces</h1>
+  <div class="recipe-date">Collection by Henry</div>
+  <div class="meta"><span class="meta-badge"><span class="badge-icon">&#x23f1;</span> 5-15 min each</span>
+  <span class="meta-badge"><span class="badge-icon">&#x1f4aa;</span> Easy</span>
+  <span class="meta-badge"><span class="badge-icon">&#x1f3e0;</span> 10 sauces</span>
+  </div>
+</div>
+<div class="content">
+  <a href="index.html" class="nav-link">&#x2190; Back to all recipes</a>
+
+  <div class="section">
+    <h2 class="section-title">Why These Sauces</h2>
+    <p class="why-text">A great dipping sauce elevates homemade pizza from "nice" to "proper thing." These range from classic to adventurous — all quick to make, all things that pair brilliantly with pizza. Pick one (or three) and keep them in a ramekin on the side.</p>
+  </div>
+
+  <div class="section">
+    <h2 class="section-title">The Sauces</h2>
+
+    <div class="sauce-card">
+      <div class="sauce-name">Garlic Aioli</div>
+      <div class="sauce-pairing">Best with: Everything. The universal dip.</div>
+      <ul class="ingredients-list">
+        <li class="ingredient">4 tbsp mayonnaise</li>
+        <li class="ingredient">2 cloves garlic, crushed</li>
+        <li class="ingredient">1 tsp lemon juice</li>
+        <li class="ingredient">Splash of olive oil</li>
+      </ul>
+      <p class="method-text">Whisk everything together. Done. 2 minutes.</p>
+    </div>
+
+    <div class="sauce-card">
+      <div class="sauce-name">Chimichurri</div>
+      <div class="sauce-pairing">Best with: Sausage pizza, fennel, lemon — fresh and herby</div>
+      <ul class="ingredients-list">
+        <li class="ingredient">1 large handful fresh parsley</li>
+        <li class="ingredient">2 cloves garlic</li>
+        <li class="ingredient">2 tbsp red wine vinegar</li>
+        <li class="ingredient">80ml olive oil</li>
+        <li class="ingredient">1 tsp chilli flakes</li>
+        <li class="ingredient">Pinch of salt</li>
+      </ul>
+      <p class="method-text">Blend or finely chop everything together. Let it sit 10 minutes for flavours to meld.</p>
+    </div>
+
+    <div class="sauce-card">
+      <div class="sauce-name">Hot Honey</div>
+      <div class="sauce-pairing">Best with: Margherita, anything cheesy — sweet + heat</div>
+      <ul class="ingredients-list">
+        <li class="ingredient">3 tbsp honey</li>
+        <li class="ingredient">1-2 tsp chilli flakes</li>
+      </ul>
+      <p class="method-text">Mix together, let sit 10 minutes. Drizzle over pizza or dip. Add more flakes if you want it hotter.</p>
+    </div>
+
+    <div class="sauce-card">
+      <div class="sauce-name">Classic Pesto</div>
+      <div class="sauce-pairing">Best with: White pizza, burrata, mozzarella-heavy</div>
+      <ul class="ingredients-list">
+        <li class="ingredient">Large handful fresh basil</li>
+        <li class="ingredient">30g pine nuts (or walnuts)</li>
+        <li class="ingredient">1 clove garlic</li>
+        <li class="ingredient">40g parmesan, grated</li>
+        <li class="ingredient">60ml olive oil</li>
+      </ul>
+      <p class="method-text">Blend until smooth, drizzle oil in slowly. Season with salt.</p>
+    </div>
+
+    <div class="sauce-card">
+      <div class="sauce-name">Intense Marinara Dip</div>
+      <div class="sauce-pairing">Best with: Any pizza — double-dipping is a thing</div>
+      <ul class="ingredients-list">
+        <li class="ingredient">400g tin chopped tomatoes</li>
+        <li class="ingredient">3 cloves garlic, crushed</li>
+        <li class="ingredient">1 tbsp olive oil</li>
+        <li class="ingredient">1 tsp sugar</li>
+        <li class="ingredient">Fresh basil leaves</li>
+        <li class="ingredient">Salt and black pepper</li>
+      </ul>
+      <p class="method-text">Cook down longer than you'd put on pizza — 20+ minutes until thick and intense. More garlic than you think. Cool before dipping.</p>
+    </div>
+
+    <div class="sauce-card">
+      <div class="sauce-name">Harissa Yogurt</div>
+      <div class="sauce-pairing">Best with: Spiced toppings, Middle Eastern twist, slow burn</div>
+      <ul class="ingredients-list">
+        <li class="ingredient">100g Greek yogurt</li>
+        <li class="ingredient">1-2 tbsp harissa paste</li>
+        <li class="ingredient">1 tsp lemon juice</li>
+      </ul>
+      <p class="method-text">Whisk together. Creamy with a slow-building heat. Surprisingly brilliant with pizza.</p>
+    </div>
+
+    <div class="sauce-card">
+      <div class="sauce-name">Truffle Aioli</div>
+      <div class="sauce-pairing">Best with: Mushrooms, truffle oil pizza, fancy nights</div>
+      <ul class="ingredients-list">
+        <li class="ingredient">4 tbsp mayonnaise</li>
+        <li class="ingredient">1 tsp truffle oil</li>
+        <li class="ingredient">1 clove garlic, crushed</li>
+      </ul>
+      <p class="method-text">Three ingredients. Mix together. Fancy but effortless.</p>
+    </div>
+
+    <div class="sauce-card">
+      <div class="sauce-name">Balsamic Glaze</div>
+      <div class="sauce-pairing">Best with: Burrata, fresh tomatoes, anything cheesy</div>
+      <ul class="ingredients-list">
+        <li class="ingredient">Good quality balsamic vinegar reduction</li>
+      </ul>
+      <p class="method-text">Buy it or reduce balsamic vinegar in a pan until syrupy. Thick, sweet-tart. You probably already have this from the peach salad.</p>
+    </div>
+
+    <div class="sauce-card">
+      <div class="sauce-name">Buffalo Sauce</div>
+      <div class="sauce-pairing">Best with: Chicken pizza, American-style, bold flavours</div>
+      <ul class="ingredients-list">
+        <li class="ingredient">3 tbsp Frank's RedHot (or hot sauce)</li>
+        <li class="ingredient">2 tbsp melted butter</li>
+        <li class="ingredient">Splash of white vinegar</li>
+      </ul>
+      <p class="method-text">Mix together. Classic American heat.</p>
+    </div>
+
+    <div class="sauce-card">
+      <div class="sauce-name">Sriracha Mayo</div>
+      <div class="sauce-pairing">Best with: Asian-inspired toppings, quick creamy kick</div>
+      <ul class="ingredients-list">
+        <li class="ingredient">4 tbsp mayonnaise</li>
+        <li class="ingredient">1-2 tbsp sriracha</li>
+        <li class="ingredient">Squeeze of lime</li>
+      </ul>
+      <p class="method-text">Whisk together. Adjust sriracha to your heat preference.</p>
+    </div>
+
+  </div>
+</div>
+<div class="footer">
+  <span>Generated by Henry &middot; Dipping Sauce Collection &middot; 05 June 2026</span>
+</div>
+</div>
+</div>
+</body>
+</html>
