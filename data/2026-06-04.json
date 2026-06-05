@@ -1,0 +1,63 @@
+{
+  "date": "2026-06-04",
+  "name": "Korean Gochujang Glazed Chicken Thighs",
+  "why": "Gochujang (Korean fermented chili paste) gives these thighs a deep, complex heat that's sweet, smoky, and garlicky all at once. The glaze caramelises beautifully on the skin while the meat stays juicy. A proper weeknight winner that feels like a treat.",
+  "source": "BBC Good Food",
+  "source_url": "https://www.bbcgoodfood.com/recipes/gochujang-glazed-chicken",
+  "cook_time": "40 min",
+  "difficulty": "Easy",
+  "ingredients": [
+    "6 bone-in, skin-on chicken thighs",
+    "3 tbsp gochujang paste",
+    "2 tbsp soy sauce",
+    "2 tbsp honey",
+    "1 tbsp rice wine vinegar",
+    "4 cloves garlic, minced",
+    "1 tbsp fresh ginger, grated",
+    "1 tbsp sesame oil",
+    "1 red pepper, sliced into strips",
+    "2 spring onions, sliced",
+    "100g baby spinach",
+    "Sesame seeds for garnish",
+    "Steamed rice to serve"
+  ],
+  "instructions": [
+    {
+      "phase": "Prep",
+      "steps": [
+        "Mix gochujang, soy sauce, honey, rice wine vinegar, garlic, and ginger in a small bowl to make the glaze.",
+        "Pat chicken thighs dry with kitchen paper. This ensures crispy skin.",
+        "Slice red pepper into thin strips."
+      ]
+    },
+    {
+      "phase": "Cook",
+      "steps": [
+        "Heat a large oven-proof frying pan over medium-high heat. Add a drizzle of oil.",
+        "Place chicken thighs skin-side down. Cook 6-7 minutes without moving them until skin is deep golden and crispy.",
+        "Flip thighs. Brush generously with gochujang glaze. Cook 3 more minutes.",
+        "Transfer pan to oven at 200\u00b0C for 12-15 minutes until chicken is cooked through and glaze is bubbling.",
+        "In the last 5 minutes, add red pepper strips to the pan around the chicken."
+      ]
+    },
+    {
+      "phase": "Finish",
+      "steps": [
+        "Remove from oven. Drizzle with sesame oil.",
+        "Wilt baby spinach over the chicken for 30 seconds using residual heat.",
+        "Garnish with spring onions and sesame seeds."
+      ]
+    },
+    {
+      "phase": "Serve",
+      "steps": [
+        "Serve immediately over steamed rice.",
+        "Spoon any pan juices and glaze over the top."
+      ]
+    }
+  ],
+  "pro_tips": [
+    "For extra crispy skin, score the skin diagonally 3-4 times before cooking. This renders fat faster and prevents curling.",
+    "If your gochujang is particularly thick, thin the glaze with a tablespoon of warm water. It should coat the back of a spoon."
+  ]
+}
