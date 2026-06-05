@@ -1,0 +1,66 @@
+{
+  "date": "2026-06-05",
+  "name": "Miso Butter Ramen with Soft-Boiled Egg",
+  "why": "White miso and brown butter create an incredibly rich, umami-packed broth that's surprisingly quick. The technique of browning butter before adding miso unlocks nutty depth you won't find in standard ramen recipes. Perfect for a Friday night when you want something restaurant-quality without the fuss.",
+  "source": "Bon App\u00e9tit",
+  "source_url": "https://www.bonappetit.com/recipe/miso-butter-ramen",
+  "cook_time": "30 min",
+  "difficulty": "Easy",
+  "ingredients": [
+    "200g fresh ramen noodles or thick egg noodles",
+    "2 tbsp unsalted butter",
+    "2 tbsp white miso paste",
+    "1 tbsp soy sauce",
+    "1 tbsp mirin",
+    "400ml chicken or vegetable stock",
+    "100ml water",
+    "2 cloves garlic, minced",
+    "1 tsp fresh ginger, grated",
+    "2 spring onions, thinly sliced",
+    "2 soft-boiled eggs (6.5 minutes)",
+    "1 sheet nori, cut into strips",
+    "Sesame seeds for garnish",
+    "Chili oil to serve (optional)"
+  ],
+  "instructions": [
+    {
+      "phase": "Prep",
+      "steps": [
+        "Soft-boil eggs: Lower gently into simmering water, time 6 minutes 30 seconds, then transfer to ice water. Peel when cool.",
+        "Mince garlic and grate ginger.",
+        "Slice spring onions thinly on the diagonal.",
+        "Cut nori sheet into 4 thin strips."
+      ]
+    },
+    {
+      "phase": "Broth",
+      "steps": [
+        "Melt butter in a medium saucepan over medium heat. Watch carefully \u2014 it will foam, then subside, then turn amber and smell nutty (about 2-3 minutes). Do not walk away.",
+        "Remove from heat briefly. Whisk in miso paste until smooth.",
+        "Return to low heat. Add garlic and ginger, cook 30 seconds until fragrant.",
+        "Pour in stock and water, whisk to dissolve miso fully. Add soy sauce and mirin.",
+        "Simmer gently for 5 minutes. Do not boil vigorously \u2014 it breaks down the miso."
+      ]
+    },
+    {
+      "phase": "Noodles",
+      "steps": [
+        "Bring a large pot of salted water to the boil. Cook ramen noodles according to package (usually 2-3 minutes for fresh).",
+        "Drain noodles well. Divide between 2 warm bowls."
+      ]
+    },
+    {
+      "phase": "Serve",
+      "steps": [
+        "Ladle hot broth over noodles.",
+        "Halve soft-boiled eggs and place on top.",
+        "Garnish with spring onions, nori strips, and sesame seeds.",
+        "Add a drizzle of chili oil if you want heat."
+      ]
+    }
+  ],
+  "pro_tips": [
+    "The key is browning the butter slowly \u2014 the nutty compounds (methylpyrazines) it develops pair perfectly with miso's glutamates for maximum umami impact.",
+    "If you can't find fresh ramen, thick spaghetti works fine. Just reduce cook time by 1 minute and reserve some pasta water to thin the broth."
+  ]
+}
