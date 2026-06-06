@@ -1,69 +1,71 @@
-{
-  "date": "2026-06-06",
-  "name": "Roasted Cherry Tomato Basil Pasta",
-  "liked": true,
-  "why": "When you've got genuinely good cherry tomatoes, roasting them is the move. The oven concentrates their sweetness, slightly chars the skins, and turns them into something almost jammy — way deeper than just tossing them raw into a pan. It's a 45-minute summer dinner that tastes like it took hours.",
-  "source": "Inspired by It's Not Complicated Recipes",
-  "source_url": "https://itsnotcomplicatedrecipes.com/roasted-cherry-tomato-pasta/",
-  "cook_time": "45 min",
-  "difficulty": "Easy",
-  "serves": "2",
-  "ingredients": [
-    "400g cherry tomatoes (halved)",
-    "200g pasta (spaghetti, linguine, or penne)",
-    "4 tbsp extra virgin olive oil",
-    "4 cloves garlic, minced",
-    "Handful of fresh basil",
-    "½ tsp dried oregano",
-    "½ tsp sugar (helps the caramelization)",
-    "Salt and black pepper",
-    "50g Parmesan, grated",
-    "Red pepper flakes (optional)"
-  ],
-  "instructions": [
-    {
-      "phase": "Prep",
-      "steps": [
-        "Wash and dry the cherry tomatoes thoroughly. Cut them in half.",
-        "Mince the garlic.",
-        "Roughly tear half the basil leaves."
-      ]
-    },
-    {
-      "phase": "Roast",
-      "steps": [
-        "Preheat oven to 200°C / 400°F.",
-        "Toss the halved tomatoes in a roasting dish with olive oil, minced garlic, half the basil, dried oregano, sugar, salt, and pepper. Spread them in a single layer.",
-        "Roast for 30–40 minutes until the tomatoes are collapsing, slightly charred at the edges, and releasing their juices."
-      ]
-    },
-    {
-      "phase": "Pasta",
-      "steps": [
-        "While tomatoes roast, bring a large pot of well-salted water to the boil. Cook pasta until al dente.",
-        "Reserve a cup of pasta water before draining."
-      ]
-    },
-    {
-      "phase": "Combine",
-      "steps": [
-        "Drain the pasta and add it directly to the roasting dish with the tomatoes — don't wash the dish, those roasted bits are gold.",
-        "Toss everything together. Add a splash of pasta water if it needs loosening.",
-        "Stir in the grated Parmesan."
-      ]
-    },
-    {
-      "phase": "Serve",
-      "steps": [
-        "Scatter the remaining fresh basil over the top.",
-        "Crack black pepper generously and add red pepper flakes if you want heat.",
-        "Finish with a final drizzle of olive oil."
-      ]
-    }
-  ],
-  "pro_tips": [
-    "The sugar isn't just for sweetness — it accelerates caramelization and helps the tomatoes collapse into that jammy texture. If your tomatoes are already super sweet, you can skip it.",
-    "Don't skip the pasta water. The starch is what emulsifies the olive oil and tomato juices into a proper sauce that clings to the pasta instead of pooling at the bottom of the plate."
-  ],
-  "added_at": "2026-06-06T14:47:00"
-}
+[
+  {
+    "date": "2026-06-06",
+    "name": "Roasted Cherry Tomato Basil Pasta",
+    "liked": true,
+    "why": "When you've got genuinely good cherry tomatoes, roasting them is the move. The oven concentrates their sweetness, slightly chars the skins, and turns them into something almost jammy \u2014 way deeper than just tossing them raw into a pan. It's a 45-minute summer dinner that tastes like it took hours.",
+    "source": "Inspired by It's Not Complicated Recipes",
+    "source_url": "https://itsnotcomplicatedrecipes.com/roasted-cherry-tomato-pasta/",
+    "cook_time": "45 min",
+    "difficulty": "Easy",
+    "serves": "2",
+    "ingredients": [
+      "400g cherry tomatoes (halved)",
+      "200g pasta (spaghetti, linguine, or penne)",
+      "4 tbsp extra virgin olive oil",
+      "4 cloves garlic, minced",
+      "Handful of fresh basil",
+      "\u00bd tsp dried oregano",
+      "\u00bd tsp sugar (helps the caramelization)",
+      "Salt and black pepper",
+      "50g Parmesan, grated",
+      "Red pepper flakes (optional)"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Wash and dry the cherry tomatoes thoroughly. Cut them in half.",
+          "Mince the garlic.",
+          "Roughly tear half the basil leaves."
+        ]
+      },
+      {
+        "phase": "Roast",
+        "steps": [
+          "Preheat oven to 200\u00b0C / 400\u00b0F.",
+          "Toss the halved tomatoes in a roasting dish with olive oil, minced garlic, half the basil, dried oregano, sugar, salt, and pepper. Spread them in a single layer.",
+          "Roast for 30\u201340 minutes until the tomatoes are collapsing, slightly charred at the edges, and releasing their juices."
+        ]
+      },
+      {
+        "phase": "Pasta",
+        "steps": [
+          "While tomatoes roast, bring a large pot of well-salted water to the boil. Cook pasta until al dente.",
+          "Reserve a cup of pasta water before draining."
+        ]
+      },
+      {
+        "phase": "Combine",
+        "steps": [
+          "Drain the pasta and add it directly to the roasting dish with the tomatoes \u2014 don't wash the dish, those roasted bits are gold.",
+          "Toss everything together. Add a splash of pasta water if it needs loosening.",
+          "Stir in the grated Parmesan."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Scatter the remaining fresh basil over the top.",
+          "Crack black pepper generously and add red pepper flakes if you want heat.",
+          "Finish with a final drizzle of olive oil."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "The sugar isn't just for sweetness \u2014 it accelerates caramelization and helps the tomatoes collapse into that jammy texture. If your tomatoes are already super sweet, you can skip it.",
+      "Don't skip the pasta water. The starch is what emulsifies the olive oil and tomato juices into a proper sauce that clings to the pasta instead of pooling at the bottom of the plate."
+    ],
+    "added_at": "2026-06-06T14:47:00"
+  }
+]
