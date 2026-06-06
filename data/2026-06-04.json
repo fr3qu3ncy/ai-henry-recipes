@@ -1,65 +1,72 @@
 {
   "date": "2026-06-04",
-  "name": "Korean Gochujang Glazed Chicken Thighs",
-  "why": "Gochujang (Korean fermented chili paste) gives these thighs a deep, complex heat that's sweet, smoky, and garlicky all at once. The glaze caramelises beautifully on the skin while the meat stays juicy. A proper weeknight winner that feels like a treat.",
-  "source": "BBC Good Food",
-  "source_url": "https://www.bbcgoodfood.com/recipes/gochujang-glazed-chicken",
-  "cook_time": "40 min",
+  "name": "Creamy Corn Miso Pasta",
+  "why": "Summer corn at its peak, turned into a silky pasta sauce with white miso and a touch of gochugaru heat. The corn milk scraped from the cobs is liquid gold — it gives the sauce body and intense corn flavour without a drop of cream. Quick, vegetarian, and deeply satisfying.",
+  "source": "Recipe Keeper",
+  "source_url": "https://recipekeeperonline.com/recipe/IoznnRL910-DBhESFKHPRg",
+  "cook_time": "25 min",
   "difficulty": "Easy",
-  "serves": "2",
+  "serves": "4",
+  "liked": false,
   "ingredients": [
-    "6 bone-in, skin-on chicken thighs",
-    "3 tbsp gochujang paste",
-    "2 tbsp soy sauce",
-    "2 tbsp honey",
-    "1 tbsp rice wine vinegar",
-    "4 cloves garlic, minced",
-    "1 tbsp fresh ginger, grated",
-    "1 tbsp sesame oil",
-    "1 red pepper, sliced into strips",
-    "2 spring onions, sliced",
-    "100g baby spinach",
-    "Sesame seeds for garnish",
-    "Steamed rice to serve"
+    "8 oz campanelle pasta (fusilli or cavatappi work)",
+    "2 ears fresh corn, shucked",
+    "3 tbsp unsalted butter",
+    "1 yellow onion, finely chopped (~1 cup)",
+    "2 small garlic cloves, grated or finely minced",
+    "1/2 cup water",
+    "2 tbsp white miso paste",
+    "1/2 tsp gochugaru (Korean chili flakes) — red pepper flakes work fine",
+    "4 tbsp fresh chives, chopped (divided)",
+    "1 oz Parmigiano-Reggiano, finely grated (~1/4 cup), plus extra for serving",
+    "1 tbsp fresh lemon juice",
+    "Kosher salt, to taste"
   ],
   "instructions": [
     {
       "phase": "Prep",
       "steps": [
-        "Mix gochujang, soy sauce, honey, rice wine vinegar, garlic, and ginger in a small bowl to make the glaze.",
-        "Pat chicken thighs dry with kitchen paper. This ensures crispy skin.",
-        "Slice red pepper into thin strips."
+        "Bring a large pot of generously salted water to a rolling boil.",
+        "Stand corn ears upright in a shallow bowl. Slice kernels downward into the bowl. Scrape cobs with the back of a knife to extract corn milk. Yield: ~1½ cups kernels + milk."
       ]
     },
     {
       "phase": "Cook",
       "steps": [
-        "Heat a large oven-proof frying pan over medium-high heat. Add a drizzle of oil.",
-        "Place chicken thighs skin-side down. Cook 6-7 minutes without moving them until skin is deep golden and crispy.",
-        "Flip thighs. Brush generously with gochujang glaze. Cook 3 more minutes.",
-        "Transfer pan to oven at 200\u00b0C for 12-15 minutes until chicken is cooked through and glaze is bubbling.",
-        "In the last 5 minutes, add red pepper strips to the pan around the chicken."
+        "Cook pasta al dente (8–10 mins). Reserve 1 cup starchy water, drain, and set aside.",
+        "Melt butter in a large skillet over medium heat. Cook onion until translucent (~3 mins). Add garlic, cook 1 min.",
+        "Add corn with milk, cook 3 mins until slightly softened and pan looks dry.",
+        "Add 1/2 cup water. Cook 3–4 mins until corn is tender and water mostly evaporated."
+      ]
+    },
+    {
+      "phase": "Sauce",
+      "steps": [
+        "Remove from heat. Reserve 1/2 cup corn mixture for garnish.",
+        "Process remaining mixture until almost smooth (~20 sec). Pulse in 1/4 cup reserved mixture for a silky, slightly textured sauce.",
+        "Return sauce to skillet, warm 1 min. Whisk in white miso + 1/2 cup pasta water until smooth. Stir in gochugaru."
       ]
     },
     {
       "phase": "Finish",
       "steps": [
-        "Remove from oven. Drizzle with sesame oil.",
-        "Wilt baby spinach over the chicken for 30 seconds using residual heat.",
-        "Garnish with spring onions and sesame seeds."
+        "Stir in drained pasta and 3 tbsp chives. Toss 1 min until fully coated.",
+        "Off heat, gradually stir in Parmigiano-Reggiano, adding remaining pasta water 1 tbsp at a time until creamy and glossy.",
+        "Stir in lemon juice, adjust salt if needed."
       ]
     },
     {
       "phase": "Serve",
       "steps": [
-        "Serve immediately over steamed rice.",
-        "Spoon any pan juices and glaze over the top."
+        "Divide into 4 bowls. Top with remaining chives, reserved corn, and extra cheese. Serve immediately."
       ]
     }
   ],
   "pro_tips": [
-    "For extra crispy skin, score the skin diagonally 3-4 times before cooking. This renders fat faster and prevents curling.",
-    "If your gochujang is particularly thick, thin the glaze with a tablespoon of warm water. It should coat the back of a spoon."
+    "Scrape that cob. The corn milk (the milky liquid left on the cob after slicing off kernels) is liquid gold — it adds body and intense corn flavour to the sauce. Do not skip scraping with the back of your knife.",
+    "Whisk the miso in, do not dump it. White miso is thick and does not dissolve on its own. Whisk it into warm pasta water before adding it back to the pan so it distributes evenly without clumping.",
+    "If you cannot find gochugaru, regular red pepper flakes or a pinch of cayenne work perfectly.",
+    "Do not go too heavy on the miso — a little goes a long way."
   ],
-  "added_at": "2026-06-05T18:33:00"
+  "added_at": "2026-06-06T20:00:00"
 }
