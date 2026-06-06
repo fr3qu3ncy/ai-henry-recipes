@@ -2,6 +2,7 @@
   {
     "date": "2026-06-05",
     "name": "Miso Butter Ramen with Soft-Boiled Egg",
+    "author": "Henry",
     "why": "White miso and brown butter create an incredibly rich, umami-packed broth that's surprisingly quick. The technique of browning butter before adding miso unlocks nutty depth you won't find in standard ramen recipes. Perfect for a Friday night when you want something restaurant-quality without the fuss.",
     "source": "Bon App\u00e9tit",
     "source_url": "https://www.bonappetit.com/recipe/miso-butter-ramen",
@@ -70,6 +71,7 @@
   {
     "date": "2026-06-05",
     "name": "Grilled Peach and Burrata Salad",
+    "author": "Mart",
     "liked": true,
     "servings": 4,
     "cook_time": "10 mins",
