@@ -67,5 +67,117 @@
       "Don't skip the pasta water. The starch is what emulsifies the olive oil and tomato juices into a proper sauce that clings to the pasta instead of pooling at the bottom of the plate."
     ],
     "added_at": "2026-06-06T14:47:00"
+  },
+  {
+    "date": "2026-06-06",
+    "name": "Pizza Dipping Sauces Collection",
+    "why": "A great dipping sauce elevates homemade pizza from nice to proper thing. These range from classic to adventurous \u2014 all quick to make, all pair brilliantly with pizza. Pick one (or three) and keep them in a ramekin on the side.",
+    "source": "Henry's Kitchen",
+    "cook_time": "15 min",
+    "difficulty": "Easy",
+    "serves": "4",
+    "liked": true,
+    "ingredients": [
+      "Mayonnaise",
+      "Garlic cloves",
+      "Fresh parsley",
+      "Red wine vinegar",
+      "Olive oil",
+      "Chilli flakes",
+      "Honey",
+      "Fresh basil",
+      "Pine nuts or walnuts",
+      "Parmesan cheese",
+      "Tin chopped tomatoes (400g)",
+      "Greek yogurt (100g)",
+      "Harissa paste",
+      "Lemon juice",
+      "Truffle oil",
+      "Balsamic vinegar reduction",
+      "Frank's RedHot or hot sauce",
+      "Melted butter",
+      "White vinegar",
+      "Sriracha",
+      "Lime"
+    ],
+    "instructions": [
+      {
+        "phase": "Garlic Aioli",
+        "steps": [
+          "Crush 2 cloves garlic and mix with 4 tbsp mayonnaise, 1 tsp lemon juice, and a splash of olive oil.",
+          "Whisk everything together. Done in 2 minutes. Best with: everything \u2014 the universal dip."
+        ]
+      },
+      {
+        "phase": "Chimichurri",
+        "steps": [
+          "Blend or finely chop: 1 large handful fresh parsley, 2 cloves garlic, 2 tbsp red wine vinegar, 80ml olive oil, 1 tsp chilli flakes, pinch of salt.",
+          "Let it sit 10 minutes for flavours to meld. Best with: sausage pizza, fennel, lemon."
+        ]
+      },
+      {
+        "phase": "Hot Honey",
+        "steps": [
+          "Mix 3 tbsp honey with 1-2 tsp chilli flakes. Let sit 10 minutes.",
+          "Drizzle over pizza or dip. Add more flakes if you want it hotter. Best with: Margherita, anything cheesy."
+        ]
+      },
+      {
+        "phase": "Classic Pesto",
+        "steps": [
+          "Blend: large handful fresh basil, 30g pine nuts (or walnuts), 1 clove garlic, 40g grated parmesan, 60ml olive oil.",
+          "Blend until smooth, drizzle oil in slowly. Season with salt. Best with: white pizza, burrata, mozzarella-heavy."
+        ]
+      },
+      {
+        "phase": "Intense Marinara Dip",
+        "steps": [
+          "Cook down: 400g tin chopped tomatoes, 3 cloves crushed garlic, 1 tbsp olive oil, 1 tsp sugar, fresh basil, salt and black pepper.",
+          "Cook 20+ minutes until thick and intense. More garlic than you think. Cool before dipping. Best with: any pizza."
+        ]
+      },
+      {
+        "phase": "Harissa Yogurt",
+        "steps": [
+          "Whisk together: 100g Greek yogurt, 1-2 tbsp harissa paste, 1 tsp lemon juice.",
+          "Creamy with a slow-building heat. Surprisingly brilliant with pizza. Best with: spiced toppings, Middle Eastern twist."
+        ]
+      },
+      {
+        "phase": "Truffle Aioli",
+        "steps": [
+          "Mix: 4 tbsp mayonnaise, 1 tsp truffle oil, 1 clove crushed garlic.",
+          "Three ingredients. Fancy but effortless. Best with: mushrooms, truffle oil pizza."
+        ]
+      },
+      {
+        "phase": "Balsamic Glaze",
+        "steps": [
+          "Use good quality balsamic vinegar reduction \u2014 buy it or reduce balsamic vinegar in a pan until syrupy.",
+          "Thick, sweet-tart. Best with: burrata, fresh tomatoes, anything cheesy."
+        ]
+      },
+      {
+        "phase": "Buffalo Sauce",
+        "steps": [
+          "Mix: 3 tbsp Frank's RedHot (or hot sauce), 2 tbsp melted butter, splash of white vinegar.",
+          "Classic American heat. Best with: chicken pizza, American-style."
+        ]
+      },
+      {
+        "phase": "Sriracha Mayo",
+        "steps": [
+          "Whisk: 4 tbsp mayonnaise, 1-2 tbsp sriracha, squeeze of lime.",
+          "Adjust sriracha to your heat preference. Best with: Asian-inspired toppings."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Make 2-3 sauces at once and keep them in small ramekins on the table for a proper pizza night experience.",
+      "Chimichurri and pesto both keep well in the fridge for a week \u2014 make extra.",
+      "Hot honey doubles as a drizzle over the pizza itself, not just a dip.",
+      "The marinara dip should be cooked longer and thicker than what you'd put on pizza \u2014 it needs to stand up to repeated dipping."
+    ],
+    "added_at": "2026-06-06T16:34:14"
   }
 ]
