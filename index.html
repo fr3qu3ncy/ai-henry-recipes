@@ -17,9 +17,10 @@
   .recipe-card:hover { border-color:#2ea043; }
   .card-header { display:flex; justify-content:space-between; align-items:center; }
   .card-date { font-size:16px; color:#8b949e; }
+  .card-badges { display:flex; gap:6px; align-items:center; }
   .card-meta { font-size:14px; color:#2ea043; background:#0d1117; padding:2px 8px; border-radius:6px; }
   .card-title { font-size:20px; font-weight:600; color:#e6edf3; margin-top:6px; }
-  .card-liked { font-size:13px; color:#f77da0; margin-top:4px; display:flex; align-items:center; gap:3px; }
+  .card-liked { font-size:13px; color:#f77da0; display:flex; align-items:center; gap:3px; }
   .card-preview { font-size:17px; color:#8b949e; margin-top:4px; line-height:1.6; }
   .empty-state { text-align:center; padding:40px 20px; color:#8b949e; }
   .footer { text-align:center; margin-top:24px; padding:16px; }
@@ -41,16 +42,20 @@
 <a href="recipes/2026-06-06.html" class="recipe-card">
   <div class="card-header">
     <span class="card-date">06 Jun 2026</span>
-    <span class="card-meta">45 min, Easy</span>
+    <div class="card-badges">
+      <span class="card-liked">&#x2764; Liked</span>
+      <span class="card-meta">45 min, Easy</span>
+    </div>
   </div>
   <div class="card-title">Roasted Cherry Tomato Basil Pasta</div>
-  <div class="card-liked">&#x2764; Liked</div>
   <div class="card-preview">When you've got genuinely good cherry tomatoes, roasting them is the move. The oven concentrates their sweetness, slight...</div>
 </a>
 <a href="recipes/2026-06-04.html" class="recipe-card">
   <div class="card-header">
     <span class="card-date">04 Jun 2026</span>
-    <span class="card-meta">40 min, Easy</span>
+    <div class="card-badges">
+      <span class="card-meta">40 min, Easy</span>
+    </div>
   </div>
   <div class="card-title">Korean Gochujang Glazed Chicken Thighs</div>
   <div class="card-preview">Gochujang (Korean fermented chili paste) gives these thighs a deep, complex heat that's sweet, smoky, and garlicky all a...</div>
@@ -58,14 +63,16 @@
 <a href="recipes/2026-06-05.html" class="recipe-card">
   <div class="card-header">
     <span class="card-date">05 Jun 2026</span>
-    <span class="card-meta">30 min, Easy</span>
+    <div class="card-badges">
+      <span class="card-meta">30 min, Easy</span>
+    </div>
   </div>
   <div class="card-title">Miso Butter Ramen with Soft-Boiled Egg</div>
   <div class="card-preview">White miso and brown butter create an incredibly rich, umami-packed broth that's surprisingly quick. The technique of br...</div>
 </a>
 
 <div class="footer">
-  <span>Updated 06 June 2026 at 14:47 BST</span>
+  <span>Updated 06 June 2026 at 15:14 BST</span>
 </div>
 </div>
 </div>
