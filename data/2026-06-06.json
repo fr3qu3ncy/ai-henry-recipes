@@ -181,5 +181,103 @@
       "The marinara dip should be cooked longer and thicker than what you'd put on pizza \u2014 it needs to stand up to repeated dipping."
     ],
     "added_at": "2026-06-06T16:34:14"
+  },
+  {
+    "date": "2026-06-06",
+    "name": "Seared Salmon with Avocado-Lime Salsa, Warm Spinach & Chilli Beans",
+    "author": "Henry",
+    "why": "Vietnamese-inspired plate that's bright, fresh, and layered with gentle heat. Uses seasonal avocado and radish with crispy-skinned salmon \u2014 restaurant quality in 25 minutes.",
+    "source": "Henry's creation",
+    "cook_time": "25 min",
+    "difficulty": "Easy",
+    "serves": "2",
+    "liked": false,
+    "ingredients": [
+      "2 salmon fillets (skin-on), patted dry",
+      "Salt and black pepper",
+      "1 tbsp rapeseed or olive oil",
+      "1 tbsp butter",
+      "200g fine beans, trimmed, cut into 4cm lengths",
+      "100g baby spinach",
+      "2 spring onions, white parts only, thinly sliced",
+      "2 cloves garlic, minced",
+      "1 rocket chilli, finely sliced",
+      "1 red chilli, deseeded, finely sliced",
+      "1 tbsp fish sauce (or soy sauce)",
+      "1 tbsp olive oil",
+      "2 ripe avocados, halved, stoned, diced",
+      "2 radishes, thinly sliced",
+      "1 spring onion, finely sliced (green parts)",
+      "1 tbsp fresh mint, torn",
+      "1 tbsp fresh coriander, chopped",
+      "1 tbsp toasted sesame seeds",
+      "1 tbsp lime juice",
+      "\u00bd lime, cut into wedges for serving",
+      "\u00bd lemon, juice",
+      "1 small mango, diced (optional)",
+      "Pinch of sea salt flakes",
+      "1 ball mozzarella, torn into pieces"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Pat salmon dry, season generously with salt and pepper.",
+          "Dice avocados, toss immediately with lime juice to prevent browning.",
+          "Slice radishes into thin rounds.",
+          "Slice both chillies \u2014 rocket chilli rings for the beans, red chilli strips for the salsa.",
+          "Chop herbs, toast sesame seeds in a dry pan for 1 minute until fragrant.",
+          "If using mango, peel and dice."
+        ]
+      },
+      {
+        "phase": "Sear the salmon",
+        "steps": [
+          "Heat oil and butter in a large pan over medium-high.",
+          "Place salmon skin-side down, press gently for 10 seconds so the skin lays flat.",
+          "Cook 4-5 minutes until skin is crispy, flip, cook 2-3 minutes more.",
+          "Remove to a plate, tent loosely with foil, rest."
+        ]
+      },
+      {
+        "phase": "Cook the beans & spinach",
+        "steps": [
+          "In the same pan (keep the salmon fond!), add olive oil.",
+          "Saut\u00e9 white spring onion parts and garlic for 30 seconds until fragrant.",
+          "Add both chillies, cook 30 seconds more \u2014 the heat blooms into the oil.",
+          "Toss in fine beans, cook 2-3 minutes until tender-crisp.",
+          "Add fish sauce, season with salt and pepper.",
+          "Toss in baby spinach, cook just until wilted (30 seconds).",
+          "Remove from heat."
+        ]
+      },
+      {
+        "phase": "Build the salsa",
+        "steps": [
+          "In a bowl, combine diced avocado, radish slices, mint, coriander, and mango if using.",
+          "Sprinkle with sesame seeds and sea salt flakes.",
+          "Dress with lime juice and lemon juice, fold gently \u2014 don't mash the avocado."
+        ]
+      },
+      {
+        "phase": "Plate",
+        "steps": [
+          "Spoon warm spinach and beans as the base.",
+          "Place salmon fillet on top.",
+          "Ladle salsa generously over everything.",
+          "Scatter cheese \u2014 mozzarella will soften from the heat, feta or goat cheese will add tang.",
+          "Final squeeze of lime, extra rocket chilli rings if you want more heat."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Press the salmon gently for 10 seconds when it hits the pan \u2014 prevents curling and ensures even searing.",
+      "Bloom the chillies in hot oil before adding beans \u2014 it distributes heat evenly rather than in hot spots.",
+      "Dress avocado with acid immediately after cutting to stop oxidation.",
+      "If mozzarella feels too mild, swap for feta or goat cheese for a sharper tang that cuts through the richness.",
+      "Mango is optional but highly recommended \u2014 the sweetness balances the chilli heat beautifully.",
+      "Don't overcook the spinach \u2014 30 seconds is enough. It'll keep wilting from residual heat."
+    ],
+    "added_at": "2026-06-06T19:26:59"
   }
 ]
