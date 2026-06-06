@@ -66,5 +66,62 @@
       "If you can't find fresh ramen, thick spaghetti works fine. Just reduce cook time by 1 minute and reserve some pasta water to thin the broth."
     ],
     "added_at": "2026-06-05T18:29:00"
+  },
+  {
+    "date": "2026-06-05",
+    "name": "Grilled Peach and Burrata Salad",
+    "liked": true,
+    "servings": 4,
+    "cook_time": "10 mins",
+    "ingredients": [
+      "For Grilling:",
+      "2\u00bd lbs peaches (about 7), pitted and quartered",
+      "3 tbsp unsalted butter, melted",
+      "",
+      "For the Salad:",
+      "\u00bd cup extra-virgin olive oil",
+      "1 tbsp rice vinegar or white wine vinegar",
+      "1 tbsp fish sauce",
+      "1 tbsp finely minced fresh chives",
+      "8 oz burrata, brought to room temperature",
+      "\u00bd cup torn fresh basil",
+      "2 oz thinly sliced prosciutto, torn into pieces",
+      "Freshly ground black pepper, to taste"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Select peaches that are ripe but still firm \u2014 they should yield slightly to gentle pressure but not feel mushy. Overripe peaches will fall apart on the grill; underripe ones won't soften or sweeten properly.",
+          "Pit and quarter the peaches (cut into quarters, not halves \u2014 this exposes more surface for char and makes flipping easier).",
+          "Bring the burrata to room temperature at least 30 minutes before serving. Cold burrata won't spread and mutes its richness.",
+          "Whisk together the olive oil, rice vinegar, fish sauce, and minced chives in a small bowl. Set aside."
+        ]
+      },
+      {
+        "phase": "Grill",
+        "steps": [
+          "Set up a two-zone fire on your grill.",
+          "Charcoal: Fill a chimney starter \u00be full. Once ashed over, pour coals evenly over half the grate. Leave the other half bare.",
+          "Gas: Preheat all burners on high (~500\u00b0F) for 15 minutes. Keep one burner on high, turn off the other(s) to create an indirect zone.",
+          "Clean and oil the grate thoroughly.",
+          "Brush the cut sides of the peach quarters with melted butter.",
+          "Place peaches cut-side down on the hot zone. Cook 5\u20137 minutes until deep grill marks form.",
+          "Flip the peaches and move them to the cooler zone. Cook another 3\u20137 minutes until tender, lightly marked on the second side, and slightly translucent at the edges. Total grill time is about 10 minutes.",
+          "Transfer peaches to a plate and let them cool for a few minutes."
+        ]
+      },
+      {
+        "phase": "Assemble",
+        "steps": [
+          "Place the burrata on a large platter. Cut or tear it into 8\u201310 pieces so the creamy stracciatella center can ooze across the plate.",
+          "Arrange the warm peach quarters around and over the burrata.",
+          "Scatter the torn prosciutto and fresh basil across the top.",
+          "Drizzle the vinaigrette evenly over everything.",
+          "Finish with a generous crack of black pepper.",
+          "Serve immediately \u2014 the contrast of warm peaches, room-temp burrata, and crisp herbs is best right at assembly."
+        ]
+      }
+    ]
   }
 ]
