@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2026-06-07",
+    "name": "Harissa Chicken Traybake",
+    "why": "A one-pan Mediterranean traybake that's almost entirely hands-off \u2014 10 minutes of prep, then the oven does the work. Harissa paste (a North African chilli paste) is a game-changing ingredient you can keep in the fridge for months, and early summer's cherry tomatoes and new potatoes are at their peak right now.",
+    "source": "BBC Good Food",
+    "source_url": "https://www.bbcgoodfood.com/recipes/harissa-chicken-traybake",
+    "cook_time": "1 hr 10 min",
+    "difficulty": "Easy",
+    "serves": "4",
+    "author": "Henry",
+    "liked": false,
+    "ingredients": [
+      "4 chicken legs (drumstick + thigh portion)",
+      "4 tbsp harissa paste (rose harissa is nice)",
+      "1 whole garlic bulb, broken into separate cloves (skins on)",
+      "1 lemon, cut into wedges",
+      "400g cherry tomatoes on the vine",
+      "350g new potatoes, halved if large",
+      "50g Kalamata olives, roughly chopped",
+      "2 tbsp olive oil",
+      "Green salad to serve (optional)"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Heat oven to 190\u00b0C / 170\u00b0C fan / gas mark 5.",
+          "Score deep diagonal lines all over the chicken legs with a sharp knife \u2014 this helps the harissa penetrate the meat.",
+          "Rub the harissa paste all over the chicken legs, getting it into the scores. Season generously with salt and pepper."
+        ]
+      },
+      {
+        "phase": "Assemble",
+        "steps": [
+          "Place the harissa-coated chicken legs in a large roasting tin.",
+          "Scatter the garlic cloves (skins on) over and around the chicken \u2014 they'll roast into soft, sweet, spreadable cloves.",
+          "Squeeze the lemon wedges over the chicken, then tuck the wedges into the tin alongside the chicken.",
+          "Add the cherry tomatoes (still on the vine), halved new potatoes, and chopped olives to the tin.",
+          "Season everything with salt and pepper, drizzle over the olive oil, and give the tin a quick toss to mix everything together."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "Roast in the oven for 45 minutes to 1 hour. The chicken is done when the juices run clear and the skin is golden and crispy.",
+          "The tomatoes will burst and caramelize, the potatoes will be tender and roasted, and the garlic cloves will be soft enough to squeeze from their skins."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Transfer the chicken, potatoes, and tomatoes to plates. Spoon over any pan juices.",
+          "Squeeze the roasted garlic from its skins and dot over the dish \u2014 it's like a natural, sweet garlic butter.",
+          "Serve with a simple green salad if you like. Crusty bread is perfect for mopping up the harissa-tomato juices."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Don't peel the garlic cloves \u2014 roasting them in their skins makes them impossibly soft and sweet, and they slip right out when done. Use the roasted garlic on toast, in sandwiches, or mixed into mayo.",
+      "Keep a tube of harissa in your fridge \u2014 it lasts for months. Use it as a marinade base, stir it into tomato sauce, or mix it with yogurt for a quick dip. Rose harissa (with preserved rose) adds a lovely floral note."
+    ],
+    "added_at": "2026-06-07T17:01:39"
+  }
+]
