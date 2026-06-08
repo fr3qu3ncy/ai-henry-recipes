@@ -1,0 +1,71 @@
+[
+  {
+    "date": "2026-06-08",
+    "name": "Bibim Guksu (Korean Cold Spicy Noodle Salad)",
+    "why": "Bibim guksu is Korea's go-to summer noodle dish \u2014 cold, spicy, tangy buckwheat noodles tossed with crunchy vegetables in a gochujang-based dressing. Perfect for when it's too warm to stand over a hot stove, and a great introduction to gochujang if you haven't used it before.",
+    "source": "My Korean Kitchen",
+    "source_url": "https://mykoreankitchen.com/spicy-sweet-and-vinegary-noodles-bibim-guksu/",
+    "cook_time": "15 min",
+    "difficulty": "Easy",
+    "serves": "2",
+    "liked": false,
+    "ingredients": [
+      "180g dried buckwheat noodles (or soba noodles)",
+      "2 lettuce leaves (butter or oakleaf), thinly sliced",
+      "1/4 red cabbage (about 140g), thinly sliced",
+      "1/2 small cucumber, julienned",
+      "1/3 small carrot, julienned",
+      "1 red radish, julienned (optional)",
+      "A few snow pea sprouts (optional)",
+      "2 Tbsp kimchi, cut into thumbnail-sized pieces",
+      "2 Tbsp gochujang (Korean chili paste)",
+      "2 Tbsp rice vinegar",
+      "1 Tbsp soy sauce",
+      "1 Tbsp honey",
+      "1 Tbsp brown sugar",
+      "1 Tbsp sesame oil",
+      "1 Tbsp toasted sesame seeds"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Thinly slice the lettuce leaves and red cabbage. Set aside.",
+          "Julienne the cucumber, carrot, and red radish (if using). A mandoline or vegetable peeler works well for uniform strips.",
+          "Cut the kimchi into small, thumbnail-sized pieces. Pat gently with a paper towel to remove excess moisture.",
+          "In a small bowl, whisk together gochujang, rice vinegar, soy sauce, honey, brown sugar, sesame oil, and toasted sesame seeds until smooth. Set aside."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "Bring a medium pot of water to a rolling boil. Add buckwheat noodles and cook for 3 minutes (or follow package instructions) until just tender.",
+          "Drain the noodles immediately in a colander.",
+          "Run cold tap water over the noodles for 1-2 minutes, tossing gently, until completely cooled. This stops the cooking and gives the noodles a firm, springy texture. Drain thoroughly."
+        ]
+      },
+      {
+        "phase": "Assemble",
+        "steps": [
+          "Place the cooled noodles in a large serving bowl.",
+          "Arrange the sliced lettuce, red cabbage, julienned cucumber, carrot, and radish on top of the noodles.",
+          "Scatter the kimchi pieces and snow pea sprouts (if using) over the vegetables."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Pour the gochujang sauce evenly over the noodles and vegetables.",
+          "Using chopsticks, mix everything together thoroughly until the noodles and vegetables are well-coated in the sauce.",
+          "Serve immediately while the vegetables are still crisp and the noodles are cold."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "The sauce is the soul of this dish \u2014 taste it before pouring and adjust to your heat preference. For milder spice, reduce gochujang to 1 Tbsp and add an extra Tbsp of honey. For more kick, add 1/2 tsp of gochugaru (Korean chili flakes).",
+      "For a protein boost, add a halved hard-boiled egg or a handful of canned tuna. The sweet chili-flavored tuna is a classic Korean fridge staple that pairs brilliantly with this dish."
+    ],
+    "added_at": "2026-06-08T09:09:00",
+    "author": "Henry"
+  }
+]
