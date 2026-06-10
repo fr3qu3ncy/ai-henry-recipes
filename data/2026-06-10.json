@@ -63,5 +63,77 @@
       "For extra crunch, double-fry the chicken: fry once at 160\u00b0C, rest for 5 minutes, then fry again at 180\u00b0C for 2 minutes before glazing.",
       "Swap chicken wings for drumsticks or thigh pieces if you prefer meatier bites \u2014 just extend frying time by 3-4 minutes."
     ]
+  },
+  {
+    "date": "2026-06-10",
+    "name": "Vietnamese-Style Caramel Pork",
+    "why": "A proper step into Vietnamese cooking \u2014 sweet, sticky, and spicy pork stir-fried in a caramelised fish sauce glaze. It's a 30-minute weeknight dinner that tastes like it came from a street food stall, with a completely different flavour profile to anything you've cooked recently.",
+    "source": "BBC Good Food",
+    "source_url": "https://www.bbcgoodfood.com/recipes/vietnamese-style-caramel-pork",
+    "cook_time": "30 min",
+    "difficulty": "Easy",
+    "serves": "4",
+    "author": "Henry",
+    "ingredients": [
+      "1\u00bd tbsp groundnut oil (or vegetable oil)",
+      "500g pork shoulder steaks, cut into bite-sized chunks",
+      "2 shallots, finely chopped",
+      "1 tbsp finely grated ginger",
+      "1 red chilli, deseeded and finely chopped",
+      "75g brown sugar",
+      "1 tbsp fish sauce (plus extra to taste)",
+      "1-2 tsp chilli sauce (sriracha works well)",
+      "4 spring onions, halved and shredded lengthways",
+      "Steamed rice, to serve",
+      "Pak choi, to serve"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Cut the pork shoulder into bite-sized chunks (about 2-3cm pieces).",
+          "Finely chop the shallots.",
+          "Grate the ginger \u2014 use a microplane or the fine side of a grater.",
+          "Deseed and finely chop the red chilli.",
+          "Shred the spring onions lengthways and set aside for garnish.",
+          "If using fresh pak choi, separate the leaves and roughly chop."
+        ]
+      },
+      {
+        "phase": "Brown the Pork",
+        "steps": [
+          "Heat 1 tbsp of the groundnut oil in a wok or large frying pan over high heat.",
+          "Add the pork in a single layer \u2014 don't overcrowd, work in batches if needed.",
+          "Stir-fry for 3-4 minutes until the pork is well-browned all over. The high heat is key for a good sear.",
+          "Remove the pork with a slotted spoon and set aside on a plate."
+        ]
+      },
+      {
+        "phase": "Make the Caramel Sauce",
+        "steps": [
+          "Turn the heat down to low. Add the remaining \u00bd tbsp oil to the wok.",
+          "Stir in the shallots, ginger, and chilli. Cook gently for 2 minutes until just starting to soften \u2014 you want the aromatics to release their flavour without burning.",
+          "Add the brown sugar, fish sauce, and 200ml water. Stir everything together until the sugar dissolves.",
+          "Bring to a boil, stirring constantly.",
+          "Return the browned pork to the pan.",
+          "Increase heat and bubble vigorously for 8-10 minutes. The sauce will reduce and thicken, turning glossy and sticky as it coats the meat. Keep stirring occasionally.",
+          "Taste the sauce \u2014 add a little more fish sauce if it needs extra saltiness, and stir in the chilli sauce for heat."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Scatter the shredded spring onions over the top.",
+          "Serve immediately with steamed rice and blanched pak choi.",
+          "The rice soaks up the caramel sauce \u2014 don't skimp on it."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "The sugar-to-fish sauce ratio is the heart of this dish. If you like it sweeter, add an extra tablespoon of brown sugar. If you prefer more punch, add another splash of fish sauce. Taste and adjust \u2014 the sauce should be sweet-first with a salty umami finish.",
+      "Don't skip browning the pork first \u2014 the Maillard reaction on the pork surface gives it a deep, savoury flavour that carries through the sauce. If the pan is too small, cook in two batches rather than steaming everything at once.",
+      "Pak choi is optional if you can't find it \u2014 baby spinach, bok choy, or even just extra rice work fine. The dish is brilliant on its own."
+    ],
+    "added_at": "2026-06-10T15:44:38"
   }
 ]
