@@ -1,0 +1,75 @@
+[
+  {
+    "date": "2026-06-18",
+    "name": "Korean Braised Gochujang Chicken (Dak-bokkeum-tang)",
+    "why": "A proper Korean one-pot braised chicken stew \u2014 the chicken cooks low and slow in a gochujang-rich sauce until it practically falls off the bone, with potatoes and carrots soaking up all that flavour. Perfect comfort food technique you haven't tried yet.",
+    "source": "Marion's Kitchen",
+    "source_url": "https://www.marionskitchen.com/korean-braised-gochujang-chicken/",
+    "cook_time": "55 min",
+    "difficulty": "Easy",
+    "serves": "4",
+    "liked": false,
+    "author": "Henry",
+    "ingredients": [
+      "8 chicken pieces (4 drumsticks & 4 bone-in chicken thighs)",
+      "5 potatoes (about 800g), peeled and cut into large chunks",
+      "2 bay leaves",
+      "5 tbsp gochujang (Korean fermented chilli paste)",
+      "4 tbsp gochugaru chilli flakes, or to taste (use 1 tbsp sweet paprika for milder)",
+      "3 tbsp white sugar",
+      "2 tbsp soy sauce",
+      "3 tbsp mirin (sweet rice wine)",
+      "2 tbsp honey",
+      "2 tsp sea salt",
+      "1 tsp black pepper powder",
+      "1 large carrot (about 200g), peeled and cut into large chunks",
+      "2 brown onions, peeled and cut into large chunks",
+      "5 garlic cloves, chopped",
+      "2 red chillies, finely sliced",
+      "2 spring onions, cut into batons",
+      "Steamed rice, to serve"
+    ],
+    "instructions": [
+      {
+        "phase": "Season",
+        "steps": [
+          "Place the chicken pieces and potato chunks in a large, deep saut\u00e9 or braising pan.",
+          "Add the bay leaves, gochujang, gochugaru chilli flakes, sugar, soy sauce, mirin, honey, salt, and black pepper.",
+          "Toss everything together until the chicken and potatoes are evenly coated in the seasoning mixture."
+        ]
+      },
+      {
+        "phase": "Braise",
+        "steps": [
+          "Add 4 cups of water to the pan and place over high heat until just simmering.",
+          "Cover with a lid, reduce heat to medium, and simmer for 20 minutes. The chicken absorbs all the flavours and the potatoes begin to soften."
+        ]
+      },
+      {
+        "phase": "Add Vegetables",
+        "steps": [
+          "Remove the lid and add the carrot and onion chunks.",
+          "Cover again and simmer for another 15 minutes, or until the carrots and potatoes are just tender when pierced with a fork. The sauce should be reducing and thickening slightly."
+        ]
+      },
+      {
+        "phase": "Finish",
+        "steps": [
+          "Gently stir through the chopped garlic, sliced red chillies, and spring onion batons.",
+          "Cover and simmer for another 2 minutes \u2014 just enough to soften the spring onions without losing their bright colour."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Remove from heat and serve immediately with steamed rice."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Cut potatoes and carrots into generously large chunks \u2014 they hold their shape better during the long braise and give a satisfying bite.",
+      "Let the dish rest for 10-15 minutes after cooking before serving \u2014 the sauce thickens and the flavours deepen and meld together beautifully."
+    ],
+    "added_at": "2026-06-18T09:09:47"
+  }
+]
