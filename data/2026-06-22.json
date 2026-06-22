@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-06-22",
+    "name": "Korean Fried Chicken (Dakgangjeong)",
+    "why": "Korean fried chicken is legendary for its ultra-crispy, double-fried coating that stays crunchy even the next day. Perfect for your Korean cuisine exploration - this introduces the double-fry technique and the iconic sweet-spicy-savory glaze that makes dakgangjeong a street food icon.",
+    "source": "Maangchi",
+    "source_url": "https://www.maangchi.com/recipe/easy-dakgangjeong",
+    "cook_time": "45 min",
+    "difficulty": "Medium",
+    "serves": "4",
+    "author": "Henry",
+    "ingredients": [
+      "3.5 lbs chicken wings (about 1.6 kg), washed and drained",
+      "1/2 tsp kosher salt",
+      "1/2 tsp ground black pepper",
+      "1 tsp minced ginger",
+      "2/3 cup potato starch or corn starch",
+      "1/3 cup peanuts (optional)",
+      "4 cloves garlic, minced",
+      "3-4 large dried red chili peppers, seeded, cut into 1/3 inch pieces (optional)",
+      "1/4 cup soy sauce",
+      "1/2 cup rice syrup or corn syrup",
+      "1 tbsp white vinegar",
+      "1 tbsp mustard (optional)",
+      "1 tbsp brown sugar",
+      "1 tbsp toasted sesame seeds",
+      "Grapeseed oil (or vegetable/peanut oil) for deep frying"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Cut off the tip of each chicken wing and chop each wing in half (drumette and flat). You should have about 3 lbs of chicken, 24-26 pieces.",
+          "Put chicken in a large bowl and mix with salt, ginger, and ground black pepper by hand.",
+          "Put potato starch in a shallow bowl. Dip each wing piece in the starch one by one, squeezing to press the coating on tightly."
+        ]
+      },
+      {
+        "phase": "Make the Sauce",
+        "steps": [
+          "Heat a large non-stick skillet or wok over medium-high heat. Add 2 tbsp cooking oil, minced garlic, and dried red chili peppers.",
+          "Stir with a wooden spoon until fragrant, about 30 seconds.",
+          "Add soy sauce, rice syrup, vinegar, and mustard (if using). Stir and let it bubble for a few minutes.",
+          "Add brown sugar and continue stirring. Remove from heat and set aside."
+        ]
+      },
+      {
+        "phase": "First Fry",
+        "steps": [
+          "Pour 4 cups of cooking oil into a deep frying pan or pot. Heat over high heat for 7-8 minutes.",
+          "Test oil temperature by dipping one wing in - if the oil bubbles vigorously, it is ready.",
+          "Slide coated wings into hot oil one by one. Deep fry for 12-13 minutes, turning a few times with tongs.",
+          "Remove wings, drain on a wire rack or strainer. Turn off heat and let wings rest for a few minutes."
+        ]
+      },
+      {
+        "phase": "Second Fry",
+        "steps": [
+          "Reheat the oil to high heat again.",
+          "Fry the wings a second time for 12-15 minutes until golden brown and super crunchy through the tongs.",
+          "If your pan is small, fry in batches. If using peanuts, carefully dip them in hot oil for 15-30 seconds until light golden brown, then transfer to a small bowl."
+        ]
+      },
+      {
+        "phase": "Coat and Serve",
+        "steps": [
+          "Reheat the sauce until it bubbles.",
+          "Add the hot fried chicken and peanuts (if using) to the sauce. Mix well with a wooden spoon to coat evenly.",
+          "Transfer to a large platter. Sprinkle with toasted sesame seeds and serve immediately."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "The double-fry technique is the secret: the first fry cooks the chicken through, the second fry drives off remaining moisture for an impossibly crispy shell that stays crunchy even the next day.",
+      "Potato starch creates a lighter, crispier coating than regular flour. If you cannot find it, corn starch works well as a substitute."
+    ],
+    "added_at": "2026-06-22T09:10:37"
+  }
+]
