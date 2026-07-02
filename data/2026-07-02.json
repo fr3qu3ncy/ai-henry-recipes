@@ -1,0 +1,71 @@
+[
+  {
+    "date": "2026-07-02",
+    "name": "Dak Galbi (Korean Spicy Chicken Stir Fry)",
+    "why": "Korean dak galbi is a fiery one-pan stir-fry that packs gochujang-spiked chicken, sweet potato, rice cakes, and cabbage into a single sizzling skillet. Perfect for summer when you want bold flavour without standing over the stove.",
+    "source": "My Korean Kitchen",
+    "source_url": "https://mykoreankitchen.com/dak-galbi/",
+    "cook_time": "55 min",
+    "difficulty": "Medium",
+    "serves": "3",
+    "liked": false,
+    "author": "Henry",
+    "ingredients": [
+      "500g chicken thigh fillets, cut into bite-size pieces",
+      "1/2 sweet potato, cut into long thick sticks (like chips)",
+      "1/2 carrot, diagonally sliced",
+      "1/4 cabbage, shredded",
+      "10 leaves Korean perilla, thinly sliced (or substitute with fresh basil)",
+      "18 pieces Korean rice cakes (tteok), soaked in warm water for 10 mins",
+      "2-3 Tbsp cooking oil (rice bran or neutral oil)",
+      "3 Tbsp gochujang (Korean chili paste)",
+      "2 Tbsp rice wine (or dry sherry)",
+      "1 Tbsp gochugaru (Korean chili flakes)",
+      "1 Tbsp soy sauce",
+      "1 Tbsp raw sugar",
+      "1 Tbsp minced garlic",
+      "1 tsp minced ginger",
+      "1 tsp Korean curry powder (or regular curry powder)",
+      "1/2 onion, grated or minced",
+      "Ground black pepper, to taste"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Combine all marinade ingredients (gochujang, rice wine, gochugaru, soy sauce, sugar, garlic, ginger, curry powder, onion, black pepper) in a bowl and whisk until smooth.",
+          "Pour the marinade over the chopped chicken thighs and mix well to coat evenly.",
+          "Marinate for at least 30 minutes (4+ hours or overnight for best flavour).",
+          "While chicken marinates, prep vegetables: cut sweet potato into thick sticks, slice carrot diagonally, shred cabbage, and thinly slice perilla leaves (or basil).",
+          "If using pre-packaged rice cakes, separate them and soak in warm water for 10 minutes."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "Preheat a large skillet or cast-iron pan over medium-high heat.",
+          "Add 2-3 Tbsp cooking oil to the pan once hot.",
+          "Add all vegetables and rice cakes to the skillet, spreading them in an even layer.",
+          "Place the marinated chicken on top of the vegetables.",
+          "Cook on medium-high heat for 3-4 minutes to sear the chicken.",
+          "Reduce heat to medium-low and continue cooking for 10-15 minutes until chicken is fully cooked and vegetables are tender.",
+          "Stir frequently during cooking to prevent sticking and ensure even cooking.",
+          "Cover with a lid partway through to speed up cooking if needed."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Transfer directly from the skillet to the table \u2014 dak galbi is traditionally served in the cooking pan.",
+          "Serve with steamed white rice on the side.",
+          "Add Korean side dishes (banchan) like kimchi, pickled radish, or seasoned spinach if available."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Marinate overnight for the deepest flavour \u2014 the gochujang and curry powder penetrate the chicken beautifully with time.",
+      "Cant find Korean perilla? Fresh basil is the closest substitute and works brilliantly. Skip the rice cakes if unavailable \u2014 the dish still works without them, just add extra sweet potato.",
+      "If you like it extra saucy, add 2-3 Tbsp water during cooking to create a glossy glaze that clings to everything."
+    ]
+  }
+]
