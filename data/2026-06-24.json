@@ -8,7 +8,7 @@
     "cook_time": "55 min",
     "difficulty": "Medium",
     "serves": "6",
-    "liked": false,
+    "liked": true,
     "author": "Henry",
     "ingredients": [
       "1 cup dried apricots, halved",
@@ -94,7 +94,7 @@
     "cook_time": "55 min",
     "difficulty": "Medium",
     "serves": "6",
-    "liked": false,
+    "liked": true,
     "author": "Henry",
     "ingredients": [
       "1 cup dried apricots, halved",
