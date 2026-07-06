@@ -1,151 +1,66 @@
 [
   {
     "date": "2026-07-06",
-    "name": "Peruvian Chicken with Green Sauce (Aji Verde)",
-    "why": "Peruvian pollo a la brasa is a vibrant new cuisine territory \u2014 soy-vinegar-marinated chicken roasted to golden crispness, served with a fiery cilantro-jalape\u00f1o green sauce that's addictive on everything. The aji amarillo and aji panca pastes deliver authentic Peruvian flavor you can't replicate with standard spices.",
-    "source": "Sip and Feast",
-    "source_url": "https://www.sipandfeast.com/peruvian-chicken/",
-    "cook_time": "65 min (plus overnight marinating)",
-    "difficulty": "Medium",
-    "serves": "4",
-    "author": "Henry",
-    "ingredients": [
-      "1 small whole chicken (3.5-4 lbs), backbone removed and halved",
-      "1/4 cup olive oil, divided",
-      "1/4 cup soy sauce",
-      "1 tablespoon distilled white vinegar",
-      "2 teaspoons kosher salt",
-      "1/2 teaspoon freshly ground black pepper",
-      "1 tablespoon aji amarillo paste",
-      "1 1/2 teaspoons aji panca paste",
-      "8 cloves garlic, grated",
-      "1 packed cup cilantro leaves and thinner stems",
-      "2 large jalape\u00f1os, chopped",
-      "3/4 cup mayonnaise",
-      "1 1/2 tablespoons fresh lime juice",
-      "1 tablespoon distilled vinegar",
-      "2 cloves garlic (for green sauce)",
-      "1 teaspoon dried oregano",
-      "2 tablespoons olive oil (for green sauce)",
-      "Salt and pepper to taste (for green sauce)"
-    ],
-    "instructions": [
-      {
-        "phase": "Make the Marinade",
-        "steps": [
-          "In a bowl, whisk together 2 tablespoons olive oil, soy sauce, distilled white vinegar, kosher salt, black pepper, aji amarillo paste, aji panca paste, and grated garlic until smooth.",
-          "Remove the backbone from the chicken (or ask your butcher to spatchcock it) and split the chicken in half.",
-          "Pat the chicken dry with paper towels, then place it skin-side up in a flat baking dish.",
-          "Spread the marinade generously over the outside of the chicken AND under the skin on all sides \u2014 getting marinade under the skin is key for maximum flavor.",
-          "Cover with plastic wrap and refrigerate for at least 6 hours, but preferably overnight for the best results."
-        ]
-      },
-      {
-        "phase": "Make the Green Sauce (Aji Verde)",
-        "steps": [
-          "Place cilantro, chopped jalape\u00f1os, mayonnaise, lime juice, distilled vinegar, 2 garlic cloves, dried oregano, and 2 tablespoons olive oil into a food processor.",
-          "Blend until smooth and well combined.",
-          "Taste and season with salt and pepper as needed. For a hotter sauce, add another jalape\u00f1o and blend again."
-        ]
-      },
-      {
-        "phase": "Roast the Chicken",
-        "steps": [
-          "About 1 hour before roasting, remove the chicken from the fridge to take the chill off.",
-          "Preheat the oven to 475\u00b0F (245\u00b0C) and set the rack to the middle level.",
-          "Pat the chicken dry with paper towels to remove excess moisture \u2014 this helps the skin crisp up.",
-          "Place the chicken halves skin-side up on a wire rack set over a baking sheet or roasting pan.",
-          "Rub the remaining 2 tablespoons of olive oil all over the skin.",
-          "Roast at 475\u00b0F for 10 minutes to start browning the skin.",
-          "Reduce heat to 425\u00b0F (215\u00b0C) and continue roasting until the internal temperature at the thickest part of the breast reaches 160\u00b0F (71\u00b0C) \u2014 approximately 35 more minutes, 45 minutes total.",
-          "Use a digital thermometer for accuracy \u2014 don't guess."
-        ]
-      },
-      {
-        "phase": "Rest and Serve",
-        "steps": [
-          "Transfer the chicken to a cutting board and let it rest for 5 minutes before carving \u2014 this keeps the juices inside.",
-          "Carve the chicken into serving pieces and arrange on a platter.",
-          "Serve with the green sauce on the side for dipping.",
-          "Pair with Peruvian fries, rice and beans, or crusty bread for soaking up the sauce."
-        ]
-      }
-    ],
-    "pro_tips": [
-      "Marinate overnight \u2014 the soy sauce, vinegar, and Peruvian pastes need time to penetrate deep under the skin. This is what makes the chicken truly exceptional versus a quick roast.",
-      "The aji verde sauce is addictive on everything \u2014 don't just use it on chicken. Slather it on rice and beans, tostones, fried plantains, or even grilled vegetables.",
-      "Aji amarillo and aji panca pastes can be ordered online (Amazon, Peruvian specialty shops). If you can't find them, substitute with a mix of yellow chili paste and smoked paprika, but the authentic pastes make a real difference."
-    ],
-    "added_at": "2026-07-06T09:07:22",
-    "photo_url": "https://www.sipandfeast.com/wp-content/uploads/2026/04/peruvian-chicken-social.jpg",
-    "photo": "peruvian-chicken-with-green-sauce-aji-verde-d9abb6b6.jpg"
-  },
-  {
-    "date": "2026-07-06",
-    "name": "Creamy Garlic Shrimp Pasta",
-    "why": "20-minute weeknight winner \u2014 tender shrimp and al dente pasta in a creamy garlic sauce with roasted red peppers and zucchini. Quick, satisfying, and completely doable after a long day.",
-    "source": "House of Nash Eats",
-    "source_url": "https://houseofnasheats.com/creamy-garlic-shrimp-pasta/",
-    "photo_url": "https://houseofnasheats.com/wp-content/uploads/2020/05/creamy-garlic-shrimp-pasta-1-1.jpg",
-    "cook_time": "20 min",
+    "name": "Peach & Clotted Cream No-Churn Ice Cream",
+    "why": "Peak peach season and clotted cream no-churn is the ultimate lazy summer dessert \u2014 no ice cream machine needed. Clotted cream gives an incredibly rich custardy texture that regular double cream can't match.",
+    "cook_time": "20 min + 6 hours freeze",
     "difficulty": "Easy",
-    "serves": "4",
+    "serves": "6",
     "author": "Henry",
     "ingredients": [
-      "1/2 box bowtie pasta (farfalle)",
-      "2 tbsp salted butter",
-      "1/2 onion, chopped",
-      "6 garlic cloves, minced",
-      "1 tsp all-purpose flour",
-      "Salt & pepper to taste",
-      "1 zucchini, sliced into half circles",
-      "1/2 cup roasted red peppers",
-      "1 lb raw shrimp, peeled & deveined",
-      "1 cup heavy cream",
-      "Juice from 1/2 lemon",
-      "1/2 tsp dried oregano",
-      "1/4 tsp each dried basil, marjoram, rosemary, thyme",
-      "1/8 tsp crushed red pepper flakes (optional)",
-      "1/2 cup freshly grated Parmesan"
+      "200g clotted cream (chilled)",
+      "395g can condensed milk, at room temperature",
+      "3-4 ripe peaches, halved, stoned, and roughly chopped (~400g flesh)",
+      "2 tbsp sugar (for macerating peaches)",
+      "1 tsp vanilla extract",
+      "Pinch of salt",
+      "Juice of 1/2 lemon",
+      "Optional: extra peach slices for topping, drizzle of honey"
     ],
     "instructions": [
       {
-        "phase": "Cook Pasta",
+        "phase": "Prep the Peach Puree",
         "steps": [
-          "Boil a large pot of salted water. Cook pasta until al dente. Drain and set aside."
+          "Toss chopped peaches with 1 tbsp sugar and lemon juice, leave for 15 minutes to macerate.",
+          "Blend or mash into a rough puree \u2014 keep some texture, don't go fully smooth.",
+          "Set aside to cool if warm from macerating."
         ]
       },
       {
-        "phase": "Saut\u00e9 Aromatics",
+        "phase": "Make the Base",
         "steps": [
-          "Melt butter in a large saut\u00e9 pan over medium-high heat.",
-          "Add onion; cook 4-5 mins until soft.",
-          "Add garlic; cook 30 seconds."
+          "Whip the chilled clotted cream until soft peaks form \u2014 don't over-whip, it's already thick and will turn to butter if you push it.",
+          "In a separate bowl, stir the condensed milk, vanilla extract, and salt until smooth."
         ]
       },
       {
-        "phase": "Build the Sauce",
+        "phase": "Combine",
         "steps": [
-          "Sprinkle flour over onions. Season with salt & pepper. Cook 1 minute, stirring frequently.",
-          "Toss in zucchini and roasted red peppers. Cook a few minutes until slightly softened.",
-          "Add heavy cream, lemon juice, herbs, and shrimp. Cook ~5 minutes, stirring frequently, until shrimp turns pink.",
-          "Stir in Parmesan cheese."
+          "Gently fold the condensed milk mixture into the whipped clotted cream \u2014 just until no white streaks remain.",
+          "Fold in the peach puree, but don't overmix \u2014 leave some ribbons of peach through the base for a marbled effect."
         ]
       },
       {
-        "phase": "Combine & Serve",
+        "phase": "Freeze",
         "steps": [
-          "Remove pan from heat. Add cooked pasta and toss thoroughly to coat.",
-          "Serve immediately with extra Parmesan."
+          "Pour into a loaf tin or shallow container, press cling film directly on the surface to prevent ice crystals.",
+          "Freeze for at least 6 hours, preferably overnight.",
+          "For a proper peach swirl: dollop spoonfuls of extra peach puree on top and drag a knife through in figure-8s."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Let sit at room temperature for 5 minutes before scooping.",
+          "Top with fresh peach slices and a drizzle of honey if you have it."
         ]
       }
     ],
     "pro_tips": [
-      "Add ~1/4 cup reserved pasta water to the cream mixture for better sauce texture.",
-      "Always grate Parmesan from a block \u2014 pre-grated doesn't melt the same way.",
-      "Keep frozen peeled shrimp on hand for ultra-quick weeknight meals."
+      "Clotted cream whips faster than double cream \u2014 check it every 10 seconds once it starts thickening. The line between 'soft peaks' and 'butter' is razor-thin.",
+      "If the peach puree is very runny, drain excess liquid before folding in \u2014 too much free water means icy texture."
     ],
-    "added_at": "2026-07-06T13:17:23",
-    "photo": "creamy-garlic-shrimp-pasta-fb22b723.jpg"
+    "photo": "peach-clotted-cream-no-churn-ice-cream-gen.jpg",
+    "added_at": "2026-07-06T11:45:00"
   }
 ]
