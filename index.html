@@ -22,11 +22,9 @@
   .recipe-card { display:block; background:#161b22; border:1px solid #21262d; border-radius:10px; margin-bottom:10px; text-decoration:none; color:inherit; transition:border-color 0.2s; overflow:hidden; }
   .recipe-card.hidden { display:none; }
   .recipe-card:hover { border-color:#2ea043; }
-  .card-body { padding:16px 20px; flex:1; min-width:0; }
-  .card-photo { width:160px; min-height:100%; flex-shrink:0; }
+  .card-body { padding:16px 20px; }
+  .card-photo { width:100%; height:180px; overflow:hidden; }
   .card-photo img { width:100%; height:100%; object-fit:cover; display:block; }
-  .recipe-card.has-photo { display:flex; }
-  .recipe-card.has-photo .card-body { display:flex; flex-direction:column; justify-content:center; }
   .card-header { display:flex; justify-content:space-between; align-items:center; }
   .card-date { font-size:16px; color:#8b949e; }
   .card-time { font-size:13px; color:#484f58; }
@@ -45,7 +43,7 @@
   @media (max-width: 600px) {
     .container { width:100% !important; max-width:100% !important; }
     .header { padding:16px !important; }
-    .card-photo { width:100% !important; height:140px !important; }
+    .card-photo { height:140px !important; }
   }
 </style>
 </head>
@@ -70,9 +68,11 @@
     </div>
     <div class="card-title">Creamy Garlic Shrimp Pasta</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
-    <div class="card-preview">20-minute weeknight winner — tender shrimp and al dente pasta in a creamy garlic sauce with roasted red peppers and zucc...</div>
   </div>
 <div class="card-photo"><img src="photos/creamy-garlic-shrimp-pasta-fb22b723.jpg" alt="Creamy Garlic Shrimp Pasta" loading="lazy"></div>
+  <div class="card-body">
+    <div class="card-preview">20-minute weeknight winner — tender shrimp and al dente pasta in a creamy garlic sauce with roasted red peppers and zucc...</div>
+  </div>
 </a>
 <a href="recipes/2026-07-06-peruvian-chicken-with-green-sauce-aji-verde.html" class="recipe-card" >
   <div class="card-body">
@@ -84,6 +84,8 @@
     </div>
     <div class="card-title">Peruvian Chicken with Green Sauce (Aji Verde)</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">Peruvian pollo a la brasa is a vibrant new cuisine territory — soy-vinegar-marinated chicken roasted to golden crispness...</div>
   </div>
 </a>
@@ -97,6 +99,8 @@
     </div>
     <div class="card-title">Jjajangmyeon (Korean Black Bean Noodles)</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">Korean black bean noodles introduce a completely new technique — stir-frying fermented black bean paste (chunjang) to un...</div>
   </div>
 </a>
@@ -110,6 +114,8 @@
     </div>
     <div class="card-title">Flank Steak with Chimichurri Sauce</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">Summer grilling season is here and chimichurri — that vibrant, herb-packed Argentinian condiment — is the perfect way to...</div>
   </div>
 </a>
@@ -123,6 +129,8 @@
     </div>
     <div class="card-title">Berbere Braised Lamb Shanks (Ethiopian-Style)</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">Ethiopian berbere spice is a deep, complex blend of chilies, ginger, garlic, and warm spices — completely new territory ...</div>
   </div>
 </a>
@@ -136,6 +144,8 @@
     </div>
     <div class="card-title">Dak Galbi (Korean Spicy Chicken Stir Fry)</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">Korean dak galbi is a fiery one-pan stir-fry that packs gochujang-spiked chicken, sweet potato, rice cakes, and cabbage ...</div>
   </div>
 </a>
@@ -149,6 +159,8 @@
     </div>
     <div class="card-title">Spanish Paella with Chorizo, Chicken & Seafood</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">A proper one-pan Spanish classic that teaches the socarrat technique - that golden crispy rice crust at the bottom is pu...</div>
   </div>
 </a>
@@ -162,6 +174,8 @@
     </div>
     <div class="card-title">Nasi Goreng (Indonesian Fried Rice)</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">Indonesian fried rice is a quick, flavour-packed weeknight meal that's all about the caramelized colour and deep umami f...</div>
   </div>
 </a>
@@ -175,6 +189,8 @@
     </div>
     <div class="card-title">Fesenjan (Persian Pomegranate-Walnut Chicken Stew)</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">Persian cuisine is a rich, unexplored flavor world for Martin — sweet-sour pomegranate molasses, toasted walnuts, and sa...</div>
   </div>
 </a>
@@ -188,6 +204,8 @@
     </div>
     <div class="card-title">Korean Pork Belly Tacos with Corn Cheese</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">Korean-Mexican fusion at its best — crispy pork belly in soft tortillas topped with creamy Korean corn cheese and tangy ...</div>
   </div>
 </a>
@@ -201,6 +219,8 @@
     </div>
     <div class="card-title">Bibimbap (Korean Mixed Rice Bowl)</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">The crown jewel of Korean home cooking — a beautifully arranged rice bowl layered with individually seasoned vegetables,...</div>
   </div>
 </a>
@@ -214,6 +234,8 @@
     </div>
     <div class="card-title">Easy Homemade Ricotta Gnocchi</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">Ricotta gnocchi is 'Italian fast food' — pillowy dumplings made from scratch in 30 minutes with no potatoes, no resting,...</div>
   </div>
 </a>
@@ -227,6 +249,8 @@
     </div>
     <div class="card-title">Cold Kimchi Noodles (Bibim Guksu)</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">Korean bibim guksu is the ultimate summer dish — cold, spicy, tangy noodles that come together in 30 minutes. Perfect fo...</div>
   </div>
 </a>
@@ -241,6 +265,8 @@
     </div>
     <div class="card-title">Moroccan Chicken Tagine with Apricots</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">North African cooking is a flavor adventure Martin hasn't explored yet — warm spices, sweet apricots, and slow-braised c...</div>
   </div>
 </a>
@@ -254,6 +280,8 @@
     </div>
     <div class="card-title">Japchae (Korean Stir-Fried Glass Noodles)</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">A Korean classic that's perfect for summer — chewy sweet potato noodles tossed with tender beef, crisp vegetables, and a...</div>
   </div>
 </a>
@@ -267,6 +295,8 @@
     </div>
     <div class="card-title">Korean Fried Chicken (Dakgangjeong)</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">Korean fried chicken is legendary for its ultra-crispy, double-fried coating that stays crunchy even the next day. Perfe...</div>
   </div>
 </a>
@@ -280,6 +310,8 @@
     </div>
     <div class="card-title">Lomo Saltado (Peruvian Beef Stir Fry)</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">Lomo Saltado is a brilliant example of Chifa cuisine — the Chinese-Peruvian fusion born from 19th century Chinese immigr...</div>
   </div>
 </a>
@@ -293,6 +325,8 @@
     </div>
     <div class="card-title">Korean-Style Shakshuka with Gochujang & Kimchi</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">A brilliant fusion of Middle Eastern shakshuka with Korean flavors — gochujang, red miso, and kimchi create a deeply sav...</div>
   </div>
 </a>
@@ -306,6 +340,8 @@
     </div>
     <div class="card-title">Grilled Whole Fish with Lemongrass, Chiles and Coconut</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">Perfect summer grilling: whole fish stuffed with fragrant lemongrass, lime, and herbs, then blasted on the grill and ser...</div>
   </div>
 </a>
@@ -319,6 +355,8 @@
     </div>
     <div class="card-title">Korean Braised Gochujang Chicken (Dak-bokkeum-tang)</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">A proper Korean one-pot braised chicken stew — the chicken cooks low and slow in a gochujang-rich sauce until it practic...</div>
   </div>
 </a>
@@ -332,6 +370,8 @@
     </div>
     <div class="card-title">Japanese Meat and Potato Stew (Nikujaga)</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">A beloved Japanese home-cooking classic — beef and potatoes simmered in a sweet-savory dashi-soy broth. It's the taste o...</div>
   </div>
 </a>
@@ -345,6 +385,8 @@
     </div>
     <div class="card-title">Adjarian Khachapuri (Georgian Cheese Bread)</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">Georgia's most iconic dish — a boat-shaped bread stuffed with molten cheese, topped with a runny egg and a knob of butte...</div>
   </div>
 </a>
@@ -358,6 +400,8 @@
     </div>
     <div class="card-title">Moroccan Lamb Tagine with Apricots</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">A completely new cuisine — Moroccan. This slow-cooked lamb tagine is deeply spiced with ras el hanout, studded with swee...</div>
   </div>
 </a>
@@ -371,6 +415,8 @@
     </div>
     <div class="card-title">Laksa Noodle Soup (Malaysian Coconut Curry Noodle Soup)</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">Laksa is the iconic Malaysian spicy coconut noodle soup — an incredibly rich, fragrant, complex broth loaded with classi...</div>
   </div>
 </a>
@@ -384,6 +430,8 @@
     </div>
     <div class="card-title">Mul Naengmyeon (Korean Cold Noodle Soup)</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">Korea's iconic summer noodle soup — icy-cold beef and radish kimchi broth with chewy buckwheat noodles, topped with slic...</div>
   </div>
 </a>
@@ -397,6 +445,8 @@
     </div>
     <div class="card-title">Peruvian Chicken (Pollo a la Brasa) with Aji Verde Sauce</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">A completely new cuisine for you — Peruvian. Pollo a la Brasa is Peru's iconic roast chicken, marinated in aji amarillo ...</div>
   </div>
 </a>
@@ -410,6 +460,8 @@
     </div>
     <div class="card-title">Japanese Okonomiyaki (Savoury Cabbage Pancake)</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">A completely new technique: Japanese savoury pancakes loaded with shredded cabbage and pork belly, topped with dancing b...</div>
   </div>
 </a>
@@ -423,6 +475,8 @@
     </div>
     <div class="card-title">Chorizo, Orzo & Sweetcorn Summer Stew</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">A vibrant one-pan summer stew ready in 25 minutes — chorizo, orzo, and sweetcorn simmered together with smoked paprika a...</div>
   </div>
 </a>
@@ -436,6 +490,8 @@
     </div>
     <div class="card-title">Vietnamese-Style Caramel Pork</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">A proper step into Vietnamese cooking — sweet, sticky, and spicy pork stir-fried in a caramelised fish sauce glaze. It's...</div>
   </div>
 </a>
@@ -449,6 +505,8 @@
     </div>
     <div class="card-title">Korean Fried Chicken (Dakgangjeong)</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">You've been exploring Korean cuisine — this is the iconic crispy, sticky, gochujang-glazed chicken that defines Korean s...</div>
   </div>
 </a>
@@ -463,6 +521,8 @@
     </div>
     <div class="card-title">Sausage & Feta Ciabatta with Slow-Roasted Tomato Relish</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">A Mediterranean-meets-British comfort roll that transforms humble English sausages into something special. Slow-roasted ...</div>
   </div>
 </a>
@@ -476,6 +536,8 @@
     </div>
     <div class="card-title">Korean Fried Chicken (Dakgangjeong)</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">You've been exploring Korean cuisine, and this is the crown jewel — double-fried wings in a sticky gochujang glaze. The ...</div>
   </div>
 </a>
@@ -489,6 +551,8 @@
     </div>
     <div class="card-title">Bibim Guksu (Korean Cold Spicy Noodle Salad)</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">Bibim guksu is Korea's go-to summer noodle dish — cold, spicy, tangy buckwheat noodles tossed with crunchy vegetables in...</div>
   </div>
 </a>
@@ -502,6 +566,8 @@
     </div>
     <div class="card-title">Harissa Chicken Traybake</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">A one-pan Mediterranean traybake that's almost entirely hands-off — 10 minutes of prep, then the oven does the work. Har...</div>
   </div>
 </a>
@@ -515,6 +581,8 @@
     </div>
     <div class="card-title">Seared Salmon with Avocado-Lime Salsa, Warm Spinach & Chilli Beans</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">Vietnamese-inspired plate that's bright, fresh, and layered with gentle heat. Uses seasonal avocado and radish with cris...</div>
   </div>
 </a>
@@ -529,6 +597,8 @@
     </div>
     <div class="card-title">Pizza Dipping Sauces Collection</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">A great dipping sauce elevates homemade pizza from nice to proper thing. These range from classic to adventurous — all q...</div>
   </div>
 </a>
@@ -543,6 +613,8 @@
     </div>
     <div class="card-title">Roasted Cherry Tomato Basil Pasta</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">When you've got genuinely good cherry tomatoes, roasting them is the move. The oven concentrates their sweetness, slight...</div>
   </div>
 </a>
@@ -557,6 +629,8 @@
     </div>
     <div class="card-title">Miso Butter Ramen with Soft-Boiled Egg</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">White miso and brown butter create an incredibly rich, umami-packed broth that's surprisingly quick. The technique of br...</div>
   </div>
 </a>
@@ -571,6 +645,8 @@
     </div>
     <div class="card-title">Grilled Peach and Burrata Salad</div>
     <div class="card-author"><span class="card-author-badge mart">Mart</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">Grilled peaches bring caramelised sweetness to a salad that balances rich burrata, salty prosciutto and bright herbs.</div>
   </div>
 </a>
@@ -585,12 +661,14 @@
     </div>
     <div class="card-title">Creamy Corn Miso Pasta</div>
     <div class="card-author"><span class="card-author-badge mart">Mart</span></div>
+  </div>
+  <div class="card-body">
     <div class="card-preview">Summer corn at its peak, turned into a silky pasta sauce with white miso and a touch of gochugaru heat. The corn milk sc...</div>
   </div>
 </a>
 
 <div class="footer">
-  <span>Updated 06 July 2026 at 13:18 BST</span>
+  <span>Updated 06 July 2026 at 13:45 BST</span>
 </div>
 </div>
 </div>
