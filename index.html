@@ -23,8 +23,14 @@
   .recipe-card.hidden { display:none; }
   .recipe-card:hover { border-color:#2ea043; }
   .card-body { padding:16px 20px; }
-  .card-photo { width:100%; height:180px; overflow:hidden; }
+  .card-photo { width:100%; height:180px; overflow:hidden; flex-shrink:0; }
   .card-photo img { width:100%; height:100%; object-fit:cover; display:block; }
+  /* Desktop: side-by-side for cards with photos */
+  @media (min-width: 601px) {
+    .recipe-card.has-photo { display:flex; }
+    .recipe-card.has-photo .card-body { flex:1; min-width:0; display:flex; flex-direction:column; justify-content:center; }
+    .recipe-card.has-photo .card-photo { width:200px; height:auto; min-height:100%; }
+  }
   .card-header { display:flex; justify-content:space-between; align-items:center; }
   .card-date { font-size:16px; color:#8b949e; }
   .card-time { font-size:13px; color:#484f58; }
@@ -668,7 +674,7 @@
 </a>
 
 <div class="footer">
-  <span>Updated 06 July 2026 at 13:45 BST</span>
+  <span>Updated 06 July 2026 at 13:54 BST</span>
 </div>
 </div>
 </div>
