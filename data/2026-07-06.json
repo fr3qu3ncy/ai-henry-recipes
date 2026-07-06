@@ -77,5 +77,72 @@
       "Aji amarillo and aji panca pastes can be ordered online (Amazon, Peruvian specialty shops). If you can't find them, substitute with a mix of yellow chili paste and smoked paprika, but the authentic pastes make a real difference."
     ],
     "added_at": "2026-07-06T09:07:22"
+  },
+  {
+    "date": "2026-07-06",
+    "name": "Creamy Garlic Shrimp Pasta",
+    "why": "20-minute weeknight winner \u2014 tender shrimp and al dente pasta in a creamy garlic sauce with roasted red peppers and zucchini. Quick, satisfying, and completely doable after a long day.",
+    "source": "House of Nash Eats",
+    "source_url": "https://houseofnasheats.com/creamy-garlic-shrimp-pasta/",
+    "photo_url": "https://houseofnasheats.com/wp-content/uploads/2020/05/creamy-garlic-shrimp-pasta-1-1.jpg",
+    "cook_time": "20 min",
+    "difficulty": "Easy",
+    "serves": "4",
+    "author": "Henry",
+    "ingredients": [
+      "1/2 box bowtie pasta (farfalle)",
+      "2 tbsp salted butter",
+      "1/2 onion, chopped",
+      "6 garlic cloves, minced",
+      "1 tsp all-purpose flour",
+      "Salt & pepper to taste",
+      "1 zucchini, sliced into half circles",
+      "1/2 cup roasted red peppers",
+      "1 lb raw shrimp, peeled & deveined",
+      "1 cup heavy cream",
+      "Juice from 1/2 lemon",
+      "1/2 tsp dried oregano",
+      "1/4 tsp each dried basil, marjoram, rosemary, thyme",
+      "1/8 tsp crushed red pepper flakes (optional)",
+      "1/2 cup freshly grated Parmesan"
+    ],
+    "instructions": [
+      {
+        "phase": "Cook Pasta",
+        "steps": [
+          "Boil a large pot of salted water. Cook pasta until al dente. Drain and set aside."
+        ]
+      },
+      {
+        "phase": "Saut\u00e9 Aromatics",
+        "steps": [
+          "Melt butter in a large saut\u00e9 pan over medium-high heat.",
+          "Add onion; cook 4-5 mins until soft.",
+          "Add garlic; cook 30 seconds."
+        ]
+      },
+      {
+        "phase": "Build the Sauce",
+        "steps": [
+          "Sprinkle flour over onions. Season with salt & pepper. Cook 1 minute, stirring frequently.",
+          "Toss in zucchini and roasted red peppers. Cook a few minutes until slightly softened.",
+          "Add heavy cream, lemon juice, herbs, and shrimp. Cook ~5 minutes, stirring frequently, until shrimp turns pink.",
+          "Stir in Parmesan cheese."
+        ]
+      },
+      {
+        "phase": "Combine & Serve",
+        "steps": [
+          "Remove pan from heat. Add cooked pasta and toss thoroughly to coat.",
+          "Serve immediately with extra Parmesan."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Add ~1/4 cup reserved pasta water to the cream mixture for better sauce texture.",
+      "Always grate Parmesan from a block \u2014 pre-grated doesn't melt the same way.",
+      "Keep frozen peeled shrimp on hand for ultra-quick weeknight meals."
+    ],
+    "added_at": "2026-07-06T13:17:23"
   }
 ]
