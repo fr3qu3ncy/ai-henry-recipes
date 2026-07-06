@@ -77,5 +77,25 @@
       "Aji amarillo and aji panca pastes can be ordered online (Amazon, Peruvian specialty shops). If you can't find them, substitute with a mix of yellow chili paste and smoked paprika, but the authentic pastes make a real difference."
     ],
     "added_at": "2026-07-06T09:07:22"
+  },
+  {
+    "date": "2026-07-06",
+    "name": "Test Photo Recipe",
+    "why": "Testing photo display on index cards.",
+    "photo_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400",
+    "serves": "2",
+    "author": "Henry",
+    "ingredients": [
+      "test ingredient"
+    ],
+    "instructions": [
+      {
+        "phase": "Test",
+        "steps": [
+          "Do nothing"
+        ]
+      }
+    ],
+    "added_at": "2026-07-06T12:19:30"
   }
 ]
