@@ -8,7 +8,6 @@
     "photo_url": "https://www.oliveandmango.com/images/uploads/2022_07_18_lomo_saltado_1.jpg",
     "cook_time": "25 min",
     "difficulty": "Easy",
-    "servings": "4",
     "author": "Henry",
     "ingredients": [
       "1 lb sirloin steak, sliced against the grain into 1/4-inch strips",
@@ -88,6 +87,7 @@
       "Aji amarillo paste is available at Latin American grocery stores or online (Amazon). If you can't find it, a mix of yellow bell pepper + serrano pepper works, or skip it \u2014 the dish will still be delicious."
     ],
     "added_at": "2026-07-11T09:17:10.875450",
-    "photo": "lomo-saltado-peruvian-beef-stir-fry-656776c9.jpg"
+    "photo": "lomo-saltado-peruvian-beef-stir-fry-656776c9.jpg",
+    "serves": "4"
   }
 ]

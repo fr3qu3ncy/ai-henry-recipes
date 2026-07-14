@@ -8,7 +8,6 @@
     "photo_url": "https://cookingwithayeh.com/wp-content/uploads/2025/03/Kuku-Sabzi-SQ-4.jpg",
     "cook_time": "40 min",
     "difficulty": "Medium",
-    "servings": "4-6",
     "author": "Henry",
     "ingredients": [
       "4 large eggs",
@@ -69,6 +68,7 @@
       "Don't skip the resting time after cooking \u2014 slicing too soon will cause the kuku to fall apart. It's also delicious cold, making it great for meal prep."
     ],
     "added_at": "2026-07-09T09:40:34",
-    "photo": "kuku-sabzi-persian-herb-frittata-7a8d25ee.jpg"
+    "photo": "kuku-sabzi-persian-herb-frittata-7a8d25ee.jpg",
+    "serves": "4-6"
   }
 ]

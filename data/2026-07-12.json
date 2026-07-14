@@ -8,7 +8,6 @@
     "photo_url": "https://www.recipetineats.com/tachyon/2016/08/Paella-8.jpg",
     "cook_time": "45 min",
     "difficulty": "Medium",
-    "servings": "4",
     "author": "Henry",
     "ingredients": [
       "1 \u2013 2 tbsp olive oil",
@@ -86,6 +85,7 @@
       "Bomba rice is ideal but hard to find outside specialty stores. Substitute with any short-grain rice (Arborio or even Japanese sushi rice) \u2014 the dish will still be delicious."
     ],
     "added_at": "2026-07-12T09:15:15",
-    "photo": "spanish-paella-mixed-seafood-chicken-7a5bf367.jpg"
+    "photo": "spanish-paella-mixed-seafood-chicken-7a5bf367.jpg",
+    "serves": "4"
   }
 ]
