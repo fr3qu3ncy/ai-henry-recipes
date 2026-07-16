@@ -1,0 +1,76 @@
+[
+  {
+    "date": "2026-07-16",
+    "name": "Bulgogi Tacos (Korean-Mexican Fusion)",
+    "why": "Korean-Mexican fusion is having a moment, and this recipe uses an Asian pear in the bulgogi marinade \u2014 a technique Martin will appreciate. Quick 10-minute cook time after marinating, perfect for a summer weeknight.",
+    "source": "The Woks of Life",
+    "source_url": "https://thewoksoflife.com/bulgogi-tacos/",
+    "photo_url": "https://thewoksoflife.com/wp-content/uploads/2017/03/bulgogi-tacos-3-e1489278735512.jpg",
+    "cook_time": "10 min (+ 2.5 hrs marinating)",
+    "difficulty": "Easy",
+    "serves": "6",
+    "liked": false,
+    "author": "Henry",
+    "ingredients": [
+      "1 small Asian pear (for the marinade \u2014 it tenderizes and adds natural sweetness)",
+      "\u00bd small onion",
+      "4 cloves garlic",
+      "1-inch piece fresh ginger",
+      "2\u00bd tablespoons soy sauce",
+      "2 tablespoons brown sugar",
+      "\u215b teaspoon ground black pepper",
+      "1 tablespoon sesame oil",
+      "1\u00bd lbs tender beef (top sirloin, thinly sliced against the grain)",
+      "Vegetable oil (for frying)",
+      "Corn tortillas",
+      "1 cup shredded cabbage",
+      "Kimchi, chopped",
+      "Fresh cilantro, chopped",
+      "Sour cream",
+      "Queso fresco, crumbled",
+      "Lime wedges, for serving"
+    ],
+    "instructions": [
+      {
+        "phase": "Marinate",
+        "steps": [
+          "In a food processor, combine the Asian pear, onion, garlic, ginger, soy sauce, brown sugar, black pepper, and sesame oil. Blend until smooth \u2014 this is your bulgogi marinade.",
+          "Add the thinly sliced beef to the marinade, tossing to coat every piece evenly.",
+          "Cover and refrigerate for at least 2 hours, or overnight for maximum flavor. The longer it sits, the more tender and flavorful the beef will be."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "Heat a cast iron skillet over high heat until searing hot.",
+          "Add 2 tablespoons of vegetable oil to the skillet.",
+          "Lay the marinated beef in a single layer \u2014 do not overcrowd the pan. Cook in about 3 batches.",
+          "Fry until the beef is crisp and caramelized on one side, about 1-2 minutes.",
+          "Flip and fry the other side for another 1-2 minutes until done.",
+          "Transfer cooked beef to a plate and repeat with remaining batches."
+        ]
+      },
+      {
+        "phase": "Toast Tortillas",
+        "steps": [
+          "Toast the corn tortillas directly over a gas flame or in a dry skillet until warm and slightly charred \u2014 about 30 seconds per side."
+        ]
+      },
+      {
+        "phase": "Assemble",
+        "steps": [
+          "Layer shredded cabbage on each warm tortilla.",
+          "Top with the cooked bulgogi beef.",
+          "Add chopped kimchi, fresh cilantro, a dollop of sour cream, and crumbled queso fresco.",
+          "Squeeze fresh lime juice over the top and serve immediately."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "The Asian pear in the marinade is non-negotiable \u2014 it contains natural enzymes (bromelain) that tenderize the meat while adding subtle sweetness. If unavailable, pineapple works as a substitute.",
+      "For extra crispy beef, pat the marinated beef dry with paper towels before searing. Moisture is the enemy of the Maillard reaction."
+    ],
+    "added_at": "2026-07-16T09:18:12.039576",
+    "photo": "bulgogi-tacos-korean-mexican-fusion-b425d51d.jpg"
+  }
+]
