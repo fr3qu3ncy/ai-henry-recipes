@@ -1,79 +1,72 @@
 [
   {
     "date": "2026-07-17",
-    "name": "Filipino Chicken Adobo",
-    "why": "The Philippines' national dish \u2014 chicken braised in soy sauce, vinegar, garlic, and bay leaves until deeply savory and tender. A completely new cuisine for Martin, with a unique two-stage braising technique (pan-fry then simmer) that builds layers of flavor. Quick 50-minute cook after marinating, perfect for a weeknight.",
-    "source": "Panlasang Pinoy",
-    "source_url": "https://panlasangpinoy.com/filipino-chicken-adobo-recipe/",
-    "photo_url": "https://panlasangpinoy.com/wp-content/uploads/2026/05/Panlasang-Pinoy-Chicken-Adobo.jpg",
-    "cook_time": "50 min (+ 1 hr marinating)",
+    "name": "Nutella & Chocolate No-Churn Ice Cream",
+    "why": "Same no-churn technique as the peach version \u2014 clotted cream and condensed milk give an incredibly rich custardy base without a machine. Nutella as the flavour base, white chocolate chunks throughout, dark chocolate shavings on top for sharp contrast.",
+    "cook_time": "20 min + 6 hours freeze",
     "difficulty": "Easy",
-    "serves": "4",
+    "serves": "6",
     "author": "Henry",
     "ingredients": [
-      "2 lbs chicken thighs and drumsticks, cut into serving pieces (bone-in, skin-on for best results)",
-      "3 dried bay leaves",
-      "4 tablespoons soy sauce",
-      "4\u00bd tablespoons white vinegar (cane vinegar if available)",
-      "10 cloves garlic, crushed",
-      "1\u00bd cups water",
-      "4 tablespoons cooking oil (vegetable or canola)",
-      "1 teaspoon sugar",
-      "1 teaspoon whole peppercorns",
-      "Salt to taste"
+      "200g clotted cream (chilled)",
+      "395g can condensed milk, at room temperature",
+      "200g Nutella",
+      "1 tsp vanilla extract",
+      "Pinch of salt",
+      "100g white chocolate, chopped into small chunks (~0.5-1cm pieces)",
+      "50g dark chocolate (70%+), shaved or roughly chopped for topping",
+      "Optional: pinch of sea salt flakes for finishing"
     ],
     "instructions": [
       {
-        "phase": "Marinate",
+        "phase": "Prep the Nutella Base",
         "steps": [
-          "Crush the 10 garlic cloves using a mortar and pestle \u2014 this releases more flavor than mincing with a knife.",
-          "Combine the chicken pieces, 4 tablespoons soy sauce, and crushed garlic in a large bowl. Mix well to coat every piece.",
-          "Cover and refrigerate for at least 1 hour. The longer you marinate, the deeper the flavor \u2014 overnight is ideal."
+          "Warm the Nutella gently in a bowl over hot water or 10 seconds in the microwave until pourable and silky \u2014 don't overheat, just enough to flow easily.",
+          "Let it cool to room temperature so it doesn't melt the cream when folded in."
         ]
       },
       {
-        "phase": "Pan-Fry",
+        "phase": "Make the Base",
         "steps": [
-          "Separate the chicken from the marinade \u2014 set the garlic and soy sauce marinade aside in a small bowl.",
-          "Heat a heavy-bottomed pot over medium-high heat. Pour in 3 tablespoons of cooking oil.",
-          "Once the oil is hot, add the marinated chicken in a single layer. Pan-fry for 2 minutes per side until lightly browned.",
-          "Remove the chicken from the pot and set aside on a plate."
+          "Whip the chilled clotted cream until soft peaks form \u2014 check every 10 seconds once it starts thickening, the line between peaks and butter is razor-thin.",
+          "In a separate bowl, stir the condensed milk, vanilla extract, and salt until smooth."
         ]
       },
       {
-        "phase": "Simmer",
+        "phase": "Combine",
         "steps": [
-          "Pour the remaining 1 tablespoon of cooking oil into the same pot.",
-          "Add the reserved garlic from the marinade and saut\u00e9 until it starts to turn golden brown \u2014 about 1 minute.",
-          "Return the chicken to the pot.",
-          "Pour in the reserved marinade, add the whole peppercorns and dried bay leaves.",
-          "Pour in 1\u00bd cups water and bring to a boil.",
-          "Cover the pot, reduce heat to medium-low, and simmer for 30 minutes until the chicken is tender."
+          "Gently fold the condensed milk mixture into the whipped clotted cream \u2014 just until no white streaks remain.",
+          "Fold in the warm Nutella, but don't overmix \u2014 leave ribbons of hazelnut through the base for a marbled effect."
         ]
       },
       {
-        "phase": "Finish with Vinegar",
+        "phase": "Add the White Chocolate",
         "steps": [
-          "Pour in the 4\u00bd tablespoons white vinegar. Let it come to a boil WITHOUT stirring \u2014 this cooks off the harsh raw vinegar flavor while preserving the tang.",
-          "Once it boils, stir gently and continue simmering for 15 more minutes.",
-          "Add 1 teaspoon sugar and salt to taste. Stir once, then turn off the heat.",
-          "Let the adobo rest covered for 5 minutes \u2014 the sauce will thicken slightly as it cools."
+          "Fold in the white chocolate chunks gently \u2014 just enough to distribute them evenly. They'll soften slightly in the creamy base and give a nice bite when frozen."
+        ]
+      },
+      {
+        "phase": "Freeze",
+        "steps": [
+          "Pour into a loaf tin or shallow container, press cling film directly on the surface to prevent ice crystals.",
+          "Freeze for at least 6 hours, preferably overnight."
         ]
       },
       {
         "phase": "Serve",
         "steps": [
-          "Transfer the chicken to a serving plate, spooning the sauce and any garlic pieces over the top.",
-          "Serve hot with steamed white rice \u2014 the sauce is meant to be poured over the rice.",
-          "The dish tastes even better the next day as the flavors meld. Refrigerate leftovers for up to 4 days."
+          "Let sit at room temperature for 5 minutes before scooping.",
+          "Top generously with the dark chocolate shavings \u2014 the contrast between the sweet Nutella-white chocolate base and the bitter dark chocolate on top is the key move here.",
+          "Finish with a pinch of sea salt if you've got it."
         ]
       }
     ],
     "pro_tips": [
-      "The key technique: add vinegar LATE, not at the start. Adding it after the chicken is tender preserves the bright tang without it cooking off completely. Add it too early and you lose the signature bite that defines authentic adobo.",
-      "Dark meat is essential \u2014 thighs and drumsticks stay moist through the long simmer. If using boneless thighs, reduce simmer time to 20 minutes. Chicken breast will dry out."
+      "Clotted cream whips faster than double cream \u2014 don't walk away from it.",
+      "If the Nutella is too thick even after warming, thin it with a teaspoon of hot water \u2014 just enough to make it pourable.",
+      "The white chocolate chunks should be small enough to get in every spoonful but big enough to still feel like a distinct bite. Aim for pea-sized pieces.",
+      "Dark chocolate shavings work better than chunks on top \u2014 use a veg peeler on a bar for proper curls."
     ],
-    "added_at": "2026-07-17T09:07:37.773628",
-    "photo": "filipino-chicken-adobo-6ba54040.jpg"
+    "added_at": "2026-07-17T12:00:00"
   }
 ]

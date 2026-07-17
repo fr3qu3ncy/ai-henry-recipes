@@ -62,22 +62,21 @@
   <div class="recipe-count">50 recipes collected</div>
   <div class="filter-bar">
     <button class="filter-btn" id="filterLiked" onclick="toggleLikedFilter()">&#x2764; Show Liked Only</button>
-    <span class="filter-count" id="filterCount"><span>7</span> liked</span>
+    <span class="filter-count" id="filterCount"><span>8</span> liked</span>
   </div></div>
-<a href="recipes/2026-07-17-filipino-chicken-adobo.html" class="recipe-card has-photo" >
+<a href="recipes/2026-07-17-nutella-chocolate-no-churn-ice-cream.html" class="recipe-card" >
   <div class="card-body">
     <div class="card-header">
-      <span class="card-date">17 Jul 2026</span>
+      <span class="card-date">17 Jul 2026 <span class="card-time">12:00</span></span>
       <div class="card-badges">
-        <span class="card-meta">50 min (+ 1 hr marinating), Easy</span>
+        <span class="card-meta">20 min + 6 hours freeze, Easy</span>
       </div>
     </div>
-    <div class="card-title">Filipino Chicken Adobo</div>
+    <div class="card-title">Nutella & Chocolate No-Churn Ice Cream</div>
     <div class="card-author"><span class="card-author-badge henry">Henry</span></div>
   </div>
-<div class="card-photo"><img src="photos/filipino-chicken-adobo-6ba54040.jpg" alt="Filipino Chicken Adobo" loading="lazy"></div>
   <div class="card-body">
-    <div class="card-preview">The Philippines' national dish — chicken braised in soy sauce, vinegar, garlic, and bay leaves until deeply savory and t...</div>
+    <div class="card-preview">Same no-churn technique as the peach version — clotted cream and condensed milk give an incredibly rich custardy base wi...</div>
   </div>
 </a>
 <a href="recipes/2026-07-16-bulgogi-tacos-korean-mexican-fusion.html" class="recipe-card has-photo" >
@@ -240,11 +239,12 @@
     <div class="card-preview">Korean-inspired crispy chicken with a sweet-spicy gochujang glaze. The velveting technique (baking soda + cornstarch) gi...</div>
   </div>
 </a>
-<a href="recipes/2026-07-06-peach-clotted-cream-no-churn-ice-cream.html" class="recipe-card has-photo" >
+<a href="recipes/2026-07-06-peach-clotted-cream-no-churn-ice-cream.html" class="recipe-card has-photo" data-liked="true">
   <div class="card-body">
     <div class="card-header">
       <span class="card-date">06 Jul 2026 <span class="card-time">11:45</span></span>
       <div class="card-badges">
+        <span class="card-liked">&#x2764; Liked</span>
         <span class="card-meta">20 min + 6 hours freeze, Easy</span>
       </div>
     </div>
@@ -873,7 +873,7 @@
 </a>
 
 <div class="footer">
-  <span>Updated 17 July 2026 at 09:07 BST</span>
+  <span>Updated 17 July 2026 at 17:51 BST</span>
 </div>
 </div>
 </div>
@@ -897,7 +897,7 @@ function toggleLikedFilter(){
     countEl.innerHTML='<span>'+shown+'</span> shown';
   } else {
     btn.innerHTML='&#x2764; Show Liked Only';
-    countEl.innerHTML='<span>7</span> liked';
+    countEl.innerHTML='<span>8</span> liked';
   }
 }
 </script>
