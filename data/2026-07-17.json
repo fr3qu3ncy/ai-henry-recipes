@@ -2,7 +2,7 @@
   {
     "date": "2026-07-17",
     "name": "Nutella & Chocolate No-Churn Ice Cream",
-    "why": "Same no-churn technique as the peach version \u2014 clotted cream and condensed milk give an incredibly rich custardy base without a machine. Nutella as the flavour base, white chocolate chunks throughout, dark chocolate shavings on top for sharp contrast.",
+    "why": "Same no-churn technique as the peach version — clotted cream and condensed milk give an incredibly rich custardy base without a machine. Nutella as the flavour base, white chocolate chunks throughout, dark chocolate shavings on top for sharp contrast.",
     "cook_time": "20 min + 6 hours freeze",
     "difficulty": "Easy",
     "serves": "6",
@@ -19,30 +19,31 @@
     ],
     "instructions": [
       {
-        "phase": "Prep the Nutella Base",
+        "phase": "Prep the Nutella",
         "steps": [
-          "Warm the Nutella gently in a bowl over hot water or 10 seconds in the microwave until pourable and silky \u2014 don't overheat, just enough to flow easily.",
-          "Let it cool to room temperature so it doesn't melt the cream when folded in."
+          "If the Nutella is thick (on cooler days), warm it gently in a bowl over hot water or 10 seconds in the microwave until pourable and silky — don't overheat, just enough to flow easily. On warmer days it'll be fine as-is.",
+          "If warmed, let it cool slightly so it doesn't melt the cream when folded in."
         ]
       },
       {
         "phase": "Make the Base",
         "steps": [
-          "Whip the chilled clotted cream until soft peaks form \u2014 check every 10 seconds once it starts thickening, the line between peaks and butter is razor-thin.",
-          "In a separate bowl, stir the condensed milk, vanilla extract, and salt until smooth."
+          "In a separate bowl, stir the condensed milk, vanilla extract, and salt until smooth.",
+          "UK clotted cream is thick enough to use straight from the tub — no whipping needed."
         ]
       },
       {
         "phase": "Combine",
         "steps": [
-          "Gently fold the condensed milk mixture into the whipped clotted cream \u2014 just until no white streaks remain.",
-          "Fold in the warm Nutella, but don't overmix \u2014 leave ribbons of hazelnut through the base for a marbled effect."
+          "Fold the Nutella into the clotted cream first — these are the two thickest ingredients and they'll combine more easily together.",
+          "Once the Nutella and clotted cream are well folded, gently fold in the condensed milk mixture — just until no white streaks remain.",
+          "Don't overmix — leave ribbons of hazelnut through the base for a marbled effect."
         ]
       },
       {
         "phase": "Add the White Chocolate",
         "steps": [
-          "Fold in the white chocolate chunks gently \u2014 just enough to distribute them evenly. They'll soften slightly in the creamy base and give a nice bite when frozen."
+          "Fold in the white chocolate chunks gently — just enough to distribute them evenly. They'll soften slightly in the creamy base and give a nice bite when frozen."
         ]
       },
       {
@@ -56,16 +57,16 @@
         "phase": "Serve",
         "steps": [
           "Let sit at room temperature for 5 minutes before scooping.",
-          "Top generously with the dark chocolate shavings \u2014 the contrast between the sweet Nutella-white chocolate base and the bitter dark chocolate on top is the key move here.",
+          "Top generously with the dark chocolate shavings — the contrast between the sweet Nutella-white chocolate base and the bitter dark chocolate on top is the key move here.",
           "Finish with a pinch of sea salt if you've got it."
         ]
       }
     ],
     "pro_tips": [
-      "Clotted cream whips faster than double cream \u2014 don't walk away from it.",
-      "If the Nutella is too thick even after warming, thin it with a teaspoon of hot water \u2014 just enough to make it pourable.",
+      "UK clotted cream is thick enough to use straight from the tub — no whipping required.",
+      "If the Nutella is too thick even after warming, thin it with a teaspoon of hot water — just enough to make it pourable.",
       "The white chocolate chunks should be small enough to get in every spoonful but big enough to still feel like a distinct bite. Aim for pea-sized pieces.",
-      "Dark chocolate shavings work better than chunks on top \u2014 use a veg peeler on a bar for proper curls."
+      "Dark chocolate shavings work better than chunks on top — use a veg peeler on a bar for proper curls."
     ],
     "photo": "nutella-chocolate-no-churn-ice-cream-gen.jpg",
     "added_at": "2026-07-17T12:00:00"
