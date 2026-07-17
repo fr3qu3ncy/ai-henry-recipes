@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-07-17",
+    "name": "Filipino Chicken Adobo",
+    "why": "The Philippines' national dish \u2014 chicken braised in soy sauce, vinegar, garlic, and bay leaves until deeply savory and tender. A completely new cuisine for Martin, with a unique two-stage braising technique (pan-fry then simmer) that builds layers of flavor. Quick 50-minute cook after marinating, perfect for a weeknight.",
+    "source": "Panlasang Pinoy",
+    "source_url": "https://panlasangpinoy.com/filipino-chicken-adobo-recipe/",
+    "photo_url": "https://panlasangpinoy.com/wp-content/uploads/2026/05/Panlasang-Pinoy-Chicken-Adobo.jpg",
+    "cook_time": "50 min (+ 1 hr marinating)",
+    "difficulty": "Easy",
+    "serves": "4",
+    "author": "Henry",
+    "ingredients": [
+      "2 lbs chicken thighs and drumsticks, cut into serving pieces (bone-in, skin-on for best results)",
+      "3 dried bay leaves",
+      "4 tablespoons soy sauce",
+      "4\u00bd tablespoons white vinegar (cane vinegar if available)",
+      "10 cloves garlic, crushed",
+      "1\u00bd cups water",
+      "4 tablespoons cooking oil (vegetable or canola)",
+      "1 teaspoon sugar",
+      "1 teaspoon whole peppercorns",
+      "Salt to taste"
+    ],
+    "instructions": [
+      {
+        "phase": "Marinate",
+        "steps": [
+          "Crush the 10 garlic cloves using a mortar and pestle \u2014 this releases more flavor than mincing with a knife.",
+          "Combine the chicken pieces, 4 tablespoons soy sauce, and crushed garlic in a large bowl. Mix well to coat every piece.",
+          "Cover and refrigerate for at least 1 hour. The longer you marinate, the deeper the flavor \u2014 overnight is ideal."
+        ]
+      },
+      {
+        "phase": "Pan-Fry",
+        "steps": [
+          "Separate the chicken from the marinade \u2014 set the garlic and soy sauce marinade aside in a small bowl.",
+          "Heat a heavy-bottomed pot over medium-high heat. Pour in 3 tablespoons of cooking oil.",
+          "Once the oil is hot, add the marinated chicken in a single layer. Pan-fry for 2 minutes per side until lightly browned.",
+          "Remove the chicken from the pot and set aside on a plate."
+        ]
+      },
+      {
+        "phase": "Simmer",
+        "steps": [
+          "Pour the remaining 1 tablespoon of cooking oil into the same pot.",
+          "Add the reserved garlic from the marinade and saut\u00e9 until it starts to turn golden brown \u2014 about 1 minute.",
+          "Return the chicken to the pot.",
+          "Pour in the reserved marinade, add the whole peppercorns and dried bay leaves.",
+          "Pour in 1\u00bd cups water and bring to a boil.",
+          "Cover the pot, reduce heat to medium-low, and simmer for 30 minutes until the chicken is tender."
+        ]
+      },
+      {
+        "phase": "Finish with Vinegar",
+        "steps": [
+          "Pour in the 4\u00bd tablespoons white vinegar. Let it come to a boil WITHOUT stirring \u2014 this cooks off the harsh raw vinegar flavor while preserving the tang.",
+          "Once it boils, stir gently and continue simmering for 15 more minutes.",
+          "Add 1 teaspoon sugar and salt to taste. Stir once, then turn off the heat.",
+          "Let the adobo rest covered for 5 minutes \u2014 the sauce will thicken slightly as it cools."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Transfer the chicken to a serving plate, spooning the sauce and any garlic pieces over the top.",
+          "Serve hot with steamed white rice \u2014 the sauce is meant to be poured over the rice.",
+          "The dish tastes even better the next day as the flavors meld. Refrigerate leftovers for up to 4 days."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "The key technique: add vinegar LATE, not at the start. Adding it after the chicken is tender preserves the bright tang without it cooking off completely. Add it too early and you lose the signature bite that defines authentic adobo.",
+      "Dark meat is essential \u2014 thighs and drumsticks stay moist through the long simmer. If using boneless thighs, reduce simmer time to 20 minutes. Chicken breast will dry out."
+    ],
+    "added_at": "2026-07-17T09:07:37.773628",
+    "photo": "filipino-chicken-adobo-6ba54040.jpg"
+  }
+]
