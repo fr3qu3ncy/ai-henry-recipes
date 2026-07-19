@@ -1,0 +1,94 @@
+[
+  {
+    "date": "2026-07-19",
+    "name": "Korean Fried Chicken (Yangnyeom-Chikin)",
+    "why": "Double-fried to shatteringly crispy perfection and glazed in a sweet-spicy gochujang sauce \u2014 Korean fried chicken is one of the most satisfying techniques to master. Perfect for a weekend project that delivers restaurant-quality results at home.",
+    "source": "Hungry Huy",
+    "source_url": "https://www.hungryhuy.com/korean-fried-chicken/",
+    "cook_time": "45 min active + 12 hrs marinating",
+    "difficulty": "Medium",
+    "serves": "4",
+    "author": "Henry",
+    "photo_url": "https://www.hungryhuy.com/wp-content/uploads/korean-fc-w-beer.jpg",
+    "ingredients": [
+      "2 lbs (900g) skin-on, deboned chicken thighs or wings/drumsticks",
+      "1\u00bd tsp salt",
+      "\u00bd tsp black pepper",
+      "4 tbsp garlic powder",
+      "3 tbsp ginger powder",
+      "6 tbsp onion powder",
+      "\u00be cup water (add more if needed)",
+      "2 tbsp white vinegar",
+      "Neutral cooking oil (vegetable oil preferred), for deep frying",
+      "1 cup potato starch",
+      "\u00bd cup all-purpose flour",
+      "1\u00bd tsp salt (for dry batter)",
+      "4 tsp sesame oil",
+      "4 cloves garlic, minced",
+      "1 tbsp gochujang (Korean chili paste)",
+      "\u00bd cup honey",
+      "\u00bd cup ketchup",
+      "\u00bc cup soy sauce"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep \u2014 Wet Marinade",
+        "steps": [
+          "Prep the chicken: debone chicken thighs (cut into 1\u00bd\u20132 inch pieces with skin on) or cut wings in half so wing and drumstick are separate pieces.",
+          "In a bowl, combine salt, pepper, garlic powder, ginger powder, and onion powder. Whisk thoroughly to mix dry ingredients.",
+          "Add water and vinegar to the bowl. Whisk until combined \u2014 the marinade should be thick, similar to applesauce. Add water one tablespoon at a time if needed.",
+          "Place chicken in an airtight container, pour the wet marinade over top, and make sure every piece is thoroughly coated.",
+          "Refrigerate for at least 12 hours (up to 18 hours) for maximum flavor penetration."
+        ]
+      },
+      {
+        "phase": "Prep \u2014 Dry Batter",
+        "steps": [
+          "Remove chicken from the fridge about 30 minutes before frying to come to room temperature \u2014 frying cold chicken risks raw centers.",
+          "In a shallow bowl, combine potato starch, all-purpose flour, and salt for the dry coating.",
+          "Take each piece of chicken, shake off excess marinade, then coat thoroughly in the dry batter. Pat off any excess powder and place on a wire rack."
+        ]
+      },
+      {
+        "phase": "Cook \u2014 First Fry",
+        "steps": [
+          "Heat about 2 inches of vegetable oil in a heavy-bottomed pot to 375\u00b0F (190\u00b0C).",
+          "Using tongs, carefully lower chicken pieces into the oil \u2014 do not crowd the pot. Fry in batches.",
+          "Fry each batch for 2\u20134 minutes depending on size, turning occasionally so both sides brown evenly. The outside should be light golden.",
+          "Use a thermometer to verify chicken reaches 165\u00b0F (74\u00b0C) internally. Remove and place on a paper-towel-lined wire rack."
+        ]
+      },
+      {
+        "phase": "Cook \u2014 Second Fry (The Crispy Secret)",
+        "steps": [
+          "Remove any charred bits from the bottom of the pot with a small strainer.",
+          "Double-fry: return chicken to the oil in small batches and cook for another 2\u20133 minutes until the outer layer is very crispy and medium to dark golden brown.",
+          "Remove chicken and drain on paper towels over wire racks."
+        ]
+      },
+      {
+        "phase": "Cook \u2014 Sweet-Spicy Sauce",
+        "steps": [
+          "In a saucepan over medium heat, add sesame oil and minced garlic. Cook until fragrant, about 30 seconds.",
+          "Lower heat to medium-low. Add gochujang, honey, ketchup, and soy sauce.",
+          "Stir and simmer gently for about 1 minute \u2014 warm the sauce through but do not boil."
+        ]
+      },
+      {
+        "phase": "Finish \u2014 Glaze & Serve",
+        "steps": [
+          "In a large mixing bowl, add the fried chicken and pour about half the sauce over top.",
+          "Toss vigorously until every piece is evenly coated. Add more sauce if needed.",
+          "Serve immediately with daikon radish pickles, french fries, or rice. Pairs perfectly with a cold beer."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "The double-fry technique is the secret: the first fry cooks the chicken through, the second fry at higher heat creates the shatteringly crispy crust that stays crisp even after glazing.",
+      "Potato starch is non-negotiable \u2014 it creates a lighter, crispier crust than flour alone. Do not substitute with cornstarch if you can help it.",
+      "Ginger powder in the wet marinade is a Korean trick that adds warmth and depth you won't get from fresh ginger alone."
+    ],
+    "added_at": "2026-07-19T09:13:27.315485+01:00",
+    "photo": "korean-fried-chicken-yangnyeom-chikin-726b7bd0.jpg"
+  }
+]
