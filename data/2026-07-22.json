@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2026-07-22",
+    "name": "Japanese Ground Beef Curry",
+    "why": "Japanese curry (kare) is a comforting, deeply flavorful dish that's all the rage right now \u2014 trending on NYT Cooking as one of the most popular recipes of 2026. Unlike Indian curry, it uses a sweet-savory roux-based sauce that's mellow, rich, and approachable. Perfect introduction to Japanese home cooking.",
+    "source": "NYT Cooking",
+    "source_url": "https://cooking.nytimes.com/recipes/770863996-japanese-ground-beef-curry",
+    "photo_url": "https://static01.nyt.com/images/2026/02/19/multimedia/AR-easy-japanese-ground-beef-curry-fplq/AR-easy-japanese-ground-beef-curry-fplq-videoSixteenByNineJumbo1600-v2.jpg",
+    "cook_time": "50 min",
+    "difficulty": "Easy",
+    "serves": "4",
+    "author": "Henry",
+    "ingredients": [
+      "2 tablespoons sunflower, safflower or canola oil",
+      "1 pound ground beef (80/20)",
+      "Salt and freshly ground black pepper",
+      "1 large yellow onion, chopped",
+      "1 large garlic clove, minced",
+      "1 (1-inch) piece fresh ginger, peeled and minced",
+      "1 large carrot, peeled and chopped into 1/3-inch pieces",
+      "1 large russet potato, peeled and chopped into 1/2-inch pieces",
+      "1 (3.2-ounce) package Japanese curry roux bricks (preferably medium-hot S&B Golden Curry)",
+      "3/4 cup frozen peas",
+      "Cooked rice, udon, or lo mein noodles, for serving"
+    ],
+    "instructions": [
+      {
+        "phase": "Brown the Beef",
+        "steps": [
+          "Heat a large skillet over medium-high heat. Add the oil and when it shimmers, add the ground beef, a generous pinch of salt and a couple pinches of ground pepper.",
+          "Using a spatula, break up the beef and spread it into one layer on the skillet. Let cook undisturbed until browned on the bottom, about 3 minutes."
+        ]
+      },
+      {
+        "phase": "Cook the Aromatics",
+        "steps": [
+          "Stir and push the beef to one side of the skillet. Add the chopped onion to the other side and season lightly with salt.",
+          "Let cook, stirring occasionally, about 2 minutes. Add the garlic and ginger, stir all ingredients to combine and continue to cook about 3 minutes more."
+        ]
+      },
+      {
+        "phase": "Simmer the Curry",
+        "steps": [
+          "Stir in the carrots and potato and cook until the edges begin to soften, about 4 minutes.",
+          "Add the curry roux bricks and 2 cups of water. Stir, breaking up the bricks until they melt into a sauce and start bubbling.",
+          "Cover, lower heat to low, and let simmer, stirring occasionally, until the liquid has reduced into a rich, viscous sauce, about 15 minutes.",
+          "If the sauce has reduced too much (drying at the bottom), gradually add up to 1/2 cup water, a few tablespoons at a time. The sauce should be glossy and saucy, not gloopy or congealed."
+        ]
+      },
+      {
+        "phase": "Finish and Serve",
+        "steps": [
+          "Add the frozen peas and cook until bright green, 3 to 5 minutes.",
+          "Taste and adjust seasoning if needed. Serve over cooked rice, udon, or lo mein noodles.",
+          "Leftovers keep refrigerated for up to 3 days and taste even better the next day."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Japanese curry roux bricks are available at Asian grocery stores and online \u2014 S&B Golden Curry (medium-hot) is the gold standard. The bricks contain the roux, spices, and thickener all in one \u2014 no need for separate curry powder or flour.",
+      "For a richer curry, replace 1/2 cup of the water with milk or add a tablespoon of honey and a splash of soy sauce at the end. This is a classic Japanese home-cook trick."
+    ],
+    "photo": "japanese-ground-beef-curry-991af690.jpg"
+  }
+]
