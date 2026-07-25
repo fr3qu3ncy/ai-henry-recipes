@@ -1,0 +1,63 @@
+[
+  {
+    "date": "2026-07-25",
+    "name": "Spicy Tomato Carbonara",
+    "why": "A brilliant fusion of classic carbonara and amatriciana \u2014 tomato paste and crushed red pepper bring depth and heat to the silky egg-and-cheese sauce. Peak-summer pasta that's ready in 25 minutes.",
+    "source": "Food & Wine",
+    "source_url": "https://www.foodandwine.com/spicy-tomato-carbonara-11988070",
+    "photo_url": "https://www.foodandwine.com/thmb/uORBu1twtXGDgCV1Pc_xgonHIB0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Spicy-Tomato-Carbonara-FT-RECIPE0626-49e32e3f6512477680774677bfeee47b.jpg",
+    "cook_time": "25 min",
+    "difficulty": "Easy",
+    "serves": "4",
+    "author": "Henry",
+    "ingredients": [
+      "8 ounces uncooked bucatini",
+      "3 large egg yolks",
+      "3 ounces grated Parmesan cheese (about 1 cup), plus more for serving",
+      "1/2 teaspoon black pepper",
+      "4 ounces Italian pancetta, chopped (about 1/3 cup)",
+      "3 tablespoons tomato paste",
+      "1/2 teaspoon crushed red pepper",
+      "Chopped parsley and/or chives, for serving"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Bring a large pot of salted water to a boil over high heat.",
+          "Whisk egg yolks, Parmesan, and black pepper in a medium heatproof bowl. Set next to the stove."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "Add bucatini to boiling water and cook according to package instructions for al dente, about 8 minutes. Remove the pot from heat but keep pasta in the water.",
+          "While pasta cooks, heat pancetta in a large skillet over medium heat. Cook, stirring occasionally, until the fat renders and pancetta browns, about 6 minutes.",
+          "Using a slotted spoon, transfer the pancetta to a plate. Whisk 2 tablespoons of the hot pancetta fat into the egg mixture, 1 tablespoon at a time, until smooth \u2014 this tempers the eggs so they won't scramble.",
+          "Add tomato paste to the remaining pancetta drippings in the pan over medium-low. Cook, stirring occasionally, until the tomato paste darkens and thickens, about 3 minutes."
+        ]
+      },
+      {
+        "phase": "Finish",
+        "steps": [
+          "Remove the pan from heat. Using tongs, add the hot pasta directly from the pot into the tomato paste in the pan.",
+          "Add the crushed red pepper, half of the crispy pancetta, 1/4 cup pasta cooking water, and the tempered egg mixture.",
+          "Toss vigorously with tongs until a smooth, glossy sauce forms, adding more pasta water a splash at a time if the sauce seems thick."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Plate immediately. Top with remaining crispy pancetta, chopped parsley and/or chives, and extra grated Parmesan.",
+          "Serve right away \u2014 carbonara waits for no one."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Keep the skillet OFF the heat before adding the egg mixture \u2014 residual heat is enough to cook the eggs into a silky sauce without scrambling them.",
+      "Transfer pasta directly from the pot to the skillet to carry over starchy water, which is essential for emulsifying the sauce. Save extra pasta water \u2014 it's liquid gold.",
+      "Bucatini (thick hollow spaghetti) is ideal here \u2014 the hole catches the sauce. Spaghetti works fine as a substitute."
+    ],
+    "photo": "spicy-tomato-carbonara-05c8e169.jpg"
+  }
+]
