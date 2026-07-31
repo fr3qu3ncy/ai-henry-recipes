@@ -1,0 +1,75 @@
+[
+  {
+    "date": "2026-07-31",
+    "name": "Easy Bibimbap",
+    "why": "A Korean rice bowl that's perfect for Martin's Korean cuisine exploration \u2014 quick, packed with flavour, and the gochujang-miso sauce brings that addictive umami kick. Great way to experiment with Korean ingredients without a complicated recipe.",
+    "source": "BBC Good Food",
+    "source_url": "https://www.bbcgoodfood.com/recipes/cheats-bibimbap",
+    "photo_url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/cheats-bibimbap-6b960e8.jpg?resize=440,400",
+    "cook_time": "35 min",
+    "difficulty": "Easy",
+    "serves": "2",
+    "author": "Henry",
+    "ingredients": [
+      "100g thin beef steak",
+      "120g rice (short-grain or basmati)",
+      "Sunflower oil, for frying",
+      "1 carrot, cut into matchsticks",
+      "50g spinach",
+      "2 eggs",
+      "Thumb-sized piece of fresh root ginger, peeled and cut into fine matchsticks",
+      "2 tbsp gochujang (or 4 tsp sriracha + 2 tsp white miso paste as substitute)",
+      "2 tsp cider vinegar",
+      "4 tsp light soy sauce",
+      "2 tsp toasted sesame seeds, plus extra to serve",
+      "Light soy sauce, extra, to serve"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Put the steak into a bowl and add 2 tsp light soy sauce. Set aside to marinate.",
+          "Boil the rice following packet instructions.",
+          "Cut the carrot into matchsticks. Peel the ginger and cut into fine matchsticks."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "Heat 1 tsp sunflower oil in a frying pan or wok over high heat.",
+          "Add the steak (leave the soy marinade behind in the bowl). Fry quickly until well browned on the outside, about 1-2 minutes per side.",
+          "Transfer steak to a cutting board and cover with foil to rest.",
+          "In the same pan, stir-fry the carrot matchsticks for 2-3 minutes until starting to soften. Transfer to a plate.",
+          "Add the spinach to the pan and fry until just wilted, about 1 minute.",
+          "Add a little extra oil if the pan is dry, then fry the eggs to your liking (runny yolks work best).",
+          "Meanwhile, stir together the gochujang (or sriracha + miso), cider vinegar, and 4 tsp light soy sauce in a small bowl to make the sauce."
+        ]
+      },
+      {
+        "phase": "Assemble",
+        "steps": [
+          "Drain the cooked rice and pile into 2 bowls.",
+          "Slice the rested steak and arrange on top of the rice.",
+          "Add a clump of cooked carrots next to the steak, then the wilted spinach, and finally the ginger matchsticks.",
+          "Top with the fried eggs.",
+          "Scatter toasted sesame seeds over everything.",
+          "Serve the gochujang sauce on the side."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Dollop on a generous serving of the gochujang sauce.",
+          "Break into the egg yolk and stir everything together so the sauce and runny yolk mix deliciously with the vegetables and steak.",
+          "Drizzle with extra soy sauce if desired. Eat immediately while hot."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "The runny egg yolk is key \u2014 it emulsifies with the gochujang sauce to create a rich, creamy coating for everything. Don't overcook the eggs.",
+      "If you can't find gochujang, the sriracha + white miso substitute works brilliantly \u2014 the miso adds the fermented umami depth that gochujang brings."
+    ],
+    "added_at": "2026-07-31T09:08:07.940145",
+    "photo": "easy-bibimbap-447ce59b.jpg"
+  }
+]
