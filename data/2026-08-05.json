@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2026-08-05",
+    "name": "Spicy Eggplant Shakshuka",
+    "why": "A vibrant Middle Eastern-inspired skillet loaded with roasted eggplant, zucchini, and bell peppers in a spicy tomato sauce, poached with eggs. Peak summer vegetables meet smoky heat \u2014 perfect for late-August when eggplant is at its best.",
+    "source": "Natasha's Kitchen",
+    "source_url": "https://natashaskitchen.com/eggplant-shakshuka/",
+    "photo_url": "https://natashaskitchen.com/wp-content/uploads/2017/10/Spicy-Ratatouille-Brunch-Skillet-5.jpg",
+    "cook_time": "30 min",
+    "difficulty": "Easy",
+    "serves": "4",
+    "author": "Henry",
+    "ingredients": [
+      "4 Tbsp olive oil",
+      "1 medium zucchini, diced into 1/2\" cubes (about 1 1/2 cups)",
+      "1/2 large eggplant, diced into 1/2\" cubes (about 4 cups)",
+      "1 medium yellow onion, finely diced",
+      "1/2 bell pepper (red, yellow, or orange), seeded and diced",
+      "14.5 oz can diced tomatoes",
+      "8 oz tomato sauce",
+      "1/2 cup chicken broth or vegetable broth",
+      "2 large garlic cloves, pressed",
+      "2 tsp Tabasco sauce (more to taste)",
+      "1 tsp sea salt",
+      "1/2 tsp black pepper, divided",
+      "6 large eggs",
+      "1 cup fresh baby spinach leaves"
+    ],
+    "instructions": [
+      {
+        "phase": "Saut\u00e9 Vegetables",
+        "steps": [
+          "In a large, deep skillet (cast iron is ideal), heat 4 Tbsp olive oil over medium-high heat.",
+          "Once the oil is hot, add diced zucchini, eggplant, onion, and bell pepper.",
+          "Season with 1 tsp salt and 1/4 tsp black pepper.",
+          "Saut\u00e9, stirring occasionally, for 10 minutes or until vegetables are soft and lightly golden."
+        ]
+      },
+      {
+        "phase": "Build the Sauce",
+        "steps": [
+          "Add the diced tomatoes, tomato sauce, and chicken broth. Stir to combine.",
+          "Bring the mixture to a boil, then reduce to a simmer.",
+          "Add the pressed garlic cloves and 2 tsp Tabasco sauce.",
+          "Taste the sauce and add another splash of Tabasco if you prefer more heat.",
+          "Simmer on low boil for 2 minutes to let the flavors meld."
+        ]
+      },
+      {
+        "phase": "Poach the Eggs",
+        "steps": [
+          "Crack each egg into a small ramekin, then gently drop it into the sauce around the edge of the pan (6-8 eggs total).",
+          "Season the eggs lightly with salt and the remaining 1/4 tsp black pepper.",
+          "Arrange the baby spinach around the eggs, pushing leaves slightly into the sauce."
+        ]
+      },
+      {
+        "phase": "Finish & Serve",
+        "steps": [
+          "Cover the pan and simmer over low heat for 6-8 minutes.",
+          "The whites should be fully set; yolks will be runny (adjust time for firmer yolks).",
+          "Remove from heat \u2014 note that eggs will continue cooking if the lid stays on.",
+          "Serve directly from the skillet with crusty bread or a baguette for soaking up the sauce."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Eggplant absorbs oil like a sponge \u2014 salt the diced eggplant for 15 minutes and pat dry before cooking to reduce oil absorption and improve texture.",
+      "For extra richness, stir a dollop of Greek yogurt or labneh into each serving right before eating. The cool creaminess balances the spicy sauce perfectly."
+    ],
+    "added_at": "2026-08-05T09:22:24.655677",
+    "photo": "spicy-eggplant-shakshuka-0f6f8084.jpg"
+  }
+]
