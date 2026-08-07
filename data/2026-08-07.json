@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2026-08-07",
+    "name": "One Pan Jambalaya",
+    "why": "A bold Cajun one-pot wonder \u2014 smoky andouille, spicy chicken, and rice all simmered together in a single skillet. Perfect for when you want maximum flavor with minimum cleanup.",
+    "source": "Tastes Better From Scratch",
+    "source_url": "https://tastesbetterfromscratch.com/one-pan-jambalaya/",
+    "photo_url": "https://tastesbetterfromscratch.com/wp-content/uploads/2023/08/Jambalaya-1.jpg",
+    "cook_time": "55 min",
+    "difficulty": "Medium",
+    "serves": "6",
+    "author": "Henry",
+    "ingredients": [
+      "1 tbsp vegetable or canola oil",
+      "1 lb andouille sausage, cut into \u00bc inch thick slices",
+      "1\u00bd lbs boneless skinless chicken breasts, cut into bite-size pieces",
+      "2 tbsp all-purpose flour",
+      "2 tbsp butter",
+      "1 yellow or white onion, chopped",
+      "4 green onions, chopped",
+      "4 cloves garlic, finely minced",
+      "3 ribs celery, chopped",
+      "1 green bell pepper, chopped",
+      "1\u00bd tsp dried basil",
+      "1\u00bd tsp Cajun seasoning",
+      "1 tsp kosher salt",
+      "\u00bd tsp freshly ground black pepper",
+      "\u00bc tsp cayenne pepper (add more for extra heat)",
+      "1 (14.5 oz) can diced tomatoes",
+      "2\u00bd cups low-sodium chicken broth",
+      "1\u00bc cups long-grain white rice"
+    ],
+    "instructions": [
+      {
+        "phase": "Brown the Meat",
+        "steps": [
+          "In a large skillet with a fitted lid, heat oil over medium-high heat.",
+          "Add chicken pieces and cook, flipping once or twice, until browned on all sides (don't cook through). Remove to a bowl.",
+          "Add sausage slices to the same pan and cook until browned on both sides. Add to the bowl with the chicken."
+        ]
+      },
+      {
+        "phase": "Build the Base",
+        "steps": [
+          "Reduce heat to medium. Add butter and flour to the pan, stirring well and scraping up any browned bits from the bottom.",
+          "Add onion, garlic, celery, and bell peppers. Saut\u00e9 for 3 minutes until softened."
+        ]
+      },
+      {
+        "phase": "Simmer",
+        "steps": [
+          "Add dried basil, Cajun seasoning, diced tomatoes (with juices), salt, and pepper. Stir well to combine.",
+          "Pour in chicken broth and add rice. Bring to a gentle boil.",
+          "Return the chicken and sausage to the pan. Reduce heat to low, cover tightly with the lid, and cook for 20 minutes."
+        ]
+      },
+      {
+        "phase": "Rest and Serve",
+        "steps": [
+          "Remove from heat. Let rest, still covered, for 10 minutes \u2014 this is crucial for the rice to finish absorbing liquid.",
+          "Gently fluff with a fork. Rest for another 5 minutes before serving."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Don't skip the resting step \u2014 the 15 minutes of resting time is what allows the rice to finish cooking evenly without burning.",
+      "For a deeper flavor, use chicken thighs instead of breasts and add a splash of hot sauce to the broth."
+    ],
+    "added_at": "2026-08-07T09:12:23.412176",
+    "photo": "one-pan-jambalaya-daf55750.jpg"
+  }
+]
