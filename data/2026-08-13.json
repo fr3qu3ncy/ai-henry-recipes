@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2026-08-13",
+    "name": "Korean Fried Chicken (Dakgangjeong)",
+    "why": "Korean fried chicken is all about that shatteringly crisp, double-coated crunch \u2014 and this BBC Good Food recipe delivers with a sticky-sweet gochujang glaze that clings to every piece. Corn and late summer produce are in season, and this is the perfect way to use that Korean flavor profile Martin's been exploring.",
+    "source": "BBC Good Food",
+    "source_url": "https://www.bbcgoodfood.com/recipes/korean-fried-chicken",
+    "photo_url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/korean-fried-chicken-0cb444a.gif?resize=1200",
+    "cook_time": "45 min",
+    "difficulty": "Medium",
+    "serves": "4",
+    "author": "Henry",
+    "ingredients": [
+      "500g chicken wings",
+      "Salt and black pepper, to season",
+      "Large chunk of ginger, peeled and finely grated",
+      "50g cornflour",
+      "Vegetable oil, for deep frying",
+      "6 tbsp dark brown soft sugar",
+      "2 tbsp gochujang (Korean chilli paste)",
+      "2 tbsp soy sauce",
+      "2 large garlic cloves, crushed",
+      "Small piece of ginger, peeled and grated",
+      "2 tsp sesame oil",
+      "Sesame seeds, to serve",
+      "Sliced spring onions, to serve"
+    ],
+    "instructions": [
+      {
+        "phase": "Make the Sauce",
+        "steps": [
+          "Put the sugar, gochujang, soy sauce, crushed garlic, grated ginger, and sesame oil into a small saucepan.",
+          "Stir over low heat until the sugar dissolves, then simmer gently for 3-4 minutes until the sauce thickens to a syrupy consistency.",
+          "Remove from heat and set aside \u2014 the sauce will thicken slightly as it cools."
+        ]
+      },
+      {
+        "phase": "Prep the Chicken",
+        "steps": [
+          "Season the chicken wings generously with salt, black pepper, and the finely grated ginger.",
+          "Place the cornflour in a large bowl or shallow tray.",
+          "Toss the chicken wings in the cornflour until completely and evenly coated \u2014 shake off any excess."
+        ]
+      },
+      {
+        "phase": "Fry",
+        "steps": [
+          "Heat about 2cm of vegetable oil in a large, heavy-based frying pan or wok over medium-high heat (aim for around 160\u00b0C if you have a thermometer).",
+          "Carefully lower the chicken wings into the hot oil, a few at a time \u2014 don't overcrowd the pan.",
+          "Fry for 8-10 minutes, turning halfway through, until the chicken is cooked through and golden crisp.",
+          "Remove the wings with a slotted spoon and drain on kitchen paper.",
+          "Leave to cool slightly for about 2 minutes \u2014 this helps the coating set."
+        ]
+      },
+      {
+        "phase": "Glaze and Serve",
+        "steps": [
+          "Reheat the gochujang sauce gently in the saucepan over low heat until it's fluid again.",
+          "Add the crispy chicken wings to the sauce and toss until every piece is evenly coated in the sticky glaze.",
+          "Transfer to a serving bowl and scatter over sesame seeds and sliced spring onions.",
+          "Serve immediately while the coating is still crisp."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "For extra-crispy wings, double-fry them: first fry at 160\u00b0C until cooked through, cool for 5 minutes, then fry again at 190\u00b0C for 2-3 minutes until shatteringly crisp before glazing.",
+      "The gochujang level varies by brand \u2014 taste your sauce before serving and add a touch more soy or sesame oil to balance if it's too fiery. Martin prefers moderate heat that doesn't overpower the aromatics."
+    ],
+    "added_at": "2026-08-13T09:11:02.104791",
+    "photo": "korean-fried-chicken-dakgangjeong-eefe4e00.gif"
+  }
+]
