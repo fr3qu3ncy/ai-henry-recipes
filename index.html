@@ -62,7 +62,7 @@
   <div class="recipe-count">77 recipes collected</div>
   <div class="filter-bar">
     <button class="filter-btn" id="filterLiked" onclick="toggleLikedFilter()">&#x2764; Show Liked Only</button>
-    <span class="filter-count" id="filterCount"><span>9</span> liked</span>
+    <span class="filter-count" id="filterCount"><span>10</span> liked</span>
   </div></div>
 <a href="recipes/2026-08-14-sumac-blackened-salmon-with-citrus-salsa.html" class="recipe-card has-photo" >
   <div class="card-body">
@@ -241,11 +241,12 @@
     <div class="card-preview">Introduces the Chinese velveting technique — a game-changing method for ultra-tender, crispy chicken that's perfect for ...</div>
   </div>
 </a>
-<a href="recipes/2026-08-02-vietnamese-lemongrass-pork-steaks.html" class="recipe-card has-photo" >
+<a href="recipes/2026-08-02-vietnamese-lemongrass-pork-steaks.html" class="recipe-card has-photo" data-liked="true">
   <div class="card-body">
     <div class="card-header">
       <span class="card-date">02 Aug 2026</span>
       <div class="card-badges">
+        <span class="card-liked">&#x2764; Liked</span>
         <span class="card-meta">35 min, Easy</span>
       </div>
     </div>
@@ -1307,7 +1308,7 @@
 </a>
 
 <div class="footer">
-  <span>Updated 14 August 2026 at 13:49 BST</span>
+  <span>Updated 14 August 2026 at 16:39 BST</span>
 </div>
 </div>
 </div>
@@ -1331,7 +1332,7 @@ function toggleLikedFilter(){
     countEl.innerHTML='<span>'+shown+'</span> shown';
   } else {
     btn.innerHTML='&#x2764; Show Liked Only';
-    countEl.innerHTML='<span>9</span> liked';
+    countEl.innerHTML='<span>10</span> liked';
   }
 }
 </script>
