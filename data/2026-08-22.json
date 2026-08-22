@@ -1,0 +1,64 @@
+[
+  {
+    "date": "2026-08-22",
+    "name": "Smoked Haddock with Charred Courgette & Crispy New Potatoes",
+    "why": "The classic haddock, courgette and potato trio done properly: dry-chared courgette for a smoky echo of the fish, properly crispy roasted potatoes, and a lemon lemongrass butter sauce with a secret splash of fish sauce for umami depth.",
+    "cook_time": "50 min",
+    "difficulty": "Easy",
+    "serves": "2",
+    "liked": false,
+    "author": "Henry",
+    "ingredients": [
+      "2 fresh smoked haddock fillets (~400g), skin on",
+      "600g new potatoes",
+      "2 courgettes, cut into thick coins",
+      "100g butter, cubed (room temp)",
+      "1 lemongrass stalk (or 1 tsp grated fresh ginger as fallback)",
+      "2 cloves garlic",
+      "150ml dry white wine",
+      "1 lemon (zest + juice)",
+      "1 tsp fish sauce",
+      "Pinch of chilli flakes (or pinch of crushed dried chilli)",
+      "Bay leaf, olive oil, fresh thyme or dill, salt"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Bring a large pan of well-salted water to a boil for the potatoes.",
+          "Shred the lemongrass (chop off the woody end, slice thin, then mince) and grate the garlic.",
+          "Zest and juice the lemon. Chop herbs."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "Parboil the new potatoes for 5 minutes \u2014 just firm at the centre. Drain and shake the pan to rough up the edges (this is what makes them crispy).",
+          "Toss with olive oil, pile on a tray, and roast at 220\u00b0C for 25\u201330 min until deeply golden and crisp. Turn once.",
+          "While the potatoes roast: place the haddock skin-side down in a wide pan with the white wine, a splash of water, the lemon and the bay leaf. Bring to a bare simmer, cover and cook for 8 minutes. It's done when it flakes easily \u2014 don't overcook.",
+          "Heat a dry pan (no oil) until very hot. Sear the courgette coins for 1\u20132 min per side until properly charred. The dry heat gives a smoky char that mirrors the haddock."
+        ]
+      },
+      {
+        "phase": "Finish (the sauce)",
+        "steps": [
+          "In the poaching liquid (don't discard it!), melt half the butter over low heat. Soften the garlic and lemongrass for 2\u20133 minutes until fragrant \u2014 don't brown.",
+          "Add the white wine and simmer to reduce by half.",
+          "Off the heat: whisk in the remaining cold butter, lemon juice, fish sauce, chilli and the zest. Season.",
+          "Fold the flaked haddock and most of the courgette into the sauce, keeping everything warm."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Plate the crispy potatoes, top with the haddock and courgette mixture, and spoon the butter sauce over everything. Scatter with herbs and a lemon wedge."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "The dry-pan char on courgette is the whole game \u2014 wet, oily vegetables steam instead of sear. Screaming hot, no oil, short time.",
+      "The fish sauce is the secret weapon. One teaspoon tastes like 'depth' not 'fish'.",
+      "Rice instead of potatoes: steam jasmine rice (15 min) and the sauce doubles as a glaze \u2014 the lemongrass-butter over fluffy rice is very close to a lemongrass fish over rice, just milder."
+    ]
+  }
+]
