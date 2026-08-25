@@ -1,0 +1,60 @@
+[
+  {
+    "date": "2026-08-25",
+    "name": "Kimchi Jjigae (Korean Kimchi Stew)",
+    "why": "Deeply savoury Korean comfort food \u2014 mature kimchi and pork belly fry down into a fiery, umami-rich broth that's ready in one pan in under an hour. A great next step in your Korean cooking: fermentation-forward flavour with barely any effort.",
+    "source": "BBC Good Food",
+    "source_url": "https://www.bbcgoodfood.com/recipes/kimchi-jjigae",
+    "photo_url": "https://images.immediate.co.uk/production/volatile/sites/30/2024/09/KimchiJjigaeKoreanKimchiStew-0c3995f.jpg?resize=900,836",
+    "cook_time": "45 min",
+    "difficulty": "Easy",
+    "serves": "2",
+    "author": "Henry",
+    "liked": false,
+    "ingredients": [
+      "400g mature kimchi, drained (reserve 100ml brine)",
+      "1 tbsp vegetable oil",
+      "\u00bc small brown onion, finely sliced",
+      "200g pork belly, finely sliced",
+      "1\u00bd tsp gochugaru (Korean red pepper flakes)",
+      "1 tsp caster sugar",
+      "150g firm tofu, drained",
+      "800ml water",
+      "2 spring onions, finely chopped, to serve",
+      "steamed rice, to serve"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Drain the kimchi in a sieve over a measuring jug \u2014 reserve about 100ml of the brine (top up from the jar if needed), as it's a key flavouring.",
+          "Slice the tofu into 5cm squares about 1cm thick and set aside.",
+          "Finely slice the brown onion and chop the spring onions."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "Heat the vegetable oil in a large saucepan over a high heat.",
+          "Add the drained kimchi, sliced onion and pork belly, and fry for 5 mins, stirring occasionally, until the pork is golden and the kimchi starts to sizzle and brown.",
+          "Stir in the gochugaru and caster sugar, and fry for a further 2 mins until fragrant.",
+          "Pour in 800ml water and the reserved kimchi brine, then bring to a rolling boil.",
+          "Simmer uncovered over a high heat for 15 mins, until the broth has deepened in colour and the pork is cooked through."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Arrange the tofu slices over the simmering stew, cover with a lid and cook for 3-4 mins until the tofu is heated through.",
+          "Scatter over the spring onions and serve bubbling hot with steamed rice."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "The brine is liquid gold \u2014 never pour it down the sink. That's where the fermented depth lives, and it's what separates this from a plain kimchi soup.",
+      "The classic Korean upgrade: stir in a few ladles of cooked rice as it simmers to thicken the broth and mellow the heat \u2014 it turns the stew into a porridge-like dish (gukgu) that Koreans eat at dawn. A fried egg per bowl on top is also a crowd-pleaser."
+    ],
+    "added_at": "2026-08-25T21:55:25.926333",
+    "photo": "kimchi-jjigae-korean-kimchi-stew-f2a973f6.jpg"
+  }
+]
