@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2026-08-26",
+    "name": "Pork Belly Okonomiyaki (Japanese Savoury Pancakes)",
+    "why": "Late-August cabbage at its sweetest meets one of Japan's best street-food techniques \u2014 a savoury pancake that's essentially a 30-minute, one-pan frittata with a golden pork belly base. New technique, big flavour, zero fuss.",
+    "source": "BBC Good Food",
+    "source_url": "https://www.bbcgoodfood.com/recipes/easy-japanese-okonomiyaki",
+    "cook_time": "30 min",
+    "difficulty": "Easy",
+    "serves": "2",
+    "photo_url": "https://images.immediate.co.uk/production/volatile/sites/30/2022/01/Okonomiyaki-pg13-363c802-03b59be.jpg?resize=900,836",
+    "liked": false,
+    "author": "Henry",
+    "ingredients": [
+      "1 egg",
+      "60g plain flour",
+      "1 tsp vegetable bouillon powder",
+      "100ml water",
+      "200g green cabbage, finely shredded",
+      "100g cooked pork belly, thinly sliced into bite-sized pieces",
+      "1 tbsp vegetable oil (plus a little extra for basting)",
+      "1\u00bd tbsp Worcestershire sauce",
+      "1\u00bd tbsp ketchup",
+      "\u00bd tbsp caster sugar",
+      "2-4 tbsp mayonnaise, to serve",
+      "1 sheet green nori (seaweed), shredded",
+      "3 spring onions, finely sliced",
+      "katsuobushi (bonito flakes), to serve (optional)",
+      "okonomi sauce (Japanese brown sauce), to serve (optional)"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Crack the egg into a large bowl, tip in the flour, bouillon powder and 100ml water, and mix well into a smooth batter.",
+          "Stir the shredded cabbage into the batter and season well with salt and black pepper \u2014 the mix will look loose and runny, that's correct.",
+          "Whisk the Worcestershire sauce, ketchup and caster sugar in a small bowl to make a quick glaze; season lightly.",
+          "Shred the nori sheet, slice the spring onions, and get the mayo and bonito flakes ready for topping."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "Heat the oil in a small, deep frying pan or skillet (about 19cm) over medium heat.",
+          "Add the pork belly slices and fry for 4-5 minutes until golden and the fat has rendered.",
+          "Pour the cabbage batter over the pork, stir everything together, and fry for 5 minutes until dark brown underneath and semi-cooked in the middle.",
+          "Flip the pancake (a wide, flat spatula helps) and cook for a further 5 minutes until golden-brown on the other side and cooked right through."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Transfer the okonomiyaki to a plate \u2014 split in half if it's big enough, or make two smaller rounds.",
+          "Glaze with the Worcestershire-ketchup sauce, then drizzle with mayonnaise (use a skewer to zig-zag it on for that street-stall look).",
+          "Top with shredded nori, sliced spring onions and a scatter of bonito flakes if using, and serve straight away."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "The deep skillet is doing real work: with a 19cm pan and a lid, you can baste the tall edges with oil while the pancake sets, so it crisps up all the way round instead of just on the flat faces \u2014 that's the difference between home and street-stall okonomiyaki.",
+      "Okonomiyaki is the ultimate leftover vehicle \u2014 swap the pork belly for leftover roast chicken, prawns or firm tofu, and a handful of tenkasu (tempura crisps) folded into the batter adds that airy, restaurant-level crunch."
+    ],
+    "added_at": "2026-08-26T09:06:21.294951",
+    "photo": "pork-belly-okonomiyaki-japanese-savoury-pancakes-28de1dba.jpg"
+  }
+]
