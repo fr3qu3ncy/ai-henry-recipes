@@ -1,0 +1,61 @@
+[
+  {
+    "date": "2026-08-29",
+    "name": "Peruvian Ceviche",
+    "why": "Citrus-cured fish is the perfect palate reset after a week of stews and bakes - a new technique (the lemon \"cooks\" the fish raw) and a 20-minute dish that tastes like it took all afternoon. Peak summer: bright, cold, and gone in minutes.",
+    "source": "Jamie Oliver",
+    "source_url": "https://www.jamieoliver.com/recipes/seafood/peruvian-ceviche/",
+    "cook_time": "20 min",
+    "difficulty": "Easy",
+    "serves": "4",
+    "photo_url": "https://asset.jamieoliver.com/images/cq7w2e71/production/9540aa993af7d7d95d2100f93755de9d445238cf-973x1300.jpg/9540aa993af7d7d95d2100f93755de9d445238cf-973x1300.webp?rect=0,285,973,730&w=1200&h=900&fm=webp&q=75&fit=crop&auto=format",
+    "author": "Henry",
+    "liked": false,
+    "ingredients": [
+      "1 red or yellow pepper",
+      "2 spring onions",
+      "400g skinless sea bass, lemon sole or snapper fillets, pin-boned, from sustainable sources",
+      "3 lemons",
+      "1-2 fresh red chillies",
+      "8 sprigs fresh mint",
+      "8 sprigs fresh coriander",
+      "1 punnet mustard cress",
+      "a few fennel tops (optional)",
+      "1 tsp sea salt",
+      "extra virgin olive oil"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Deseed and very finely chop the pepper; trim and finely slice the spring onions. Add both to a bowl.",
+          "Slice the fish into neat 1cm cubes, add to the bowl, then cover and chill in the fridge until just before serving.",
+          "Squeeze the juice of all 3 lemons into a jam jar, add 1 tsp sea salt, then seed, finely chop and add the chilli. Cover and chill. (It looks like a lot of salt, but most gets drained away.)",
+          "Pick the mint, coriander and mustard cress, keeping a few sprigs back for garnish. Chill."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "Assemble only when you are ready to serve - never let the fish sit in the dressing for long, or the acid will overcook it.",
+          "Pour the lemon dressing over the fish and pepper mixture and mix immediately.",
+          "Leave to sit for about 2-3 minutes while you lay out the plates and set the table."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Toss most of the picked herbs through the ceviche - a fast 10-second toss, no longer.",
+          "Divide between 4 plates, spoon over a little dressing (discard the rest) and scatter over the remaining herbs.",
+          "Drizzle with good olive oil from a height, grind over black pepper, and serve at once."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "The clock starts the moment the lemon hits the fish - 2-3 minutes gives that translucent, seared edge while the centres stay silky. Over 10 minutes and it turns mealy.",
+      "Jamie uses fresh mint and cress instead of the classic cilantro-heavy Peruvian mix - it tastes much lighter. For a more traditional take, swap half the mint for extra coriander and add diced red onion and sweet potato for the full Lima experience."
+    ],
+    "added_at": "2026-08-29T09:03:40.229806",
+    "photo": "peruvian-ceviche-b8c50231.webp"
+  }
+]
