@@ -1,0 +1,67 @@
+[
+  {
+    "date": "2026-08-31",
+    "name": "Haemul Pajeon (Korean Seafood Scallion Pancake)",
+    "why": "A restaurant-favourite Korean street food that is peak summer: crisp scallion batter with squid, prawns and mussels, fried to golden and eaten with a punchy gochugaru-soy dip. A proper new technique for you, and a great one to make with cold drinks in hand.",
+    "source": "Korean Bapsang",
+    "source_url": "https://www.koreanbapsang.com/haemul-pajeon/",
+    "photo_url": "https://www.koreanbapsang.com/wp-content/uploads/2019/12/DSC3273-e1613669537769.jpg",
+    "cook_time": "30 min",
+    "difficulty": "Medium",
+    "serves": "4",
+    "ingredients": [
+      "1-1/2 to 2 cups assorted seafood (squid, prawns, mussels, oysters, clams), cut into bite-size pieces",
+      "1 bunch scallions, sliced into 3cm lengths",
+      "1 tbsp sesame oil",
+      "1 red chilli (optional), sliced",
+      "1 egg, lightly beaten (optional)",
+      "1 cup Korean pancake mix (buchim garu) - or 1 cup plain flour + 1/2 tsp salt",
+      "3/4 cup iced cold water, plus a little more if needed",
+      "3-4 tbsp vegetable oil, for frying",
+      "Dipping sauce: 1 tbsp soy sauce, 2-3 tsp vinegar, 1 tbsp water, pinch of black pepper, pinch of gochugaru, 1/2 tsp sugar (optional), 1 tbsp chopped scallion or diced onion (optional)"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Prepare the seafood, scallions and chilli, draining off excess water - wet ingredients make pajeon soggy.",
+          "Cut scallions in half crosswise (3cm pieces); if the white part is thick, halve it lengthwise too.",
+          "Toss the seafood with the sesame oil.",
+          "Make the dipping sauce: whisk together the soy sauce, vinegar, water, black pepper, gochugaru, sugar and chopped scallion. Set aside."
+        ]
+      },
+      {
+        "phase": "Batter",
+        "steps": [
+          "In a large bowl, mix the pancake mix with 3/4 cup iced cold water, adding more one tablespoon at a time if needed.",
+          "The batter should be thinner than a Western pancake batter but thicker than a crepe batter - thin batter gives the crispiest pajeon.",
+          "Mix half the seafood into the batter and let it rest while you fry."
+        ]
+      },
+      {
+        "phase": "Fry",
+        "steps": [
+          "Heat 3-4 tbsp vegetable oil in a large non-stick pan over medium-high heat.",
+          "Ladle in half the batter and spread it into a thin, even round (about 7-8 inches across).",
+          "Arrange the scallions in a single layer on top, pressing them down into the batter, then scatter over half the remaining seafood and a few chilli slices.",
+          "Spoon over half the beaten egg (if using). Cook until the bottom is golden brown, 3-4 minutes - reduce the heat if it is browning too fast.",
+          "Flip the pancake (use a plate or two spatulas) and add another 2-3 tbsp oil around the edges. Cook 3-4 minutes more until golden and crisp."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Repeat with the remaining batter and ingredients for the second pancake.",
+          "Slice into wedges and serve hot, straight off the pan, with the dipping sauce on the side."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Ice-cold water in the batter is the secret to crispness - it keeps the starch from gummy-ing up as the pancake fries. Thin batter = shatteringly crisp edges.",
+      "No buchim garu? Plain flour + a pinch of salt works fine. If you can find buchim garu in an Asian supermarket, the pancake comes out noticeably lighter and crisper."
+    ],
+    "added_at": "2026-08-31T09:04:31.330490",
+    "author": "Henry",
+    "photo": "haemul-pajeon-korean-seafood-scallion-pancake-46654318.jpg"
+  }
+]
