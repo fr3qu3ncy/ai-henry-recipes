@@ -59,5 +59,66 @@
       "Can t find wild oyster or shiitake? Two different shop-bought varieties (chestnut + king oyster) still give you the layered texture and flavour you want."
     ],
     "added_at": "2026-09-02T09:19:29.664281"
+  },
+  {
+    "date": "2026-09-02",
+    "name": "Briam: Traditional Greek Roasted Vegetables",
+    "why": "The classic Greek roasted-vegetable tray that's the natural side to moussaka. Thin-sliced potato, courgette and red onion layered in a pan of canned tomatoes, seasoned with oregano, rosemary and garlic, then baked until soft, charred and all the juices have reduced to a sweet, saucy glaze. Vegetarian, hands-off, and serves a crowd.",
+    "source": "The Mediterranean Dish",
+    "source_url": "https://www.themediterraneandish.com/briam-greek-roasted-vegetables/",
+    "photo_url": "https://www.themediterraneandish.com/wp-content/uploads/2019/01/Briam-Traditional-Greek-Roasted-Vegetables-6.jpg",
+    "cook_time": "1h 15m",
+    "difficulty": "Easy",
+    "serves": "6",
+    "author": "Mart",
+    "liked": true,
+    "ingredients": [
+      "570g (1\u00bc lb) golden potatoes, peeled, thinly sliced into 5mm rounds",
+      "570g (1\u00bc lb) courgette (2\u20133), thinly sliced into 6mm rounds",
+      "1 large red onion (or 2 small), thinly sliced into rounds",
+      "salt and pepper",
+      "2 tsp dried oregano",
+      "scant 1 tsp dried rosemary",
+      "35g (\u00bd cup) chopped fresh parsley",
+      "4 garlic cloves, minced",
+      "Greek extra virgin olive oil, plus extra for serving",
+      "794g (28 oz) can diced tomatoes with juice (no-salt-added organic recommended)"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Preheat the oven to 200C/180 fan/gas 6 and place a rack in the middle.",
+          "Put the sliced potatoes and courgette in a large mixing bowl. Season with salt, pepper, oregano and rosemary.",
+          "Add the parsley, minced garlic and a generous drizzle of extra virgin olive oil, and toss until the vegetables are well coated."
+        ]
+      },
+      {
+        "phase": "Assemble",
+        "steps": [
+          "Pour half the canned tomatoes into a large round oven-safe pan (an 11-inch/28cm pan) and spread them over the bottom.",
+          "Arrange the seasoned potatoes, courgette and sliced onion in rows around the pan, alternating the vegetables.",
+          "Pour any remaining oil and garlic mixture over the vegetables, then top with the rest of the diced tomatoes."
+        ]
+      },
+      {
+        "phase": "Bake",
+        "steps": [
+          "Tent the pan loosely with foil so it isn't touching the vegetables, and bake for 45 minutes.",
+          "Remove the foil, then roast uncovered for a further 30-40 minutes, until the vegetables are soft and charred and most of the liquid has evaporated. Ovens vary, so check as you go."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Remove from the oven and serve warm or at room temperature with a generous final drizzle of extra virgin olive oil."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Slice the potato thin (5mm) so it cooks through in the same time as the courgette - uneven thickness is what makes one tray of briam soggy and another undercooked.",
+      "The uncovered second half of the bake is where the flavour comes from: the tomato sauce must reduce and caramelise. If it's still swimming at the end, give it 10 more minutes."
+    ],
+    "photo": "briam-traditional-greek-roasted-vegetables-0d8ba280.jpg"
   }
 ]
