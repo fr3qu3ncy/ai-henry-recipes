@@ -62,7 +62,7 @@
   <div class="recipe-count">92 recipes collected</div>
   <div class="filter-bar">
     <button class="filter-btn" id="filterLiked" onclick="toggleLikedFilter()">&#x2764; Show Liked Only</button>
-    <span class="filter-count" id="filterCount"><span>10</span> liked</span>
+    <span class="filter-count" id="filterCount"><span>11</span> liked</span>
   </div></div>
 <a href="recipes/2026-09-02-wild-mushroom-galettes.html" class="recipe-card" >
   <div class="card-body">
@@ -143,11 +143,12 @@
     <div class="card-preview">Citrus-cured fish is the perfect palate reset after a week of stews and bakes - a new technique (the lemon "cooks" the f...</div>
   </div>
 </a>
-<a href="recipes/2026-08-28-greek-moussaka.html" class="recipe-card has-photo" >
+<a href="recipes/2026-08-28-greek-moussaka.html" class="recipe-card has-photo" data-liked="true">
   <div class="card-body">
     <div class="card-header">
       <span class="card-date">28 Aug 2026</span>
       <div class="card-badges">
+        <span class="card-liked">&#x2764; Liked</span>
         <span class="card-meta">2h 45m, Medium</span>
       </div>
     </div>
@@ -1546,7 +1547,7 @@
 </a>
 
 <div class="footer">
-  <span>Updated 02 September 2026 at 09:19 BST</span>
+  <span>Updated 02 September 2026 at 09:50 BST</span>
 </div>
 </div>
 </div>
@@ -1570,7 +1571,7 @@ function toggleLikedFilter(){
     countEl.innerHTML='<span>'+shown+'</span> shown';
   } else {
     btn.innerHTML='&#x2764; Show Liked Only';
-    countEl.innerHTML='<span>10</span> liked';
+    countEl.innerHTML='<span>11</span> liked';
   }
 }
 </script>
