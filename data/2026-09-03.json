@@ -1,77 +1,68 @@
 [
   {
     "date": "2026-09-03",
-    "name": "Coq au Vin (Classic French Chicken Braised in Red Wine)",
-    "why": "The definitive autumn dinner \u2014 chicken thighs slow-braised in red wine with Cognac, mushrooms and crispy pancetta. It's all about the technique (brown properly, deglaze with flame, thicken with beurre mani\u00e9) and the payoff is a glossy, deeply flavoured braise that makes the kitchen smell incredible.",
-    "source": "Once Upon a Chef",
-    "source_url": "https://www.onceuponachef.com/recipes/coq-au-vin.html",
-    "cook_time": "2h 10m",
+    "name": "Crispy Prosciutto & Mushroom Frittata with Melted Burrata",
+    "why": "A pan-to-grill egg technique that turns a half-pack of mushrooms, prosciutto and a big handful of eggs into a rich, slice-and-eat savoury dish, finished off the heat with a pool of melted burrata. It clears the most urgent fridge items in one sitting and the whole thing is 25 minutes door to plate.",
+    "source": "",
+    "source_url": "",
+    "cook_time": "25 min",
     "difficulty": "Medium",
-    "serves": "4",
-    "photo_url": "https://www.onceuponachef.com/images/2020/01/Coq_au_vin-scaled.jpg",
+    "serves": "2",
+    "liked": true,
     "author": "Henry",
     "ingredients": [
-      "3 tbsp olive oil, divided",
-      "4 oz (115g) diced pancetta (or bacon)",
-      "8 bone-in, skin-on chicken thighs (~1.8kg), trimmed",
-      "Salt and freshly ground black pepper",
-      "1 large yellow onion, roughly chopped",
-      "4 garlic cloves, roughly chopped",
-      "60ml (1/4 cup) Cognac",
-      "600ml (2 1/2 cups) red wine \u2014 Burgundy or Pinot Noir",
-      "600ml (2 1/2 cups) chicken stock",
-      "1 1/2 tbsp tomato paste",
-      "2 tsp balsamic vinegar",
-      "1 1/2 tsp sugar",
-      "1 tbsp fresh thyme leaves (or 1 tsp dried)",
-      "1 bay leaf",
-      "3 large carrots, cut into 1/2-inch chunks on the bias",
-      "225g (8 oz) cremini mushrooms, sliced",
-      "4 tbsp unsalted butter, softened",
-      "4 tbsp plain flour"
+      "5\u20136 eggs",
+      "150g British white mushrooms, sliced",
+      "4\u20135 slices prosciutto di Parma, chopped",
+      "1 small onion or a handful of spring onion, finely sliced (if you have it)",
+      "1 burrata",
+      "40g Parmigiano Reggiano, grated",
+      "2 tbsp olive oil + a knob of butter",
+      "A big grind of black pepper",
+      "A pinch of chilli flakes",
+      "A little salt to taste (prosciutto + parmesan are already salty)"
     ],
     "instructions": [
       {
         "phase": "Prep",
         "steps": [
-          "Trim excess fat from the chicken thighs, leaving the skin on. Season all over with 2 tsp salt and 1/2 tsp black pepper.",
-          "Dice the pancetta, chop the onion and garlic, and cut the carrots into 1/2-inch (13mm) chunks on the bias.",
-          "Mash the softened butter and flour together in a small bowl to a smooth paste (beurre mani\u00e9) \u2014 set aside."
+          "Whisk the eggs with the grated parmesan, a big grind of black pepper and a pinch of chilli flakes. Season with just a little salt.",
+          "Slice the mushrooms.",
+          "Chop the prosciutto and slice the onion or spring onion."
         ]
       },
       {
-        "phase": "Sear & Deglaze",
+        "phase": "Cook",
         "steps": [
-          "Heat 1 tbsp olive oil in a 5L Dutch oven over medium heat. Add the pancetta and cook until the fat renders and it's crispy, 5-8 minutes. Remove with a slotted spoon to a paper-towel plate; leave the fat in the pot.",
-          "Increase to medium-high. Brown half the chicken, skin-side down, until golden and crisp \u2014 about 5 minutes. Skin side only. Transfer to a plate; repeat with the rest.",
-          "Reduce heat to medium-low. Add the onion to the pot and cook, stirring occasionally, until softened and just starting to brown, 3-5 minutes. Add the garlic, cook 1 minute until fragrant.",
-          "Add the Cognac and, if you're brave, ignite it \u2014 let it burn off for 30 seconds (or just add it and let it evaporate for 2 minutes).",
-          "Stir in the red wine, stock, tomato paste, balsamic, sugar, thyme and bay leaf. Scrape up any browned bits from the bottom of the pot \u2014 that's flavour."
+          "Heat the olive oil and butter in an oven-proof frying pan over medium-high.",
+          "Sizzle the prosciutto for 1\u20132 minutes until the edges crisp, then add the onion and mushrooms.",
+          "Hard-sear the mushrooms for 3\u20134 minutes without fiddling, until the cut faces are golden and their water has gone.",
+          "Turn the heat to low and pour in the whisked eggs. Tip the pan so the raw egg runs to the edges.",
+          "Let the base set for about 90 seconds, then give it a gentle half-turn so the liquid spreads out.",
+          "You want the bottom set and the top still just wobbly \u2014 it will carry on cooking."
         ]
       },
       {
-        "phase": "Braise",
+        "phase": "Finish",
         "steps": [
-          "Return the chicken (and its juices) and the carrots to the pot. Bring to a simmer, cover, and cook over low heat for 30 minutes, until the chicken and carrots are cooked through.",
-          "While it simmers, heat the remaining 2 tbsp olive oil in a large skillet over medium. Add the sliced mushrooms and 1/4 tsp salt; cook, stirring frequently, until golden brown, about 5 minutes. Set aside."
+          "Slide the pan under a hot grill for 2\u20133 minutes until the top is lightly set and flecked with colour. Do not let it brown heavily \u2014 you want the centre just barely soft.",
+          "Switch off the grill and slide the frittata onto a board.",
+          "Break the burrata on top while it is still hot and let it sit 60 seconds so the heat melts the outside into a creamy pool while the centre stays soft."
         ]
       },
       {
-        "phase": "Finish & Serve",
+        "phase": "Serve",
         "steps": [
-          "Transfer the chicken to a plate with a slotted spoon.",
-          "Increase heat to medium and stir in 3/4 of the beurre mani\u00e9. Simmer until the sauce thickens, 5-7 minutes \u2014 add the rest if you want it glossier. Fish out and discard the bay leaf.",
-          "Peel the skin off the chicken thighs and discard it (it's served skinless, like a proper coq).",
-          "Return the chicken to the pot and simmer uncovered for about 10 minutes so it soaks up the sauce. Just before serving, stir in the browned mushrooms and crispy pancetta. Taste and adjust seasoning.",
-          "Serve in deep bowls with plenty of sauce, over mashed potato or with crusty bread for soaking up every drop."
+          "Finish with a drizzle of olive oil, black pepper and chilli flakes.",
+          "Cut into wedges and share, or eat straight off the board with a knife and fork.",
+          "A quick side salad or a few grapes works well alongside for something cool."
         ]
       }
     ],
     "pro_tips": [
-      "Use a cheap-but-drinkable red wine \u2014 the rule of thumb is that if you wouldn't drink a glass of it, don't braise with it. A light Burgundy or Pinot Noir is traditional; a heavier wine can make the sauce tannic and astringent.",
-      "The beurre mani\u00e9 (butter-flour paste) is the secret to a silky, glossy sauce that doesn't split \u2014 stir it in a little at a time rather than dumping it all in. This is what separates a proper coq au vin from a chicken stew."
-    ],
-    "added_at": "2026-09-03T09:12:15.166141",
-    "photo": "coq-au-vin-classic-french-chicken-braised-in-red-wine-af81de65.jpg"
+      "The whole trick is not overcooking. A frittata looks 'done' too early \u2014 pull it out when the centre still jiggles and it carries onto the board. If it's fully firm in the pan it's a rubber pancake.",
+      "The burrata must go on off the heat. The residual warmth from the hot frittata is exactly what melts it without cooking it \u2014 that's what gives you the creamy-then-stretchy contrast rather than a uniform soft blob.",
+      "This clears your most urgent fridge items in one sitting: the burrata, most of the mushrooms, the prosciutto and about a third of the egg carton."
+    ]
   }
 ]
