@@ -1,0 +1,71 @@
+[
+  {
+    "date": "2026-09-04",
+    "name": "Authentic Sichuan Mapo Tofu (\u9ebb\u5a46\u8c46\u8150)",
+    "why": "The definitive Sichuan classic - silken tofu in a fiery, numbing sauce of doubanjiang and Sichuan peppercorns. It's the 'mala' experience in a 25-minute pan, a technique-rich dish you haven't tried yet that pairs perfectly with steamed rice.",
+    "source": "Omnivore's Cookbook",
+    "source_url": "https://omnivorescookbook.com/authentic-mapo-tofu/",
+    "cook_time": "25 min",
+    "difficulty": "Medium",
+    "serves": "2",
+    "photo_url": "https://omnivorescookbook.com/wp-content/uploads/2022/05/220510_Mapo-Tofu_5.jpg",
+    "liked": false,
+    "author": "Henry",
+    "ingredients": [
+      "4 oz ground pork (or chicken/turkey)",
+      "2 tsp Shaoxing wine (or dry sherry)",
+      "1 tsp light soy sauce",
+      "1/2 tsp minced ginger",
+      "2 tsp Sichuan peppercorns (up to 3 tsp for extra numbing)",
+      "1 tbsp peanut oil (or vegetable oil)",
+      "3 tbsp doubanjiang (chilli bean paste) - 2 tbsp for milder",
+      "2 green onions, chopped",
+      "1 block firm or medium-firm tofu, cut into 1/2-inch (1.5 cm) cubes",
+      "1 cup chicken stock (or water)",
+      "2 tsp homemade chilli oil",
+      "1/4 tsp five-spice powder",
+      "1 tsp sugar (or to taste)",
+      "1 tsp cornstarch + 1 tbsp cold water, mixed (slurry, optional)"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "In a small bowl, combine the ground pork, Shaoxing wine, light soy sauce and minced ginger. Mix well and set aside.",
+          "Cut the tofu into 1/2-inch (1.5 cm) cubes and pat them dry. Mix 1 tsp cornstarch with 1 tbsp cold water and set aside.",
+          "Have your chicken stock, doubanjiang, chilli oil, five-spice powder and sugar measured out - everything goes in quick."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "Heat the peanut oil in a large nonstick skillet over medium-high heat. Add the Sichuan peppercorns and fry until they turn dark brown and crispy (about 1-2 min). Scoop them out onto paper towels - save them for the garnish.",
+          "Lower to medium heat, add the ground pork and doubanjiang. Break the pork up into small bits with a spatula, cooking until it's evenly coated in the red paste and fully cooked through.",
+          "Stir in the chopped green onion and fry for another minute until fragrant.",
+          "Nestle the tofu cubes evenly on top of the pork. Add the chilli oil, five-spice powder and sugar, then pour in the chicken stock around the edges."
+        ]
+      },
+      {
+        "phase": "Finish",
+        "steps": [
+          "Bring to a simmer, then cover and simmer over medium-low heat for 8-10 minutes, until the sauce has reduced to about half its original volume.",
+          "Taste the tofu with a spoonful of broth (careful - very hot). Adjust with a pinch of salt if needed; if it's too spicy, add another tsp of sugar to balance.",
+          "Whisk the cornstarch slurry again and swirl it into the pan. Stir gently a few times until the sauce thickens and clings to the tofu. Switch off the heat and transfer to a serving bowl."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Garnish with extra green onion and a small pinch of the fried Sichuan peppercorns, ground with a mortar and pestle (or coffee grinder) for that fresh numbing hit.",
+          "Serve piping hot over steamed jasmine rice - it soaks up the sauce beautifully."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Frying the Sichuan peppercorns in the oil before adding the meat is the secret to authentic aroma - the oil picks up their citrusy numbing essence. Grind the fried ones fresh over the finished dish for the full 'mala' (numbing-spicy) sensation.",
+      "Gentle is the whole game with tofu: let it sit in the simmering sauce instead of stirring, and only give it a light fold at the end. Rough handling turns it to mush; patience keeps the cubes intact."
+    ],
+    "added_at": "2026-09-04T10:38:03.776105",
+    "photo": "authentic-sichuan-mapo-tofu-\u9ebb\u5a46\u8c46\u8150-f308bfca.jpg"
+  }
+]
