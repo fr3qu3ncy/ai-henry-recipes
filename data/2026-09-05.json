@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2026-09-05",
+    "name": "Japchae (Korean Glass Noodle Stir-Fry)",
+    "why": "Japchae is the ultimate Korean home-cook dish \u2014 sweet potato vermicelli tossed with shiitake, carrot and spinach in a soy-sesame glaze. It's a perfect fit for your current Korean phase, and everything's at its best right now with autumn spinach and shiitakes in season.",
+    "source": "BBC Food",
+    "source_url": "https://www.bbc.co.uk/food/recipes/japchae_09863",
+    "photo_url": "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/japchae_09863_16x9.jpg",
+    "cook_time": "60 min",
+    "difficulty": "Easy",
+    "serves": "2",
+    "liked": false,
+    "author": "Henry",
+    "ingredients": [
+      "150g dried Korean sweet potato vermicelli noodles (dangmyeon)",
+      "1/2 small onion, finely sliced",
+      "2 garlic cloves, finely sliced",
+      "1/2 red pepper, finely sliced",
+      "1 carrot, peeled and cut into fine matchsticks",
+      "4 dried shiitake mushrooms, soaked in warm water and sliced",
+      "2-3 handfuls fresh spinach",
+      "1 tbsp vegetable or sunflower oil",
+      "toasted sesame seeds, to garnish",
+      "1 tbsp vegetarian stir-fry sauce (vegetarian oyster sauce)",
+      "1 1/2 tbsp light soy sauce",
+      "1/2 tsp sugar",
+      "100ml vegetable stock or water",
+      "1-2 tsp sesame oil"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Pour boiling water over the vermicelli in a large bowl and leave to soak for 6-8 minutes, until softened and still chewy. Drain and rinse under cold water.",
+          "Slice the onion, garlic and red pepper fine; cut the carrot into matchsticks; slice the soaked shiitake mushrooms; rough up the spinach leaves.",
+          "Mix the vegetarian stir-fry sauce, light soy sauce, sugar, vegetable stock and sesame oil together in a small bowl and set aside."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "Heat the vegetable oil in a wok over medium-high heat until just smoking.",
+          "Stir-fry the onion for 30 seconds, then add the garlic, red pepper, carrot, mushrooms and spinach \u2014 allowing 30 seconds between each addition so the harder vegetables stay crisp.",
+          "Tip in the drained noodles and stir-fry for a further minute, folding everything through evenly.",
+          "Pour in the sauce and bring to a vigorous boil over high heat, stirring for 2-3 minutes until all the sauce has been absorbed by the noodles."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Garnish with toasted sesame seeds and serve straight from the wok, with a side of rice or kimchi if you like."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "The 30-seconds-between-vegetables trick is the whole game \u2014 carrots and shiitake need the time, spinach just needs to wilt. Rush the order and you'll get soggy noodles with raw carrot.",
+      "If the drained vermicelli looks like it'll clump, give it a quick toss with a half teaspoon of sesame oil before it hits the wok \u2014 it separates beautifully and keeps that chewy bite."
+    ],
+    "added_at": "2026-09-05T09:06:45.632389",
+    "photo": "japchae-korean-glass-noodle-stir-fry-2129c3e9.jpg"
+  }
+]
