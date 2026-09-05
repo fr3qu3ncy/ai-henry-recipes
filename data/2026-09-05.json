@@ -1,62 +1,68 @@
 [
   {
     "date": "2026-09-05",
-    "name": "Japchae (Korean Glass Noodle Stir-Fry)",
-    "why": "Japchae is the ultimate Korean home-cook dish \u2014 sweet potato vermicelli tossed with shiitake, carrot and spinach in a soy-sesame glaze. It's a perfect fit for your current Korean phase, and everything's at its best right now with autumn spinach and shiitakes in season.",
-    "source": "BBC Food",
-    "source_url": "https://www.bbc.co.uk/food/recipes/japchae_09863",
-    "photo_url": "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/japchae_09863_16x9.jpg",
-    "cook_time": "60 min",
-    "difficulty": "Easy",
-    "serves": "2",
+    "name": "Kimbap (Korean Seaweed Rice Rolls)",
+    "why": "Gimbap is the Korean answer to sushi \u2014 seasoned sushi rice, danmuji, seasoned spinach, omelette and hot dog rolled in nori and sliced into neat rounds. A genuinely new technique for you that fits your Korean phase perfectly, and it's a brilliant lunchbox dish for the weekend.",
+    "source": "BBC Good Food",
+    "source_url": "https://www.bbcgoodfood.com/recipes/kimbap",
+    "photo_url": "https://images.immediate.co.uk/production/volatile/sites/30/2024/09/Kimbap-60cec5b.jpg?resize=900,836",
+    "cook_time": "55 min",
+    "difficulty": "Medium",
+    "serves": "4",
     "liked": false,
     "author": "Henry",
     "ingredients": [
-      "150g dried Korean sweet potato vermicelli noodles (dangmyeon)",
-      "1/2 small onion, finely sliced",
-      "2 garlic cloves, finely sliced",
-      "1/2 red pepper, finely sliced",
-      "1 carrot, peeled and cut into fine matchsticks",
-      "4 dried shiitake mushrooms, soaked in warm water and sliced",
-      "2-3 handfuls fresh spinach",
-      "1 tbsp vegetable or sunflower oil",
-      "toasted sesame seeds, to garnish",
-      "1 tbsp vegetarian stir-fry sauce (vegetarian oyster sauce)",
-      "1 1/2 tbsp light soy sauce",
-      "1/2 tsp sugar",
-      "100ml vegetable stock or water",
-      "1-2 tsp sesame oil"
+      "500g cooked sushi rice",
+      "6 gim or nori seaweed sheets",
+      "1 carrot, cut into thin matchsticks",
+      "2 eggs",
+      "100g danmuji (Korean pickled daikon) \u2014 or gherkins/cucumber",
+      "60g seafood sticks, sliced into thin lengths",
+      "2 hot dogs, sliced lengthwise into quarters",
+      "100g baby spinach",
+      "2 tsp vegetable oil",
+      "1 1/2 tsp sesame oil plus extra for brushing",
+      "1/2 tsp sesame seeds plus extra for sprinkling",
+      "2 tsp sesame seeds",
+      "1/2 tsp salt"
     ],
     "instructions": [
       {
         "phase": "Prep",
         "steps": [
-          "Pour boiling water over the vermicelli in a large bowl and leave to soak for 6-8 minutes, until softened and still chewy. Drain and rinse under cold water.",
-          "Slice the onion, garlic and red pepper fine; cut the carrot into matchsticks; slice the soaked shiitake mushrooms; rough up the spinach leaves.",
-          "Mix the vegetarian stir-fry sauce, light soy sauce, sugar, vegetable stock and sesame oil together in a small bowl and set aside."
+          "Put the spinach in a heatproof bowl, pour over boiling water and push the leaves under with a spoon so they all wilt. Drain, rinse under cold water and squeeze out excess liquid. Toss with 1 tsp sesame oil, a pinch of salt and 1/2 tsp sesame seeds.",
+          "Mix the sushi rice with 1 1/2 tsp sesame oil, 2 tsp sesame seeds and 1/2 tsp salt in a large bowl.",
+          "Heat half the vegetable oil in a frying pan over medium heat and fry the carrot matchsticks for 2 minutes until slightly softened. Set aside on a plate."
         ]
       },
       {
         "phase": "Cook",
         "steps": [
-          "Heat the vegetable oil in a wok over medium-high heat until just smoking.",
-          "Stir-fry the onion for 30 seconds, then add the garlic, red pepper, carrot, mushrooms and spinach \u2014 allowing 30 seconds between each addition so the harder vegetables stay crisp.",
-          "Tip in the drained noodles and stir-fry for a further minute, folding everything through evenly.",
-          "Pour in the sauce and bring to a vigorous boil over high heat, stirring for 2-3 minutes until all the sauce has been absorbed by the noodles."
+          "Wipe the pan clean and heat the remaining oil over high heat. Whisk the eggs lightly, pour into the pan and swirl to coat the base. Cook briefly until just set, then transfer to a board and slice into strips about 1/2 cm thick.",
+          "Lay out all the fillings \u2014 danmuji, seafood sticks, hot dog quarters, carrots, omelette strips and seasoned spinach \u2014 on one tray so you can build the rolls quickly."
+        ]
+      },
+      {
+        "phase": "Roll",
+        "steps": [
+          "Lay a seaweed sheet shiny-side down on a board. Spread a quarter of the rice over three-quarters of the sheet in an even layer, leaving the top quarter bare.",
+          "Cut another seaweed sheet in half and lay it across the middle of the rice \u2014 this forms the base layer for the fillings. Arrange a few pinches of each filling across its length.",
+          "Lift the bottom edge of the larger sheet up and over the fillings, then roll tightly, tucking everything in with your fingers as you go. Seal the end with a few grains of rice pressed across the top.",
+          "Lightly brush with sesame oil, sprinkle with sesame seeds, and repeat to make all 4 rolls."
         ]
       },
       {
         "phase": "Serve",
         "steps": [
-          "Garnish with toasted sesame seeds and serve straight from the wok, with a side of rice or kimchi if you like."
+          "Slice each roll into 1 cm-thick circles with a sharp knife \u2014 if the blade sticks, wipe it with kitchen paper and a drop of sesame oil for neat slices. Trim the rough edges if needed."
         ]
       }
     ],
     "pro_tips": [
-      "The 30-seconds-between-vegetables trick is the whole game \u2014 carrots and shiitake need the time, spinach just needs to wilt. Rush the order and you'll get soggy noodles with raw carrot.",
-      "If the drained vermicelli looks like it'll clump, give it a quick toss with a half teaspoon of sesame oil before it hits the wok \u2014 it separates beautifully and keeps that chewy bite."
+      "The wet-rice seal is the pro move \u2014 pressing a few grains across the end of the roll glues it shut better than any technique, and it's what keeps the slices from falling apart.",
+      "Wet-wipe your knife between cuts (kitchen paper + a drop of sesame oil) and the slices come out clean every time. Skipping this is the #1 reason kimbap slices look ragged."
     ],
-    "added_at": "2026-09-05T09:06:45.632389",
-    "photo": "japchae-korean-glass-noodle-stir-fry-2129c3e9.jpg"
+    "added_at": "2026-09-05T09:11:01.195952",
+    "photo": "kimbap-korean-seaweed-rice-rolls-5d9a5895.jpg"
   }
 ]
