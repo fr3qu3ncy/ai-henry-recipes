@@ -1,0 +1,67 @@
+[
+  {
+    "date": "2026-09-15",
+    "name": "Lomo Saltado (Peruvian Beef Stir-Fry)",
+    "why": "Chinese-Peruvian chifa fusion at its finest \u2014 deeply seared beef, blistered onions and juicy tomatoes in a soy-oyster sauce, tossed with crispy French fries and served over rice. Wok-heat stir-fry technique in a brand-new cuisine territory.",
+    "source": "Little Spice Jar",
+    "source_url": "https://www.littlespicejar.com/lomo-saltado/",
+    "photo_url": "https://www.littlespicejar.com/wp-content/uploads/2020/07/Lomo-Saltado-Peruvian-Stir-Fry-7.jpg",
+    "cook_time": "30 min",
+    "difficulty": "Easy",
+    "serves": "2",
+    "author": "Henry",
+    "ingredients": [
+      "1 lb flank steak, cut against the grain into thin slices",
+      "5 tbsp low-sodium soy sauce, divided",
+      "5 cloves garlic, minced",
+      "1 tbsp oyster sauce",
+      "1 tbsp red wine vinegar",
+      "1 tbsp aji amarillo paste (or gochujang, see tips)",
+      "1 tsp cornstarch",
+      "1 red onion, sliced into 1/2 inch wedges",
+      "3 roma tomatoes, seeded and cut into 1/2 inch wedges",
+      "Oil for cooking",
+      "Sliced scallions and chopped cilantro for serving",
+      "Cooked white rice and French fries to serve"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Slice the flank steak thinly against the grain. Marinate with 1 tbsp soy sauce and half the garlic for 5-7 minutes (or 30 minutes with a pinch of baking soda if using a tougher cut).",
+          "Whisk the remaining 4 tbsp soy sauce with the oyster sauce, red wine vinegar, aji amarillo paste and cornstarch into a small bowl. Set aside.",
+          "Cut the red onion into 1/2-inch wedges and seed and wedge the tomatoes. Cook the rice and fry the potatoes so everything is ready to go."
+        ]
+      },
+      {
+        "phase": "Sear",
+        "steps": [
+          "Add about 1 tbsp oil to a cast-iron pan or wok over high heat until it shimmers.",
+          "Sear the beef in batches for 1-2 minutes, flipping to cook evenly \u2014 you want it seared, not steamed, so don't crowd the pan.",
+          "Transfer the cooked beef to a plate and keep warm."
+        ]
+      },
+      {
+        "phase": "Stir-fry",
+        "steps": [
+          "Add another tbsp of oil if the pan is dry, then add the onion wedges and let them blister for 1 minute.",
+          "Add the remaining garlic and the tomato wedges and saut\u00e9 for a further minute until the tomatoes soften but still hold their shape."
+        ]
+      },
+      {
+        "phase": "Finish & Serve",
+        "steps": [
+          "Return the beef to the pan, pour over the whisked sauce and toss over high heat until it glazes and thickens, about 1 minute.",
+          "Serve immediately over rice with the French fries (tossed straight into the sauce if you like them saucy, on the side if you like them crispy).",
+          "Top with sliced scallions and chopped cilantro \u2014 both, ideally."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "No aji amarillo paste? A spoon of gochujang gives a similar fruity, smoky chilli depth \u2014 it's the closest pantry stand-in. For Martin's taste: moderate heat, so gochujang is a better match than raw chilli flakes.",
+      "The sear is everything: cook the beef in batches in a screaming-hot pan so it chars instead of stewing in its own juice. That 'wok hei' is what makes it taste restaurant-made."
+    ],
+    "added_at": "2026-09-15T09:05:29.197403",
+    "photo": "lomo-saltado-peruvian-beef-stir-fry-974672b0.jpg"
+  }
+]
