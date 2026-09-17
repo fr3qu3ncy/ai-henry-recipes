@@ -1,0 +1,73 @@
+[
+  {
+    "date": "2026-09-17",
+    "name": "Roasted Duck Breast with Damson Sauce",
+    "why": "James Martin's BBC Good Food classic duck breast technique \u2014 pan-seared, star anise baste, finished under the heat \u2014 with a twist: the plum sauce is made with damsons, which are at their absolute peak right now in late September. The sweet-tart fruit cuts beautifully through the rich duck.",
+    "source": "BBC Good Food (James Martin) \u2014 damson adaptation by Henry",
+    "source_url": "https://www.bbcgoodfood.com/recipes/roasted-duck-breast-plum-sauce",
+    "photo_url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-143527_12-d008c5b.jpg?resize=440%2C230",
+    "cook_time": "35 min",
+    "difficulty": "Easy",
+    "serves": "2",
+    "author": "Henry",
+    "liked": false,
+    "ingredients": [
+      "2 duck breasts (about 450g each)",
+      "1 sprig thyme",
+      "1 star anise",
+      "25g butter",
+      "1 shallot, finely chopped",
+      "1 tbsp olive oil",
+      "250g damsons, halved and stoned (use plums if you can't find damsons)",
+      "50g demerara sugar",
+      "50ml red wine",
+      "300ml beef stock",
+      "For the sides: 450g Maris Piper potatoes, 50g butter + 1 knob, 50ml double cream, 50ml milk, 250g spinach leaves",
+      "Salt and black pepper"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Heat the oven to 180C/160C fan/gas 4.",
+          "Score the skin of the duck breasts in a crosshatch pattern with a sharp knife, being careful not to cut into the meat, and season well with salt and pepper.",
+          "Halve and stone the damsons.",
+          "Quarter the potatoes and drop into a pan of cold salted water."
+        ]
+      },
+      {
+        "phase": "Cook the sauce",
+        "steps": [
+          "Fry the shallot in the olive oil for 5 mins or until softened but not coloured.",
+          "Add the damsons and demerara sugar, stirring for a few mins until the sugar has dissolved and the fruit is starting to soften.",
+          "Pour in the red wine and beef stock, then simmer for about 15 mins, stirring occasionally, until the fruit is soft and the sauce has slightly thickened. Keep warm.",
+          "Meanwhile, bring the potatoes to the boil and simmer for 20-25 mins until cooked through. Drain well, return to the pan and mash, gradually beating in the butter, cream and milk. Season."
+        ]
+      },
+      {
+        "phase": "Cook the duck",
+        "steps": [
+          "Heat a non-stick frying pan over medium-high heat and place the duck breasts in, skin-side down.",
+          "Fry for 6-7 mins without moving them, letting the fat render until the skin is deep golden and crackling.",
+          "Turn the breasts over, add the thyme, star anise and butter, and baste constantly with the melting butter and juices for 1-2 mins.",
+          "Transfer the duck (and pan juices) to a small roasting tin and finish in the oven for 5-6 mins for pink, or 10-12 mins for well done.",
+          "When done, baste once more with the pan juices, then rest on a plate for 5 mins while you finish everything else."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Wilt the spinach with a knob of butter and some seasoning in a big pan for 1 min, stirring, until just collapsed.",
+          "Thinly slice each duck breast across the grain.",
+          "Plate with a spoon of creamed potatoes, the wilted spinach and a good spoon of the warm damson sauce. Scatter over the thyme leaves."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Start the duck skin-side down and resist moving it \u2014 letting the fat render slowly is what gets you crackling. If the skin tears, you moved it too early.",
+      "The damson sauce makes 1-2 days ahead and keeps at room temperature (it's a proper cooked fruit sauce), so you can prep it before and keep everything on the day calm. If you can't get damsons, dark red plums work almost identically."
+    ],
+    "added_at": "2026-09-17T09:06:25.593572",
+    "photo": "roasted-duck-breast-with-damson-sauce-af4cbe84.jpg"
+  }
+]
