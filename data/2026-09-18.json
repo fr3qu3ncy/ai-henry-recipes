@@ -1,0 +1,70 @@
+[
+  {
+    "date": "2026-09-18",
+    "name": "Risotto with Fresh Figs & Prosciutto",
+    "why": "Mid-September is peak fig season, and this 30-minute risotto turns those jammy purple figs into a silky, glossy dish that feels restaurant-fancy without being fussy. The sweet-savoury balance of buttery figs, salty prosciutto and nutty Pecorino is genuinely addictive.",
+    "source": "Allrecipes",
+    "source_url": "https://www.allrecipes.com/recipe/266191/risotto-with-fresh-figs-and-prosciutto/",
+    "cook_time": "30 min",
+    "difficulty": "Medium",
+    "serves": "4",
+    "liked": false,
+    "author": "Henry",
+    "photo_url": "https://quickchef.ai/storage/recipes/imported/effb012d59d6e4705e09ecb7aefb92e696b7b569-0DGYNlPE.png",
+    "ingredients": [
+      "4 cups vegetable broth, kept warm over low heat",
+      "6 tbsp butter, divided",
+      "1 tbsp extra-virgin olive oil",
+      "1 green onion, finely chopped",
+      "340g (12 oz / about 2 cups) Arborio rice",
+      "1/2 cup dry white wine",
+      "14 small fresh figs, divided (10 chopped, 4 whole for garnish)",
+      "4 thin slices prosciutto, finely chopped",
+      "1 cup grated Pecorino-Romano cheese, or to taste"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Heat the vegetable broth in a separate pot over low heat so it stays warm for the cooking process.",
+          "Chop 10 of the figs into rough pieces; halve the remaining 4 whole for garnish.",
+          "Finely chop the 4 prosciutto slices."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "In a large heavy-bottomed saucepan, heat 2 tbsp butter and 1 tbsp olive oil over medium-low heat.",
+          "Add the green onion and cook, stirring, until softened \u2014 about 1 minute.",
+          "Add the Arborio rice and stir until coated in butter and oil and it begins to toast lightly, 2-3 minutes.",
+          "Increase heat to medium-high and pour in the white wine. Simmer until the alcohol evaporates and the wine is mostly absorbed.",
+          "Reduce heat to medium. Stir in one ladleful of warm broth and cook, stirring constantly, until absorbed and creamy.",
+          "Repeat: add another ladleful, stir until absorbed, add another. Keep going until all the broth is used or the rice is tender yet still firm to the bite (al dente). This takes 12-15 minutes."
+        ]
+      },
+      {
+        "phase": "Fig-Prosciutto",
+        "steps": [
+          "While the risotto cooks, melt 2 tbsp butter in a medium skillet over medium heat.",
+          "Add the chopped figs and cook until soft and coated in butter, 4-5 minutes, gently crushing them with a wooden spoon.",
+          "Stir the chopped prosciutto into the figs and cook for 1 more minute.",
+          "Fold the fig-prosciutto mixture into the risotto with about 5 minutes of cooking remaining."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Remove the risotto from the heat. Stir in the remaining 2 tbsp butter and the grated Pecorino-Romano until glossy.",
+          "Let it stand for 2-3 minutes to settle and thicken.",
+          "Divide among 4 plates and top each with a whole halved fig."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Keep the broth at a low simmer (not boiling) \u2014 adding cold broth to the risotto each time drops the temperature and stops the creaminess building. Warm broth keeps it moving.",
+      "If your figs are small and firm, toss them in the skillet with a teaspoon of balsamic vinegar to help them break down and develop colour faster."
+    ],
+    "added_at": "2026-09-18T09:06:14.750057",
+    "photo": "risotto-with-fresh-figs-prosciutto-a0d347ff.png"
+  }
+]
