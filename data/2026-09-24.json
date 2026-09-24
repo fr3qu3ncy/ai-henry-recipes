@@ -59,5 +59,90 @@
     ],
     "added_at": "2026-09-24T09:04:32.023747",
     "photo": "sundubu-jjigae-korean-silken-tofu-stew-1ac746d7.jpg"
+  },
+  {
+    "date": "2026-09-24",
+    "name": "Duck Breast, Sweet Potato & Beetroot Puree, Peach Sauce, Crispy Lardon Leek & Cabbage",
+    "why": "A proper use-it-up plate: duck breast with a purple sweet potato-beetroot pur\u00e9e, a sticky peach reduction made in the duck's own pan fat, and a crackling lardon-leek-cabbage side. Duck and peach are a classic pairing \u2014 the peach carries the sauce while the beetroot gives the pur\u00e9e colour and earthiness.",
+    "source": "",
+    "source_url": "",
+    "cook_time": "50 min",
+    "difficulty": "Medium",
+    "serves": "2",
+    "liked": false,
+    "author": "Henry",
+    "photo": "duck-breast-sweet-potato-beetroot-puree-gen.jpg",
+    "ingredients": [
+      "2 duck breasts, skin on",
+      "1 large sweet potato, halved",
+      "1 medium red beetroot, quartered",
+      "3 ripe peaches, stoned and roughly chopped",
+      "3\u20134 lardon sticks, chopped",
+      "2 leeks, sliced",
+      "1 head Lincoln cabbage, shredded",
+      "4 tbsp butter, divided (plus 1 cold knob for the sauce)",
+      "3 tbsp milk or stock (for the pur\u00e9e)",
+      "1\u20132 tbsp balsamic vinegar (or a splash of white wine vinegar)",
+      "A few spoonfuls of stock or water (for the sauce)",
+      "Salt and black pepper",
+      "A small splash of vinegar (for the cabbage)"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Heat the oven to 200\u00b0C (fan).",
+          "Put the sweet potato (halved) and beetroot (quartered) on a baking tray, drizzle with a little oil, and roast for 35\u201340 minutes until tender.",
+          "Meanwhile score the skin of the duck breasts in a diamond pattern (don't cut into the meat). Pat them dry and season the skin with salt."
+        ]
+      },
+      {
+        "phase": "Cook the duck",
+        "steps": [
+          "Put the duck in a COLD pan, skin side down. Set the heat to low and cook slowly for about 10 minutes, letting the fat render out and the skin crisp. Don't rush this.",
+          "Turn the duck over so it's skin side up, and increase the heat to medium. Cook for about 2 minutes on the breast side.",
+          "Now transfer the duck into the preheated oven for 6\u20138 minutes for a medium-rare breast (a little longer for medium). The duck goes in the oven \u2014 the pan stays on the hob.",
+          "Take the duck out of the oven and leave it to REST on a warm plate, loosely covered, for 5 minutes. This lets the juices redistribute and the breast stay pink.",
+          "Save every drop of the rendered duck fat and the pan juices \u2014 that's the base of your sauce. Slice the rested breast against the grain when you plate."
+        ]
+      },
+      {
+        "phase": "Pur\u00e9e",
+        "steps": [
+          "Once the roasted sweet potato and beetroot are cool enough to handle, scoop the flesh into a bowl or blender.",
+          "Add 2 tbsp butter and a splash of milk or stock.",
+          "Blend (or mash) until completely smooth. Season well with salt and a pinch of sugar to balance the beetroot. You want it silky, not chunky."
+        ]
+      },
+      {
+        "phase": "Peach sauce",
+        "steps": [
+          "In the duck pan, over a medium heat, add the chopped peaches.",
+          "Deglaze with the balsamic and a few spoonfuls of stock (or water), scraping up the browned bits. Let it bubble and reduce for about 5 minutes until it coats the back of a spoon and looks glossy and sticky.",
+          "Take the pan off the heat and whisk in a cold knob of butter to make the sauce shine. Season with salt."
+        ]
+      },
+      {
+        "phase": "Crispy lardon leek & cabbage",
+        "steps": [
+          "In a hot, wide pan, fry the chopped lardon until properly crisp.",
+          "Add the sliced leeks and cook until soft and golden, about 5 minutes.",
+          "Toss in the shredded cabbage and cook until it just wilts and starts to catch on the edges \u2014 keep it a bit crunchy.",
+          "Season with salt and pepper, and add a small splash of vinegar. Keep it warm to serve, so it's still crackling when it hits the plate."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Spoon a big swirl of the sweet potato-beetroot pur\u00e9e onto each plate.",
+          "Fan the sliced duck breast on top and pour the glossy peach sauce around and over it.",
+          "Pile the crispy lardon-leek-cabbage to the side and serve straight away."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Duck and peach are the star pairing here \u2014 that's why the peach goes in the sauce and the beetroot goes in the pur\u00e9e. Don't put the beetroot in the sauce; it turns earthy and muddy where the peach should be glossy-sweet.",
+      "Check the sweet potato before you start: if it's gone soft or smells off (it can be past its use-by), flip the ratio and make the pur\u00e9e mostly beetroot \u2014 it still works, just earthier."
+    ]
   }
 ]
