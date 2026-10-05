@@ -1,87 +1,68 @@
 [
   {
     "date": "2026-10-05",
-    "name": "Japchae (Korean Glass Noodle Stir-Fry)",
-    "why": "You've been deep in Korean territory lately (gyeran-ppang and all), and japchae is the undisputed king of Korean noodle dishes \u2014 chewy sweet-potato glass noodles, one-pan stir-fry method, and that finishing toss of toasted sesame oil. It's a proper celebratory dish that doubles as a great party food, and it's still good the next day.",
-    "source": "My Korean Kitchen",
-    "source_url": "https://mykoreankitchen.com/korean-glass-noodle-stir-fry-japchae/",
-    "photo_url": "https://mykoreankitchen.com/wp-content/uploads/2015/02/1-1.-Korean-glass-noodles-stir-fry-Japchae.jpg",
-    "cook_time": "50 min",
+    "name": "Cider Braised Short Ribs with Caramelized Onions",
+    "why": "It's October and apple cider season \u2014 this braise is the ultimate cold-weather showstopper: seared beef short ribs cooked low and slow for 3 hours in apple cider, white wine and deeply caramelized onions. It's the kind of hands-off oven cooking you love (moussaka energy) that turns into a restaurant-grade dinner, and the caramelized onions take the bite out of the raw onion flavour completely.",
+    "source": "Half Baked Harvest",
+    "source_url": "https://www.halfbakedharvest.com/cider-braised-short-ribs/",
+    "photo_url": "https://www.halfbakedharvest.com/wp-content/uploads/2021/10/Cider-Braised-Short-Ribs-with-Caramelized-Onions-1.jpg",
+    "cook_time": "3 hr 30 min",
     "difficulty": "Medium",
     "serves": "6",
     "author": "Henry",
     "liked": false,
     "ingredients": [
-      "250g Korean sweet potato starch noodles (dangmyeon)",
-      "100g ribeye fillet, cut into strips",
-      "1 carrot, peeled and julienned",
-      "110g baby spinach",
-      "1/4 red bell pepper, julienned",
-      "1/2 yellow onion, thinly sliced",
-      "100g fresh shiitake mushrooms, stems removed and thinly sliced",
-      "1 Tbsp soy sauce (beef marinade)",
-      "1 tsp rice wine (mirin) (beef marinade)",
-      "1/2 tsp minced garlic (beef marinade)",
-      "1/4 tsp ground black pepper (beef marinade)",
-      "1 tsp toasted sesame oil (beef marinade)",
-      "4 Tbsp soy sauce (noodle & mushroom marinade)",
-      "1 Tbsp honey (noodle & mushroom marinade)",
-      "1 Tbsp brown sugar (noodle & mushroom marinade)",
-      "1 Tbsp toasted sesame oil (noodle & mushroom marinade)",
-      "1/8 tsp ground black pepper (noodle & mushroom marinade)",
-      "1/4 tsp fine sea salt (spinach seasoning)",
-      "1/2 tsp minced garlic (spinach seasoning)",
-      "1 tsp toasted sesame oil (spinach seasoning)",
-      "1 Tbsp toasted sesame oil (finishing)",
-      "1 Tbsp toasted sesame seeds (finishing)",
-      "1 extra-large egg, white and yolk separated (optional, for classic presentation)",
-      "1-2 Tbsp neutral cooking oil (for stir-frying)"
+      "5 lb (2.3 kg) bone-in beef short ribs",
+      "3 tbsp all-purpose flour",
+      "Kosher salt and black pepper",
+      "1 tbsp salted butter",
+      "4 yellow onions, thinly sliced",
+      "2 cups (480 ml) apple cider",
+      "2 cups (480 ml) chicken broth or dry white wine",
+      "6 carrots, chopped",
+      "6 cloves garlic, smashed",
+      "2 tbsp chopped fresh thyme",
+      "1 apple, quartered (optional)",
+      "2 bay leaves",
+      "Creamy mashed potatoes, to serve (optional but recommended)"
     ],
     "instructions": [
       {
         "phase": "Prep",
         "steps": [
-          "Mix the beef marinade: soy sauce, mirin, garlic, black pepper and 1 tsp sesame oil. Toss with the beef strips, cover and set aside while you prep the rest.",
-          "Mix the noodle & mushroom marinade: 4 Tbsp soy sauce, honey, brown sugar, 1 Tbsp sesame oil and black pepper in a small bowl.",
-          "Toss the sliced shiitake with 1 Tbsp of the noodle marinade and set aside.",
-          "Julienne the carrot and red pepper, slice the onion. Blanch the spinach in rolling boiling water for 5-10 seconds, drain, shock under cold water and squeeze out the excess moisture.",
-          "Season the spinach with salt, garlic and 1 tsp sesame oil; fold together and set aside."
+          "Preheat the oven to 325\u00b0F (165\u00b0C).",
+          "Season the short ribs generously with salt and pepper, then rub with the flour to coat evenly."
         ]
       },
       {
-        "phase": "Cook",
+        "phase": "Sear & Caramelize",
         "steps": [
-          "Boil the dangmyeon noodles in a large pot of boiling water for 6-7 minutes until pliable. Drain, rinse under cold water and let drain 1-2 minutes.",
-          "Cut the noodles into 15-20 cm (6-8 inch) lengths with kitchen scissors, toss with the remaining noodle marinade and set aside to absorb (about 10 minutes).",
-          "If doing the classic egg garnish: beat the egg white, fry in a well-oiled low-heat pan for 1-2 minutes per side, transfer to a board. Repeat with the egg yolk.",
-          "In the same pan over low-medium heat with a little more oil, stir-fry the onion with a pinch of salt until softened (1-2 min). Transfer to a large bowl.",
-          "Add oil, stir-fry the carrot with a pinch of salt until softened (1-2 min). Transfer.",
-          "Repeat with the red pepper until softened (1-2 min). Transfer.",
-          "Add oil, stir-fry the marinated mushrooms (with the sauce from the bowl) until cooked (1-2 min). Transfer.",
-          "Add oil, stir-fry the marinated beef over medium heat until cooked through (2-3 min). Transfer.",
-          "Add oil, stir-fry the marinated noodles over low-medium heat until well coated and glossy (2-3 min). Transfer to the bowl with the vegetables."
+          "Heat a large oven-safe Dutch oven over high heat. Sear the ribs on both sides until deeply browned \u2014 about 2-3 minutes per side. Remove to a plate and wipe the pot clean of any grease.",
+          "Add the butter and sliced onions, and cook for 5 minutes until softened.",
+          "Add \u00bd cup of the apple cider, season with salt and pepper, and cook for another 5-8 minutes until the cider has evaporated and the onions are a light golden colour.",
+          "Stir in the fresh thyme, then nestle the short ribs back into the pot."
         ]
       },
       {
-        "phase": "Finish",
+        "phase": "Braise",
         "steps": [
-          "Slice the fried egg white and yolk into matchsticks and add to the bowl.",
-          "Pour over the final 1 Tbsp toasted sesame oil and scatter with sesame seeds.",
-          "Toss everything together with your hands (or a large salad server if it's still hot) until every strand of noodle is coated in the fragrant oil."
+          "Add the remaining 1\u00bd cups apple cider, the chicken broth (or white wine), chopped carrots, smashed garlic and bay leaves. Arrange the apple wedges around the meat.",
+          "Cover the pot and roast in the oven for 2\u00bd to 3 hours, until the short ribs are tender and falling off the bone. Check once or twice to make sure the ribs are still about a third submerged in liquid \u2014 add a splash of water or cider if needed."
         ]
       },
       {
         "phase": "Serve",
         "steps": [
-          "Serve with a bowl of rice and your favourite Korean side dishes \u2014 or straight from the bowl, it works as a standalone feast."
+          "Remove the bay leaves. Ladle the pan sauce and caramelized onions into a large serving bowl, then spoon the ribs on top with a fork.",
+          "Serve over a bed of creamy mashed potatoes, drizzled with the pan sauce and onions."
         ]
       }
     ],
     "pro_tips": [
-      "Pre-cut dangmyeon noodles (30-40 cm) save you most of the scissor work \u2014 worth seeking out at the Asian supermarket. If you can only find dried shiitake, soak for a few hours first.",
-      "The whole trick of this recipe is colour: cook lighter-coloured vegetables before darker ones so nothing turns muddy, and you only ever use one pan. It looks like a party dish but it's really just one skillet."
+      "The flour rub on the ribs before searing isn't just for browning \u2014 it's a secret thickener that gives the pan sauce its body without any cornflour sludge. Don't skip it.",
+      "The whole trick is the caramelized onions: cooking them down slowly with a splash of cider takes the sharp raw bite out and turns them into sweet, jammy strands. Use a dry white wine instead of broth if you want a brighter, more elegant flavour \u2014 the cider does the heavy lifting either way."
     ],
-    "added_at": "2026-10-05T09:05:44.461930",
-    "photo": "japchae-korean-glass-noodle-stir-fry-4f7d048d.jpg"
+    "added_at": "2026-10-05T09:10:25.440825",
+    "photo": "cider-braised-short-ribs-with-caramelized-onions-95645e9e.jpg"
   }
 ]
