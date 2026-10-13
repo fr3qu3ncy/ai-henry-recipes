@@ -1,67 +1,62 @@
 [
   {
     "date": "2026-10-13",
-    "name": "Lomo Saltado (Peruvian Beef Stir-Fry)",
-    "why": "Peru's undisputed national dish and a perfect bridge for a Korean-stir-fry week: seared sirloin flash-fried with red onion, tomato and aj\u00ed amarillo in a soy-vinegar sauce, tossed over crispy fries and served with rice. It's chifa at its finest \u2014 the Chinese-Peruvian fusion that basically invented the stir-fry-and-fries-on-the-same-plate idea.",
-    "source": "EatPeru",
-    "source_url": "https://www.eatperu.com/lomo-saltado-recipe/",
-    "photo_url": "https://www.eatperu.com/wp-content/uploads/2019/06/lomo-saltado-peruvian-beef-stir-fry-recipe.jpeg",
-    "cook_time": "40 min",
-    "difficulty": "Medium",
+    "name": "Oden (Japanese Fish Cake & Daikon Simmer)",
+    "why": "Oden is Japan's classic cold-weather pot \u2014 daikon, konnyaku and fish cakes quietly soaking up flavour in a clean dashi-soy broth for hours. It's the ultimate low-effort autumn dinner: assemble it, simmer it gently, and the broth does the work. Perfect comfort food as the nights get properly cold.",
+    "source": "Just One Cookbook",
+    "source_url": "https://www.justonecookbook.com/oden/",
+    "photo_url": "https://www.justonecookbook.com/wp-content/uploads/2022/10/Oden-Japanese-Fish-Cake-Stew-0925-I-2.jpg",
+    "cook_time": "45 min",
+    "difficulty": "Easy",
     "serves": "4",
     "author": "Henry",
     "liked": false,
     "ingredients": [
-      "500g (18 oz) sirloin steak, cut into strips or cubes",
-      "200g white rice, cooked",
-      "300g thick-cut fries, ready-fried",
-      "1 red onion, chopped into chunky slices",
-      "2 tomatoes, cut into wedges",
-      "1 aj\u00ed amarillo chilli, finely sliced (veins and seeds removed)",
-      "1 tsp fresh garlic paste",
-      "4 tbsp soy sauce",
-      "4 tbsp plain white vinegar",
-      "120ml (1/2 cup) beef stock",
-      "2 tbsp olive oil (plus more for the marinade)",
-      "1 tsp ground cumin",
-      "1/4 tsp ground oregano",
-      "1 tsp freshly crushed black pepper",
-      "Handful of coriander leaves, for garnish",
-      "Salt to taste"
+      "10cm (4 inch) daikon radish, sliced 1cm thick",
+      "1 pack konnyaku (konjac) (255g)",
+      "750g oden set (assorted Japanese fish cakes & fish balls)",
+      "184g atsuage (firm deep-fried tofu cutlet), cut into strips",
+      "4 hard-boiled eggs (boil 8 min, peel)",
+      "130g hanpen (plain fish cake)",
+      "4 dried knotted kombu (or knot up rehydrated strips)",
+      "1.4L (6 cups) strong dashi (use a dashi packet/powder for depth)",
+      "2 tbsp usukuchi (light) soy sauce (or regular, broth will be darker)",
+      "1 tbsp sake",
+      "2 tbsp mirin",
+      "1/2 tsp kosher salt",
+      "Japanese karashi mustard, to serve (optional)"
     ],
     "instructions": [
       {
         "phase": "Prep",
         "steps": [
-          "Cut the sirloin into 2-3cm strips and marinate in the cumin, 4 tbsp vinegar, 1 tbsp olive oil, black pepper, soy sauce and a pinch of salt for at least 10 minutes.",
-          "Cook the white rice and set aside.",
-          "Fry the thick-cut potato slices in oil until crisp and golden, then drain on paper towels and season. Keep warm."
+          "Peel the daikon, slice into 1cm rounds, and shave the sharp outer edges flat with a knife so the slices sit flat in the pot.",
+          "Score one face of the konnyaku in a shallow crosshatch (3mm deep) to help it absorb the broth.",
+          "Blanch the oden fish cakes (nerimono) and the atsuage in boiling water for 15-30 seconds to draw off excess oil, then drain and rinse the pot."
         ]
       },
       {
         "phase": "Cook",
         "steps": [
-          "Heat a wok or heavy pan with 1 tbsp olive oil until smoking \u2014 the wok needs to be at a very high heat.",
-          "Remove the beef from the marinade (strain off the excess liquid, you don't want it steaming in the wok) and sear for 4-5 minutes until sealed and charred at the edges. Remove and set aside.",
-          "In the same wok, add the red onion, sliced aj\u00ed amarillo and garlic paste and stir-fry for 1 minute, constantly moving everything around.",
-          "Pour in the beef stock and let it bubble and reduce for about 30 seconds.",
-          "Add the tomato wedges and stir-fry for a further 30 seconds \u2014 they should soften but keep their shape, not turn to mush."
+          "Combine the dashi, light soy sauce, sake, mirin and salt in the pot and stir to mix.",
+          "Add the daikon, konnyaku, knotted kombu and hard-boiled eggs. Bring to a boil, then drop the heat to the lowest simmer.",
+          "Simmer uncovered for 20 minutes \u2014 the daikon should be just tender but still holding its shape.",
+          "Cut the larger fish cakes into bite-sized pieces and add them to the pot with the atsuage. Continue simmering gently for a further 15-20 minutes, topping up with water if the level drops, so the fish cakes soak up the broth."
         ]
       },
       {
         "phase": "Serve",
         "steps": [
-          "Tip the beef back into the wok with the crispy fries and scatter over the ground oregano.",
-          "Toss everything for 10 seconds to marry the flavours and coat the fries in the sauce.",
-          "Serve immediately on top of the white rice, scattered with coriander leaves."
+          "Ladle the oden and its broth into bowls (or serve it family-style straight from the pot).",
+          "Serve hot with a small dish of karashi mustard on the side, mixed with a little mirin or broth to taste."
         ]
       }
     ],
     "pro_tips": [
-      "No aj\u00ed amarillo available? It's a mild, fruity Peruvian yellow chilli \u2014 a finely sliced yellow or mild green chilli works, or 1/2 tsp smoked paprika plus a pinch of chilli powder in the marinade gets close.",
-      "The key technique is high heat and dry beef: pat the strips very dry and don't crowd the wok, or they'll steam instead of sear. The soy-vinegar-juice glaze you're going for only forms when the wok is screaming hot."
+      "The broth is the whole game \u2014 use the strongest dashi you have (a proper dashi packet or kelp + katsuobushi, not a weak powder) and balance it with light soy, sake and mirin. A good oden broth should be clear and intensely savoury, not dark.",
+      "Oden improves overnight: the ingredients keep absorbing flavour as they sit. If you have time, assemble it, give it a base simmer, then refrigerate and reheat gently before serving \u2014 that's how it's traditionally eaten in winter."
     ],
-    "added_at": "2026-10-13T09:05:20.277845",
-    "photo": "lomo-saltado-peruvian-beef-stir-fry-2fb72937.jpeg"
+    "added_at": "2026-10-13T09:08:31.519429",
+    "photo": "oden-japanese-fish-cake-daikon-simmer-d8161f78.jpg"
   }
 ]
