@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2026-10-14",
+    "name": "Coq au Vin (Chicken Braised in Red Wine)",
+    "why": "The classic French braise at its most seasonal: chicken legs braised for an hour in red wine with lardons, pearl onions and mushrooms. Serious Eats' take is clever \u2014 the breasts go in only in the last 25 minutes so nothing dries out, meaning you get restaurant-quality depth without an all-day braise.",
+    "source": "Serious Eats",
+    "source_url": "https://www.seriouseats.com/coq-au-vin-chicken-red-wine-braise-recipe",
+    "photo_url": "https://www.seriouseats.com/thmb/xJkYkVBKZdlBLLi5-1rAfa31YTQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/coq-au-vin-chicken-red-wine-braise-recipe-hero-01_2-985a89509805473caaa3d71cfc98919a.JPG",
+    "cook_time": "3h",
+    "difficulty": "Medium",
+    "serves": "6",
+    "liked": false,
+    "author": "Henry",
+    "ingredients": [
+      "2 whole small chickens (about 1.4kg each), cut into 4 pieces each \u2014 backbones reserved for stock",
+      "475ml (2 cups) dry red wine (Burgundy-style), plus a splash to deglaze",
+      "225g pearl onions",
+      "113g slab bacon or salt pork, cut into 1 x 1/4-inch sticks",
+      "225g button or cremini mushrooms, quartered",
+      "3 medium carrots, diced (about 1 1/2 cups)",
+      "4 garlic cloves, crushed",
+      "2 sprigs thyme",
+      "2 bay leaves",
+      "475ml gelatinous homemade chicken stock (or low-sodium chicken broth)",
+      "40g cold unsalted butter, cubed",
+      "1/4 cup minced flat-leaf parsley",
+      "Kosher salt & freshly ground black pepper"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Preheat the oven to 180\u00b0C (350\u00b0F).",
+          "Bag the 8 chicken pieces in a 1-gallon zipper-lock bag with the wine, seal pressing out air, and let them marinate while you prep everything else.",
+          "Trim the pearl onions, score a light X on one cut side, and blanch in boiling water for about 1.5 minutes until the outer layers soften. Drain, run under cool water, and peel with your fingers.",
+          "In a large Dutch oven, cook the bacon over medium-high heat, stirring, until browned and the fat has rendered, about 10 minutes. Lift the bacon out onto paper towels; keep the drippings in the pot."
+        ]
+      },
+      {
+        "phase": "Browning",
+        "steps": [
+          "Unbag the chicken, reserving the marinade, and pat it thoroughly dry. Season with salt and pepper.",
+          "Return the Dutch oven to medium-high and, working in batches, brown the chicken skin-side down about 7 minutes, then flip and brown the other side about 5 minutes (ease off the heat if the pot darkens). Transfer to a rack as you go.",
+          "In the same pot, brown the mushrooms over medium-high, stirring, for 10-12 minutes until properly caramelised.",
+          "Add the pearl onions, carrots and garlic and cook 5-8 minutes until lightly browned. Stir back in the bacon, pour in the reserved marinade, thyme and bay leaves, and scrape up all the browned bits."
+        ]
+      },
+      {
+        "phase": "Braise",
+        "steps": [
+          "Stir in the stock. Nestle the chicken legs in skin-side up, partially submerged with the skin tips just above the liquid, and add any accumulated juices.",
+          "Cover loosely and braise in the oven for 1 hour.",
+          "After 1 hour, nestle in the chicken breasts skin-side up among the legs. Braise a further 20-25 minutes, until the breasts register 63-66\u00b0C (145-150\u00b0F) \u2014 just cooked through.",
+          "Lift the chicken out onto a clean rack."
+        ]
+      },
+      {
+        "phase": "Finish & Serve",
+        "steps": [
+          "Set the Dutch oven over medium-low and simmer the sauce 15-18 minutes, stirring occasionally, until lightly viscous, glossy and rich-tasting. Whisk in the cold butter, then season to taste and stir in half the parsley.",
+          "Return the chicken to the pot, spooning sauce over the top. Scatter with the remaining parsley and serve immediately with buttered potatoes, pasta or rice."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "The staged braise is the whole trick: legs in for the full hour, breasts in only for the final 25 minutes. It's why this version beats traditional recipes that cook everything the same length of time and end up with dry white meat.",
+      "Reserve the chicken backbones and simmer them with the veg trimmings into a quick stock \u2014 that gelatinous stock is what gives the finished sauce its glossy body. No backbones? Use good low-sodium broth and don't skimp on the butter mount."
+    ],
+    "added_at": "2026-10-14T09:12:39.218672",
+    "photo": "coq-au-vin-chicken-braised-in-red-wine-cbfe329e.jpg"
+  }
+]
