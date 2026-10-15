@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2026-10-15",
+    "name": "Roasted Chestnut & Herb Pesto Pasta with Mushrooms",
+    "why": "Chestnut season is peaking right now, and this one-pan pasta turns 100g of them into a vibrant green-herb pesto that coats the whole bowl. A 25-minute weeknight dinner with real autumn personality \u2014 no cream, no fuss.",
+    "source": "BBC Good Food Middle East",
+    "source_url": "https://www.bbcgoodfoodme.com/recipes/roasted-chestnut-and-herb-pesto-pasta-with-mushroo/",
+    "photo_url": "https://www.sainsburysmagazine.co.uk/uploads/media/1800x1800/01/12421-chestnut-pesto-pasta.jpg?v=1-0",
+    "cook_time": "25 min",
+    "difficulty": "Easy",
+    "serves": "6",
+    "author": "Henry",
+    "liked": false,
+    "ingredients": [
+      "100g cooked chestnuts (canned or pre-roasted)",
+      "A handful each of basil, parsley and mint, leaves only",
+      "50g parmesan, grated, plus extra to serve (optional)",
+      "2 garlic cloves",
+      "150ml rapeseed oil",
+      "500g dried pasta (spaghetti or fusilli)",
+      "1 tbsp olive oil",
+      "250g chestnut mushrooms, quartered"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Pulse the chestnuts in a food processor until roughly chopped.",
+          "Add the basil, parsley, mint, parmesan and garlic cloves; pulse again until finely chopped but still textured.",
+          "Pour in the rapeseed oil and process briefly to a loose, pourable pesto. Season with salt and pepper to taste."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "Cook the pasta in plenty of boiling salted water according to pack instructions until just al dente.",
+          "Meanwhile, heat the olive oil in a large frying pan over medium-high heat.",
+          "Add the quartered mushrooms with a good pinch of salt and fry for 6-8 minutes until tender and starting to brown \u2014 don\u2019t stir constantly, let them get some colour."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Drain the pasta, return it to the hot pan off the heat.",
+          "Stir through the chestnut-herb pesto and the fried mushrooms until every strand is coated.",
+          "Serve immediately with extra parmesan on top if you like."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Save a cup of pasta water before draining \u2014 if the pesto seems to cling in clumps, a splash of the starchy water emulsifies it into a silky coating.",
+      "Buy vacuum-packed cooked chestnuts (supermarkets stock them in October) rather than raw ones \u2014 raw chestnuts need the spiky-top boiling or oven-shard treatment to crack open, and the flavour payoff is minimal for a pesto where they get blitzed anyway."
+    ],
+    "added_at": "2026-10-15T09:14:58.321980",
+    "photo": "roasted-chestnut-herb-pesto-pasta-with-mushrooms-bde3ddc7.jpg"
+  }
+]
