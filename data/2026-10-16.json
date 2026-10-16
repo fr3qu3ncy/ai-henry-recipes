@@ -1,0 +1,68 @@
+[
+  {
+    "date": "2026-10-16",
+    "name": "Wild Mushroom Risotto",
+    "why": "Peak British wild mushroom season is here, and risotto is the gentlest technique to really let them shine. Dry-frying the mushrooms first is the pro move \u2014 it concentrates their flavour and keeps the finished risotto creamy, not watery.",
+    "source": "BBC Good Food",
+    "source_url": "https://www.bbcgoodfood.com/premium/wild-mushroom-risotto-2",
+    "cook_time": "55 min",
+    "difficulty": "Medium",
+    "serves": "4",
+    "author": "Henry",
+    "photo_url": "https://images.immediate.co.uk/production/volatile/sites/30/2023/09/Wild-mushroom-risotto-69f03e8.jpg?resize=900%2C471",
+    "ingredients": [
+      "400g wild mushrooms (a mix of chestnut, field and oyster mushrooms), roughly chopped",
+      "2 tbsp olive oil",
+      "50g butter, diced",
+      "1 onion, finely chopped",
+      "2 garlic cloves, crushed or finely grated",
+      "300g risotto rice (Carnaroli or Arborio)",
+      "150ml dry white wine",
+      "1 litre hot mushroom stock (see tip)",
+      "50g parmesan, grated (plus extra to serve)",
+      "Salt and freshly ground black pepper"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Roughly chop the mushrooms, keeping larger pieces in chunky bits and small ones fine for even cooking.",
+          "Dice the butter, finely chop the onion, and crush or finely grate the garlic.",
+          "Keep the mushroom stock hot in a small pan or kettle \u2014 cold stock stalls the rice mid-cook."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "Heat a large, dry frying pan over medium heat and add the mushrooms. Fry for 10-15 mins until they release their moisture and it has mostly evaporated.",
+          "Tip in half the olive oil and half the butter, and continue frying until the mushrooms are golden brown. Remove to a bowl with a slotted spoon, leaving the fat behind in the pan.",
+          "Add the onion and remaining oil to the pan and fry for 10-12 mins over medium-low heat until softened but not golden.",
+          "Stir in the garlic and cook for 1 min, then tip in the rice. Fry, stirring, until the edges of the rice grains turn opaque.",
+          "Pour in the white wine, season well with salt and pepper, and fry for a few minutes until fully absorbed.",
+          "Gradually add the stock a ladleful at a time, stirring until each addition is absorbed before adding the next. Keep going for about 18-20 mins until the rice is just tender with a slight bite."
+        ]
+      },
+      {
+        "phase": "Finish",
+        "steps": [
+          "Once the rice is just tender and the stock is absorbed, remove the pan from the heat.",
+          "Stir in the cooked mushrooms, the grated parmesan and the remaining butter. The risotto should be creamy and flow slowly (all\u2019onda).",
+          "Taste and adjust the seasoning \u2014 parmesan and stock both add salt."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Spoon the risotto into warm bowls, top with extra parmesan and a generous grind of black pepper, and serve immediately."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Make your own mushroom stock: pour 1 litre of water over 50g dried porcini, soak for 20 mins, then strain into a jug. Chop the rehydrated porcini and stir them into the finished risotto for a serious depth boost.",
+      "Risotto is a moving target \u2014 if it looks too dry near the end, splash in a little hot water or stock and keep stirring. The finished texture should be loose and flowing, not stiff. Add the parmesan off the heat so it emulsifies into the starch without seizing."
+    ],
+    "liked": false,
+    "added_at": "2026-10-16T09:06:07.004570",
+    "photo": "wild-mushroom-risotto-c9df4ec4.jpg"
+  }
+]
