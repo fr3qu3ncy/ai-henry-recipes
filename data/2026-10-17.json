@@ -1,0 +1,80 @@
+[
+  {
+    "date": "2026-10-17",
+    "name": "Apple Cider Braised Short Ribs",
+    "why": "Peak autumn in one Dutch oven: beef short ribs seared hard then braised for three hours in apple cider, red wine and a full bouquet of herbs. Mostly hands-off oven work that rewards you with fall-off-the-bone meat and a naturally sweet, reduced pan sauce.",
+    "source": "The Recipe Code",
+    "source_url": "https://therecipecode.com/apple-cider-braised-short-ribs/",
+    "photo_url": "https://thefamilycooking.com/wp-content/uploads/2025/09/10-Braised-Apple-Cider-Short-Ribs.png",
+    "cook_time": "3h 20m",
+    "difficulty": "Easy",
+    "serves": "4",
+    "liked": false,
+    "author": "Henry",
+    "ingredients": [
+      "3-4 lbs (1.4-1.8 kg) bone-in beef short ribs",
+      "1 tbsp olive oil",
+      "1 tsp kosher salt",
+      "1/2 tsp black pepper",
+      "1 large yellow onion, chopped",
+      "3 cloves garlic, minced",
+      "2 carrots, peeled and chopped",
+      "2 celery stalks, chopped",
+      "2 cups (480 ml) apple cider (not apple juice)",
+      "1 cup (240 ml) beef broth",
+      "1/2 cup (120 ml) dry red wine (optional)",
+      "2 tbsp tomato paste",
+      "1 tbsp Dijon mustard (optional)",
+      "4-5 sprigs fresh thyme",
+      "2 sprigs rosemary",
+      "2 bay leaves",
+      "1 cinnamon stick (optional, for extra warmth)"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Preheat the oven to 325\u00b0F (163\u00b0C).",
+          "Season the short ribs generously with salt and pepper on all sides."
+        ]
+      },
+      {
+        "phase": "Sear",
+        "steps": [
+          "Heat olive oil in a large Dutch oven over medium-high heat.",
+          "Sear the ribs in batches until deeply browned on all sides, about 2-3 minutes per side. Remove and set aside \u2014 don't rush this step, the browning is your flavour base."
+        ]
+      },
+      {
+        "phase": "Build the braise",
+        "steps": [
+          "In the same pot, add the onion, carrots and celery. Cook 5-7 minutes until softened and beginning to brown.",
+          "Add the garlic and tomato paste and stir for 1 minute.",
+          "Deglaze with the apple cider, scraping up the browned bits from the bottom. Simmer 2-3 minutes.",
+          "Add the beef broth, red wine, Dijon mustard, thyme, rosemary, bay leaves and cinnamon stick. Stir to combine."
+        ]
+      },
+      {
+        "phase": "Braise",
+        "steps": [
+          "Return the ribs to the pot, nestling them into the liquid and vegetables so the liquid mostly covers the meat.",
+          "Cover and braise in the oven for 2.5-3 hours, until the meat is fork-tender and pulling away from the bone."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Remove the pot from the oven and transfer the ribs to a plate. Skim off excess fat from the surface of the liquid.",
+          "Optional: simmer the remaining liquid on the stovetop for a few minutes to reduce and thicken the sauce.",
+          "Serve hot over mashed potatoes, polenta or crusty bread with a spoonful of the cider sauce."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Use real apple cider (cloudy, unsweetened), not apple juice \u2014 the tannins and acidity give the sauce its depth. A 50/50 cider-to-broth ratio keeps it balanced.",
+      "Trim most of the fat cap off the ribs before searing but leave a thin layer \u2014 it renders into the braise. Skimming the fat from the finished liquid (or chilling and hard-skimming next morning) makes a dramatically cleaner sauce."
+    ],
+    "added_at": "2026-10-17T09:06:25.505938",
+    "photo": "apple-cider-braised-short-ribs-df91a609.png"
+  }
+]
