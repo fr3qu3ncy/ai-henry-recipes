@@ -1,0 +1,77 @@
+[
+  {
+    "date": "2026-10-22",
+    "name": "Osso Buco with Gremolata & Risotto Milanese",
+    "why": "The classic Milanese braise \u2014 veal shin slices slow-cooked with their marrow in wine and stock, finished with lemony gremolata over saffron risotto. Peak autumn comfort: long, hands-off simmering with almost no active effort, and a new technique (marinated raw salt, gremolata) to learn.",
+    "source": "BBC Good Food (Rick Stein's Food Stories)",
+    "source_url": "https://www.bbc.co.uk/food/recipes/osso_buco_with_gremolata_15731",
+    "cook_time": "2h 30min",
+    "difficulty": "Medium",
+    "serves": "4",
+    "author": "Henry",
+    "ingredients": [
+      "1.5kg veal shin, cut into 4cm/1.5in thick slices (ask butcher)",
+      "4 tbsp olive oil",
+      "25g plain flour",
+      "1 brown onion, chopped",
+      "1 small carrot, peeled and chopped",
+      "1 celery stick, chopped",
+      "1 sprig fresh rosemary, leaves chopped",
+      "2 sage leaves",
+      "150ml dry white wine",
+      "2 tomatoes, skinned and chopped",
+      "600ml beef stock (for the braise)",
+      "1 strip of pared lemon zest",
+      "salt and freshly ground black pepper",
+      "1.2 litres beef stock (for the risotto)",
+      "small pinch saffron strands",
+      "50g unsalted butter",
+      "2 shallots, finely chopped",
+      "225g risotto rice (carnaroli or arborio)",
+      "60ml dry white wine",
+      "1 garlic clove, peeled",
+      "small handful flatleaf parsley leaves",
+      "1 strip of pared lemon zest (for gremolata)"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Season the veal shin slices with \u00bd teaspoon salt and leave for 20 minutes \u2014 this dry-brines the meat and helps it hold together while braising.",
+          "Lightly coat the pieces with the flour and pat off all the excess.",
+          "Put the risotto stock in a pan and bring to the boil; reduce the heat, add the saffron strands and keep it hot beside you."
+        ]
+      },
+      {
+        "phase": "Braise",
+        "steps": [
+          "Heat the olive oil in a heavy-based flameproof casserole over high heat. Fry the floured shin pieces until browned on both sides, being careful not to disturb the marrow in the centre. Transfer to a plate.",
+          "Add the onion, carrot, celery, rosemary and sage to the pan and fry until lightly browned. Add the wine and tomatoes and cook until the wine has almost completely evaporated.",
+          "Return the meat to the pan, add the 600ml beef stock, lemon zest, \u00bd teaspoon salt and some pepper. Bring to the boil, then immediately turn the heat down to just simmering, cover with a lid and leave to simmer gently for 1 hour \u2014 don't allow the stock to boil.",
+          "Remove the lid and skim off the excess fat from the surface. Increase the heat slightly and simmer for a further 30 minutes (still without boiling) to reduce and concentrate the sauce. The meat should just start to fall from the bone."
+        ]
+      },
+      {
+        "phase": "Risotto",
+        "steps": [
+          "Melt half the butter in a large pan, add the shallots and cook gently for 3\u20134 minutes until soft but not browned.",
+          "Add the rice and stir for a couple of minutes until all the grains are coated in the butter. Stir in the white wine and let it bubble until absorbed.",
+          "Add a ladleful of hot saffron stock and stir over medium heat until absorbed, then add another. Repeat for about 20 minutes, stirring constantly, until all the stock is in and the rice is creamy but still a little al dente.",
+          "Stir in the remaining butter and season to taste with salt and pepper."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "For the gremolata, chop the garlic, parsley and lemon zest together quite finely.",
+          "Spoon the risotto onto warmed plates, top with an osso buco, then sprinkle generously over the gremolata. Eat with a fork \u2014 the marrow in the bone is the best bit."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Veal shin can be hard to find \u2014 beef shin works as a substitute, but add an extra 30 minutes to 1 hour of braising since it's tougher and has less fat.",
+      "Make the gremolata just before serving (not before) so the garlic and lemon stay fresh and pungent \u2014 it's the bright counterpoint that cuts through the rich braise."
+    ],
+    "added_at": "2026-10-22T09:06:12.831042"
+  }
+]
