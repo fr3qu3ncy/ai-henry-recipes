@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2026-10-25",
+    "name": "Raymond Blanc's French Cassoulet",
+    "why": "The ultimate French winter slow-cook \u2014 confit duck, garlic sausage and pork buried in creamy haricot beans under a golden breadcrumb crust. Four hours of mostly hands-off oven time, a proper dinner-party dish.",
+    "source": "BBC Good Food",
+    "source_url": "https://www.bbcgoodfood.com/recipes/raymond-blancs-cassoulet",
+    "photo_url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-848_11-8fb0dc0.jpg",
+    "cook_time": "5h 30m",
+    "difficulty": "Hard",
+    "serves": "6",
+    "liked": false,
+    "author": "Henry",
+    "ingredients": [
+      "600g dried haricot beans, soaked overnight in 3x their volume of water",
+      "140g pork rind",
+      "140g smoked streaky bacon",
+      "300g garlic sausage",
+      "4 confit duck legs",
+      "60g goose fat (or 2 tbsp olive oil), plus 25g more",
+      "1 celery stick, roughly chopped",
+      "1 small white onion, roughly chopped",
+      "1 large carrot, roughly chopped",
+      "6 garlic cloves, peeled and whole",
+      "1 garlic clove, finely chopped",
+      "2 ripe plum tomatoes, cut into 8 wedges",
+      "1 bouquet garni",
+      "8 pinches sea salt",
+      "2 pinches freshly ground black pepper",
+      "1 clove, lightly crushed",
+      "2 tsp lemon juice",
+      "1.2 litres (2 pints) water",
+      "40g dried breadcrumbs",
+      "A handful fresh flat-leaf parsley, coarsely chopped"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Soak the haricot beans overnight in 3x their volume of water \u2014 start this the night before.",
+          "Roll up the pork rind like a Swiss roll; cut the roll into thin slices with the seam underneath, then chop the slices into dice.",
+          "Chop the streaky bacon into small cubes (lardons). Cut the garlic sausage into 1cm-thick slices.",
+          "Drain the soaked beans and discard the water. Tip into a large saucepan with the diced pork rind and lardons, cover with fresh cold water, bring to the boil and blanch for 15-20 minutes. Drain all into a colander and discard the water.",
+          "Chop the celery, onion and carrot roughly. Peel the garlic cloves and leave them whole. Cut each tomato into eight wedges. (Traditional cassoulet has no tomato, but Blanc likes their colour and sweetness.)",
+          "Preheat the oven to 120C/fan 100C (gas mark 2)."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "Heat 25g goose fat (or 2 tbsp olive oil) in a 26cm flameproof casserole over low heat and sweat the celery, onion, carrot and garlic for 5 minutes.",
+          "Add the tomatoes and bouquet garni and cook slowly for about 5 minutes to get a sugary caramelisation.",
+          "Add the sausage, beans, pork rind and lardons and pour in 1.2 litres water. Bring to the boil, skim off the scum, then add the salt, pepper, clove and lemon juice.",
+          "Transfer to the oven and cook uncovered for 2 hours, stirring every hour. At the end the beans should be soft and creamy and the juices thickened \u2014 cook up to 2\u00bd hours if needed to get there."
+        ]
+      },
+      {
+        "phase": "Finish",
+        "steps": [
+          "Remove from the oven, bury the confit duck legs in the beans, and sprinkle over the remaining goose fat (or olive oil), the breadcrumbs and the finely chopped garlic.",
+          "Return to the oven and cook for a further 2 hours, until the breadcrumb crust is golden and crisp and the duck is tender."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Serve in bowls straight from the casserole, sprinkled with chopped parsley."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Blanching the beans with the pork rind and lardons (then discarding that water) is the trick \u2014 it seasons the beans deeply and cuts the beany flavour without a separate stock pot.",
+      "The low 120C oven is the whole point: slow enough that the juices reduce into a thick, glazy base rather than steaming. Don't rush it with a hotter oven \u2014 the crust on top will burn before the base is ready."
+    ],
+    "added_at": "2026-10-25T09:05:21.706953",
+    "photo": "raymond-blancs-french-cassoulet-e22a654e.jpg"
+  }
+]
