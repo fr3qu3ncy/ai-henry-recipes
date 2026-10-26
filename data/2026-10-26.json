@@ -1,0 +1,60 @@
+[
+  {
+    "date": "2026-10-26",
+    "name": "Honey-Roast Confit of Duck",
+    "why": "Confit is the classic French technique of preserving meat in its own fat - duck legs slow-cooked for 2.5 hours until meltingly tender, then crisped in a sticky honey glaze. Hands-off, make-ahead, and a brilliant entertaining dish as winter draws in.",
+    "source": "BBC Good Food",
+    "source_url": "https://www.bbcgoodfood.com/recipes/honey-roast-confit-duck",
+    "photo_url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/honey-roast-confit-of-duck-10593cd.jpg",
+    "cook_time": "2h 50 min + overnight salting",
+    "difficulty": "Medium",
+    "serves": "4",
+    "liked": false,
+    "author": "Henry",
+    "ingredients": [
+      "3 thyme sprigs, leaves roughly chopped",
+      "2-3 rosemary sprigs, leaves roughly chopped",
+      "2 fat garlic cloves, lightly bashed",
+      "1/2 tsp black peppercorns, roughly crushed",
+      "4 duck leg joints (about 800g)",
+      "750g duck fat",
+      "2 bay leaves",
+      "Sunflower oil, for covering the duck if needed",
+      "4 tbsp clear honey"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep (the day before)",
+        "steps": [
+          "Mix the thyme, rosemary, garlic, peppercorns with 2 tbsp flaky sea salt.",
+          "Tip half the salt mix into a large baking dish, top with the duck legs, then scatter over the remaining salt and massage it well into the duck.",
+          "Cover with cling film and chill in the fridge for 24 hours."
+        ]
+      },
+      {
+        "phase": "Confit",
+        "steps": [
+          "Heat oven to 140C/120C fan/gas 1. Take the duck legs out and wipe off the salt mixture with kitchen paper.",
+          "Melt the duck fat in a flameproof casserole over a low heat until just bubbling.",
+          "Add the bay leaves and duck legs, and bring to a gentle simmer - the legs must be completely submerged, so top up with a splash of oil if needed.",
+          "Transfer to the oven and cook for 2 1/2 hours, until a skewer inserted into the thickest part of a leg goes in really easily.",
+          "Leave the duck to cool in the fat. It can now be chilled in the fat for up to 2 weeks."
+        ]
+      },
+      {
+        "phase": "Finish & Serve",
+        "steps": [
+          "Heat oven to 180C/160C fan/gas 4. Lift the duck legs from the fat, scrape off the excess, and place skin-side up in a shallow roasting tin.",
+          "Spoon 1 tbsp of the honey over each leg and roast for 25-30 minutes until the skin is deeply browned and sticky.",
+          "Serve with the reserved confit fat warmed as a gravy, a crisp salad, and roast potatoes or Puy lentils."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Save the rendered confit fat in a jar - it keeps in the fridge for months and makes the best roast potatoes or sauteed vegetables around.",
+      "The salted duck can go straight into the freezer for up to 3 months, and the finished confit lasts weeks under its fat - this dish practically plans your week for you."
+    ],
+    "added_at": "2026-10-26T09:04:25.090006",
+    "photo": "honey-roast-confit-of-duck-cad92902.jpg"
+  }
+]
