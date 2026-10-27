@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2026-10-27",
+    "name": "Jeyuk Deopbap (Korean Spicy Pork Rice Bowl)",
+    "why": "The classic Korean office-lunch bowl \u2014 thin-sliced pork seared in a garlicky, slightly sweet gochujang glaze, piled over rice in 35 minutes. A perfect one-pan weeknight dish that leans into your Korean cooking experiments.",
+    "source": "Kimchi Bazaar",
+    "source_url": "https://kimchibazaar.com/recipes/jeyuk-deopbap",
+    "photo_url": "https://kimchibazaar.com/recipes/jeyuk-deopbap/opengraph-image?6bf8961b8f5268fe",
+    "cook_time": "35 min",
+    "difficulty": "Easy",
+    "serves": "2",
+    "liked": false,
+    "author": "Henry",
+    "ingredients": [
+      "1 lb thinly sliced pork shoulder or belly",
+      "2 tbsp gochujang",
+      "1 tbsp gochugaru",
+      "1 tbsp soy sauce",
+      "1 tbsp sugar",
+      "1 tbsp rice wine (or mirin)",
+      "3 cloves garlic, minced",
+      "1 tsp grated ginger",
+      "1 tbsp sesame oil",
+      "1 onion, sliced",
+      "1 bell pepper, sliced",
+      "2 servings steamed rice",
+      "Sliced cucumber, for serving"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Whisk together the gochujang, gochugaru, soy sauce, sugar, rice wine, minced garlic, and grated ginger into a marinade.",
+          "Toss the thinly sliced pork in the marinade and let it sit 15\u201320 minutes at room temperature \u2014 no longer, or the meat turns mushy.",
+          "Slice the onion and bell pepper. Steam the rice."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "Heat the sesame oil in a wide pan or skillet over high heat until it's shimmering.",
+          "Add the onion and bell pepper and stir-fry for 1\u20132 minutes until just starting to soften.",
+          "Add the marinated pork in a single layer and let it sit undisturbed for a minute before stirring \u2014 this builds char and deep flavor.",
+          "Stir-fry until the pork is fully cooked and the sauce has thickened slightly, 5\u20137 minutes."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Pile the hot pork and vegetables over the steamed rice.",
+          "Serve with sliced cucumber alongside for a fresh, cooling contrast."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Don't skip the undisturbed minute \u2014 letting the pork sear before you stir is what gives it that smoky, charred restaurant flavor rather than just stewed-in-sauce.",
+      "Thin slicing matters more than the cut: if your pork isn't thin enough, lay it between cling film and freeze for 15 minutes, then slice \u2014 much easier and more even."
+    ],
+    "added_at": "2026-10-27T09:03:33.324328",
+    "photo": "jeyuk-deopbap-korean-spicy-pork-rice-bowl-8b73adf6.jpg"
+  }
+]
