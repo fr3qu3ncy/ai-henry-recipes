@@ -1,0 +1,67 @@
+[
+  {
+    "date": "2026-10-31",
+    "name": "Jamie Oliver's Homemade Boiled Bagels",
+    "why": "A proper bread-making project for a cold late-October Saturday \u2014 the boiling-in-bicarb-water step is the trick that gives you that authentic chewy, shiny bagel texture at home, and they freeze beautifully.",
+    "source": "Jamie Oliver",
+    "source_url": "https://www.jamieoliver.com/recipes/bread/homemade-bagels/",
+    "photo_url": "https://cdn.sanity.io/images/cq7w2e71/production/fe04c7d7a3a6b3531f8bf0023b2ac36a72970470-958x1280.jpg",
+    "cook_time": "50 min (+1.5-2h proving)",
+    "difficulty": "Medium",
+    "serves": "12",
+    "liked": false,
+    "author": "Henry",
+    "ingredients": [
+      "750g strong white bread flour",
+      "1 x 7g sachet instant yeast",
+      "3 tsp soft brown sugar",
+      "3 tsp fine sea salt",
+      "450ml tepid water",
+      "1 tsp bicarbonate of soda",
+      "1 large free-range egg, for glazing",
+      "2 tbsp sesame, poppy, pumpkin or sunflower seeds, optional"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Place flour, yeast, sugar and salt in a large bowl (or mixer bowl with dough hook).",
+          "Make a well in the centre and pour in the 450ml tepid water; add the yeast to the water.",
+          "Gradually work the flour in with a fork until you cannot move it anymore, then gather into a ball on a floured surface.",
+          "Knead for about 10 minutes \u2014 pushing and stretching \u2014 until the stiff dough is silky, smooth and elastic.",
+          "Place in a lightly oiled bowl, cover with a damp tea towel, and prove for 1.5-2 hours in a warm draught-free spot until doubled in size."
+        ]
+      },
+      {
+        "phase": "Shape",
+        "steps": [
+          "Preheat the oven to 200C/400F/gas 6 and line 2 large baking trays with baking paper.",
+          "Punch the air out of the dough and divide into 12 equal balls.",
+          "Push a hole in the centre of each ball with your thumb, then gently spin each on your two index fingers to stretch into a ring with a hole about 2cm wide."
+        ]
+      },
+      {
+        "phase": "Boil",
+        "steps": [
+          "Bring a large shallow saucepan of water to a boil, reduce to a simmer, and whisk in the bicarbonate of soda and a small pinch of salt.",
+          "Cook the bagels in batches of six for 1 minute on each side.",
+          "Lift out with a slotted spoon, drain off the water, and place on the lined trays."
+        ]
+      },
+      {
+        "phase": "Bake and Serve",
+        "steps": [
+          "Beat the egg and brush over the bagels; sprinkle with seeds if using.",
+          "Bake for 20-25 minutes until deep golden brown.",
+          "Cool completely on a wire rack. Slice with a serrated knife and fill \u2014 peanut butter and jam, smoked salmon and cream cheese, or salt beef, mustard and pickles."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "The bicarb-boil is non-negotiable \u2014 it gelatinises the surface starch, which is what gives bagels their chewy interior and glossy, crisp crust. Skip it and you get a plain bun.",
+      "Unbaked shaped bagels freeze brilliantly \u2014 pop them on a tray, freeze solid, then bag them up. Boil straight from frozen (add 30 seconds per side) and bake as normal. Weekend bakery, zero morning effort."
+    ],
+    "added_at": "2026-10-31T09:05:29.831552",
+    "photo": "jamie-olivers-homemade-boiled-bagels-1de91af6.jpg"
+  }
+]
