@@ -1,0 +1,65 @@
+[
+  {
+    "date": "2026-11-07",
+    "name": "Peruvian Anticuchos (Aji Panca Beef Skewers)",
+    "why": "A thousand-year-old Andean street food rarely seen on UK menus: beef marinated in a fruity, smoky aji panca chilli paste, then charred hard over high heat. The marinade does the heavy lifting, so hands-on time is under 30 minutes for a big-flavour weekend grill.",
+    "source": "Piquant Post",
+    "source_url": "https://piquantpost.com/blogs/recipes/anticuchos-peruvian-beef-skewers",
+    "photo_url": "https://piquantpost.com/cdn/shop/articles/g2QJOdZgJJ8_bXGdfMEof_1200x1200.jpg?v=1663559933",
+    "cook_time": "25 min + 2 hr marinate",
+    "difficulty": "Easy",
+    "serves": "4",
+    "liked": false,
+    "author": "Henry",
+    "ingredients": [
+      "4 tbsp vegetable oil, divided",
+      "1/3 medium yellow onion, diced",
+      "2 garlic cloves, diced",
+      "2 tbsp aji panca powder (Peruvian dried red chilli) \u2014 see Pro Tips if you can't source it",
+      "1/2 lime, juiced",
+      "1.5 lbs (680g) beef sirloin steak, cut into 2cm cubes",
+      "2 tbsp vegetable oil (for marinade)",
+      "1 tbsp white wine vinegar",
+      "1/2 tsp salt",
+      "Steamed rice or boiled potatoes, to serve"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Soak wooden skewers in water for 30 minutes to prevent splitting and burning (skip if using metal).",
+          "Make the aji panca paste: heat 2 tbsp oil in a small saucepan, add the diced onion and saut\u00e9 for 2-3 minutes until softened.",
+          "Add the garlic and aji panca powder and saut\u00e9 for 1 minute until fragrant.",
+          "Stir in the remaining 2 tbsp oil and the lime juice, then remove from heat and let the paste cool."
+        ]
+      },
+      {
+        "phase": "Marinate",
+        "steps": [
+          "In a large zip bag or non-reactive bowl, combine the beef cubes with the aji panca paste, 2 tbsp oil, white wine vinegar and salt.",
+          "Coat the beef well, cover and refrigerate for at least 2 hours \u2014 or up to overnight for deeper flavour."
+        ]
+      },
+      {
+        "phase": "Grill",
+        "steps": [
+          "Heat a grill or barbecue over medium-high heat until properly hot.",
+          "Thread the beef cubes onto the skewers, packing them snugly.",
+          "Grill for about 6 minutes total for medium rare, turning every 2 minutes until charred on the edges and just pink in the middle."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Serve hot over steamed rice or boiled potatoes, with any pan juices spooned over."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Aji panca is the soul of this dish but hard to find in the UK. Best stand-in: 1.5 tbsp sweet smoked paprika + 1 tsp dried red chilli powder (guajillo or ordinary dried chilli) + a pinch of sugar \u2014 it reproduces the fruity, slightly sweet, smoky depth that pure chilli powder lacks.",
+      "No barbecue access? Bake the skewers at 180C (350F) for 15-20 minutes, turning halfway, then broil for 2-3 minutes at the end to char the edges."
+    ],
+    "added_at": "2026-11-07T09:05:39.298493",
+    "photo": "peruvian-anticuchos-aji-panca-beef-skewers-527cb715.jpg"
+  }
+]
