@@ -1,0 +1,73 @@
+[
+  {
+    "date": "2026-11-08",
+    "name": "Coda alla Vaccinara (Roman Braised Oxtail)",
+    "why": "The quintessential Roman winter braise - oxtail melting away in tomato, celery and white wine, finished with a secret twist of dark chocolate that deepens the sauce without a trace of sweetness. Peak November cooking: browning, then hours of hands-off low heat.",
+    "source": "Recipes from Italy",
+    "source_url": "https://www.recipesfromitaly.com/coda-alla-vaccinara-recipe/",
+    "photo_url": "https://www.recipesfromitaly.com/wp-content/uploads/2026/03/coda-alla-vaccinara-1200x1200-1.jpg",
+    "cook_time": "4h",
+    "difficulty": "Medium",
+    "serves": "4",
+    "liked": false,
+    "author": "Henry",
+    "ingredients": [
+      "1.5kg oxtail, cut into pieces",
+      "80g lard, cubed (or a knob of beef dripping)",
+      "1 small onion, finely diced",
+      "1 medium carrot, finely diced",
+      "1 celery stalk, finely diced",
+      "2 celery stalks, cut into pieces (added later)",
+      "150ml dry white wine",
+      "300g tomato passata",
+      "3 tbsp chopped parsley",
+      "2 garlic cloves, peeled and roughly chopped",
+      "70ml extra virgin olive oil",
+      "1 tsp unsweetened cocoa powder (or 20g dark chocolate)",
+      "salt and black pepper, to taste"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Dice the onion, carrot and one celery stalk finely - this is the soffritto.",
+          "Set aside the other two celery stalks; they go in at the 2-hour mark.",
+          "Cube the lard."
+        ]
+      },
+      {
+        "phase": "Brown",
+        "steps": [
+          "Heat the olive oil in a large, deep heavy-bottomed pan over high heat.",
+          "Add the oxtail and brown well on all sides - you want a real crust, not just colour.",
+          "Remove the oxtail to a plate and set aside."
+        ]
+      },
+      {
+        "phase": "Braise",
+        "steps": [
+          "In the same pan, saute the diced onion, carrot and celery over low heat in the remaining oil until soft.",
+          "Add the lard, parsley and garlic, and cook a few minutes until the flavours have melded.",
+          "Return the oxtail to the pan and cook a few minutes, then pour in the white wine.",
+          "Let the alcohol evaporate completely, then add the passata. Season with salt and pepper.",
+          "Cover and braise over very low heat for at least 4 hours.",
+          "Check every 30 minutes: stir occasionally, make sure the meat is not sticking, and add a splash of hot water or stock if the sauce looks dry.",
+          "After about 2 hours, add the two reserved celery stalks."
+        ]
+      },
+      {
+        "phase": "Finish",
+        "steps": [
+          "Once the oxtail is falling off the bone, add the cocoa powder (or dark chocolate).",
+          "Stir until melted and cook 2-3 more minutes, then turn off the heat. Serve with bread or creamy mashed potatoes to soak up the sauce."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "The chocolate is the Roman secret - it rounds out the tomato acid and gives the sauce a glossy, deep, almost meaty richness. Start with the cocoa; add a little more if you want it stronger.",
+      "Oxtail needs a low, lazy heat - the moment it starts bubbling vigorously, it will toughen and the sauce will emulsify wrong. Patience is the whole technique here."
+    ],
+    "added_at": "2026-11-08T09:12:41.961410",
+    "photo": "coda-alla-vaccinara-roman-braised-oxtail-6b38f9e2.jpg"
+  }
+]
