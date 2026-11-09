@@ -1,0 +1,67 @@
+[
+  {
+    "date": "2026-11-09",
+    "name": "Caldereta de Pescado (Catalan Fish Stew)",
+    "why": "A soul-warming Catalan fish stew that puts saffron, firm white fish and shellfish in one pot with a clever picada - a toasted almond, bread and garlic paste that thickens the broth. Peak autumn seafood, and the picada technique is one you will use in every stew from now on.",
+    "source": "FoodReference (recipe by Jose Pizarro)",
+    "source_url": "https://www.foodreference.com/html/caldereta-stew-312.html",
+    "cook_time": "30 min",
+    "difficulty": "Medium",
+    "serves": "4",
+    "liked": false,
+    "author": "Henry",
+    "ingredients": [
+      "4 tbsp extra virgin olive oil (plus more for drizzling)",
+      "60g (1/4 cup) almonds",
+      "1/2 slice day-old white bread, torn up",
+      "2 garlic cloves, minced",
+      "1 small onion, chopped",
+      "2 very ripe large tomatoes, chopped",
+      "1 red chilli, deseeded and diced",
+      "1 bay leaf",
+      "1 litre fish stock",
+      "2 medium potatoes, peeled and sliced 1cm thick",
+      "20 saffron threads",
+      "400g firm-fleshed fish (hake, sea bream), cut into steaks",
+      "8 raw prawns, shells on",
+      "300g clams in shells, scrubbed clean",
+      "Handful of chopped flat-leaf parsley (or cilantro for a Portuguese twist)"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Heat the olive oil in a large saucepan over medium heat. Add the almonds, torn bread and garlic and cook until everything is golden, 4-5 minutes.",
+          "Remove the solids from the pan, leaving as much of the toasted oil behind as possible. Pound in a pestle and mortar (or blitz in a food processor) into a chunky paste - this is the picada."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "In the same pan, saute the chopped onion for about 5 minutes until soft. Stir in the chopped tomatoes and let the juices evaporate for 2-3 minutes.",
+          "Add the diced chilli, bay leaf and fish stock. Bring to a boil, then add the potato slices and saffron threads.",
+          "Simmer gently for about 10 minutes, until the potatoes are just tender.",
+          "Stir in the picada and mix well so it dissolves into the broth, thickening it slightly."
+        ]
+      },
+      {
+        "phase": "Finish",
+        "steps": [
+          "Five minutes before serving, add the fish first, largest steaks first, and cook for 2-3 minutes until just opaque.",
+          "Add the prawns and cook for about 1 minute, then add the clams and simmer for 1 minute until they open. Discard any clams that stay shut."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Ladle into deep bowls, sprinkle with chopped parsley and finish with a good drizzle of extra virgin olive oil. Eat immediately with bread."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "The picada is the whole trick - toasted nuts plus day-old bread is the Catalan way of thickening stews, and the same idea appears in Spanish cocido. Make it a little coarser than smooth for texture.",
+      "Time the shellfish strictly: fish in first, then prawns, then clams last. Overcooked clams turn rubbery and prawns curl up tight - the one-minute stages keep everything at peak tenderness. Soak the clams in cold salted water for 20 minutes beforehand to purge any sand."
+    ],
+    "added_at": "2026-11-09T09:12:32.841060"
+  }
+]
