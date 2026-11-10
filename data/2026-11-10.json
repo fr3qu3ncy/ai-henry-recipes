@@ -1,0 +1,63 @@
+[
+  {
+    "date": "2026-11-10",
+    "name": "Beef Bulgogi (Korean Fire Beef)",
+    "why": "Korean BBQ's most iconic dish at home: ribeye thinly sliced, soaked in a baking-soda tenderiser, marinated in a blended soy-sugar-ginger-garlic sauce, then seared hard in a screaming-hot pan until it caramelises glossy. Big flavour in under 10 minutes of actual cooking time.",
+    "source": "Once Upon a Chef",
+    "source_url": "https://www.onceuponachef.com/recipes/beef-bulgogi.html",
+    "photo_url": "https://www.onceuponachef.com/images/2022/07/bulgogi-1200x1569.jpg",
+    "cook_time": "35 min + 1 hr marinating",
+    "difficulty": "Easy",
+    "serves": "4",
+    "liked": false,
+    "author": "Henry",
+    "ingredients": [
+      "2 lb (900g) boneless ribeye steaks",
+      "1/4 tsp baking soda, heaped",
+      "1 1/2 tbsp vegetable oil, plus 2 tsp for cooking",
+      "1 1/2 tsp toasted sesame oil",
+      "1/4 cup (60ml) soy sauce",
+      "3 tbsp dark brown sugar, packed",
+      "2 garlic cloves, roughly chopped",
+      "1 small shallot, roughly chopped",
+      "1 tbsp roughly chopped fresh ginger (from a 1-inch knob)",
+      "1/4 tsp crushed red pepper flakes, heaped",
+      "2 scallions, dark green parts only, thinly sliced, to serve",
+      "1 tsp sesame seeds, to serve",
+      "Steamed rice, to serve"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Place the steaks on a large plate and freeze for about 35 minutes until semi-firm \u2014 this makes them far easier to slice. Slice across the grain into 1/4-inch (6mm) thick slices.",
+          "Combine 1 1/2 tablespoons of water with the baking soda in a medium bowl. Add the beef slices and toss to coat. Leave to sit at room temperature for 5 minutes.",
+          "Meanwhile, in a mini food processor or blender, combine the 1 1/2 tablespoons vegetable oil, sesame oil, soy sauce, brown sugar, garlic, shallot, ginger and red pepper flakes. Process until smooth.",
+          "Pour the marinade over the beef and toss to coat evenly. Cover and refrigerate for at least 1 hour (or overnight for maximum flavour)."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "Turn on the exhaust fan \u2014 it gets smoky. Heat the remaining 2 teaspoons of vegetable oil in a large 12-inch (30cm) cast iron or nonstick skillet over medium-high heat until very hot and shimmering.",
+          "Add half the beef in a single layer and cook without stirring until browned and caramelised on one side, 2-3 minutes.",
+          "Stir the meat and continue stir-frying until just cooked through, 1-2 minutes longer. Transfer to a serving platter and cover to keep warm.",
+          "Add the remaining beef to the same pan (no more oil) along with any marinade left in the bowl. Cook 2-3 minutes until browned on one side, then stir-fry 1-2 minutes more until just cooked through."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Transfer the second batch to the platter and sprinkle with the scallion greens and sesame seeds.",
+          "Serve immediately over steamed white rice \u2014 the pan juices are worth spooning over the rice."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "The baking soda soak is the secret weapon \u2014 it tenderises the beef and helps the soy-sugar marinade caramelise properly in the pan. If you're sensitive to its slight soapy taste, give the meat a quick rinse before marinating.",
+      "The 35-minute freeze step is what makes this work at home: semi-firm beef slices into wafer-thin pieces that sear evenly instead of steaming. Never skip it."
+    ],
+    "added_at": "2026-11-10T09:06:35.861664",
+    "photo": "beef-bulgogi-korean-fire-beef-85c93352.jpg"
+  }
+]
