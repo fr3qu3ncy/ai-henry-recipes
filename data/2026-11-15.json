@@ -1,75 +1,88 @@
 [
   {
     "date": "2026-11-15",
-    "name": "Japchae (Korean Glass Noodle Stir-Fry)",
-    "why": "Korean cuisine is where you've been experimenting lately, and japchae is the classic you haven't hit yet \u2014 sweet potato glass noodles with a chewy bite, coated in a glossy soy-sesame sauce with crisp stir-fried veg. It's the royal-court dish behind every Korean noodle takeout order, and it holds well for days, so it's also perfect as a meal-prep lunch.",
-    "source": "The Pretty Heathy Life",
-    "source_url": "https://theprettyhealthylife.com/japchae-korean-glass-noodles-recipe/",
-    "photo_url": "https://theprettyhealthylife.com/wp-content/uploads/2026/04/Final_Dish_Presentation_202604160603.webp",
-    "cook_time": "25 min",
+    "name": "Kare-Kare (Filipino Oxtail Peanut Stew)",
+    "why": "Kare-kare is the centrepiece of the Filipino fiesta table and a completely new cuisine for you \u2014 oxtail braised fall-apart tender in a thick, nutty peanut sauce coloured deep gold with annatto. The twist that makes it brilliant: the sauce is deliberately mild and a touch sweet, and it's always served with a spoonful of saut\u00e9ed bagoong (fermented shrimp paste) on the side for a salty-funky punch. A long, hands-off braise that deepens overnight and keeps for days.",
+    "source": "PagkainPinoy",
+    "source_url": "https://pagkainpinoy.com/recipes/kare-kare-oxtail/",
+    "photo_url": "https://pagkainpinoy.com/wp-content/uploads/pkp-first-live-20261004/photo-76-70abd0bc29fe.webp",
+    "cook_time": "3 hrs 15 min",
     "difficulty": "Medium",
-    "serves": "2",
+    "serves": "6",
     "author": "Henry",
     "liked": false,
     "ingredients": [
-      "8 oz Korean sweet potato glass noodles (dangmyeon)",
-      "1 tbsp sesame oil (plus extra for finishing)",
-      "1 small onion, thinly sliced",
-      "1 carrot, julienned",
-      "1 red bell pepper, sliced",
-      "2 cups spinach",
-      "1 cup shiitake or oyster mushrooms, sliced",
-      "2 green onions, chopped",
-      "2 tbsp neutral oil, for stir-frying",
-      "Sauce: 3 tbsp soy sauce",
-      "Sauce: 2 tbsp sugar",
-      "Sauce: 1 tbsp sesame oil",
-      "Sauce: 1 tsp garlic, minced",
-      "Sauce: 1 tsp rice vinegar (optional)",
-      "Sauce: 1/2 tsp black pepper",
-      "To finish: sesame seeds, extra green onion"
+      "1.2 kg oxtail, cut into 5-6 cm pieces",
+      "300 g beef tripe, cleaned (optional but classic)",
+      "1 large onion, quartered (for the braise)",
+      "6 cloves garlic, crushed (for the braise)",
+      "2 bay leaves",
+      "1 tsp whole black peppercorns",
+      "2 tsp salt",
+      "10 cups water, or enough to cover",
+      "3/4 cup natural creamy peanut butter (unsweetened)",
+      "1/2 cup finely ground roasted peanuts",
+      "3 tbsp toasted rice powder (toasted rice flour)",
+      "1 cup annatto water (steep 3 tbsp annatto/achuete seeds in 1 cup warm water, strain)",
+      "4 cups reserved braising stock, divided, plus extra to thin",
+      "1 medium onion, finely chopped (for the sauce)",
+      "4 cloves garlic, minced (for the sauce)",
+      "2-3 tbsp cooking oil",
+      "200 g sitaw (yard-long beans), cut into 5 cm pieces",
+      "1 medium eggplant, sliced thick on the bias",
+      "1 small banana blossom (puso), sliced and soaked in salted water (optional)",
+      "1 bunch pechay or baby bok choy, separated",
+      "1/2 cup saut\u00e9ed bagoong alamang (fermented shrimp paste), for serving",
+      "Chopped fresh chilli, to mix into the bagoong (optional)"
     ],
     "instructions": [
       {
         "phase": "Prep",
         "steps": [
-          "Slice every vegetable thinly so they cook fast and evenly \u2014 onion, carrot, pepper, mushrooms; keep the spinach and green onions raw for later.",
-          "Whisk the sauce together in a small bowl: soy sauce, sugar, sesame oil, minced garlic, rice vinegar and black pepper. Taste \u2014 it should taste slightly strong on its own, because the noodles will dilute it."
+          "Steep the annatto (achuete) seeds in 1 cup warm water, then strain and set the gold-tinted liquid aside \u2014 it colours the sauce.",
+          "Toast your rice powder: dry-toast raw rice in a pan until golden and aromatic, grind fine, and set aside (or buy pre-made toasted rice powder). Toasting deepens the nutty flavour and helps the sauce thicken smoothly.",
+          "Saut\u00e9 the bagoong alamang in a little oil with the chopped chilli until fragrant \u2014 this is your salty condiment, served on the side.",
+          "Cut the oxtail (and tripe, if using) into 5-6 cm pieces and soak the banana blossom in salted water if you're using it."
         ]
       },
       {
         "phase": "Cook",
         "steps": [
-          "Boil the glass noodles in plenty of water for 6-7 minutes until chewy, not soft. They should still have a springy bite.",
-          "Drain and rinse under cold water, then toss with 1 tbsp sesame oil and a little soy sauce so they don't stick.",
-          "Heat 1 tbsp neutral oil in a wok or large pan over high heat. Stir-fry the onion for 2-3 minutes until just tender, transfer to a plate.",
-          "Add a little more oil and stir-fry the carrot and red pepper for 3-4 minutes until crisp-tender but still bright. Transfer out.",
-          "Stir-fry the mushrooms for 2-3 minutes until their edges just start to brown. Transfer out.",
-          "Wipe the pan if needed, add the spinach with a splash of water and toss for 30-60 seconds just until wilted. Transfer out.",
-          "Return all the cooked vegetables to the pan with the noodles over medium-high heat.",
-          "Pour in the prepared sauce and toss for 1-2 minutes until every strand is glossy and evenly coated \u2014 don't rush this."
+          "Put the oxtail and tripe in a large pot with the quartered onion, crushed garlic, bay leaves, peppercorns, salt and enough water to cover. Bring to a boil, skim off the scum, then cover and simmer gently for 2-3 hours (or high-pressure for 45-60 minutes with a 15-minute natural release), topping up with hot water, until fork-tender.",
+          "Lift the meat onto a covered dish to keep warm. Strain the stock, skim off excess fat, and measure out 4 cups for the sauce, holding extra back to thin if needed.",
+          "Meanwhile, blanch the vegetables in separate batches in boiling water until tender: sitaw 3-5 minutes, eggplant 4-6 minutes, thin banana blossom 8-12 minutes, and pechay 1-2 minutes. Drain \u2014 texture, not the timer, is the cue."
+        ]
+      },
+      {
+        "phase": "Build the Sauce",
+        "steps": [
+          "Heat the sauce oil in a wide pan. Soften the finely chopped onion for 3-4 minutes, add the minced garlic for 30 seconds.",
+          "Stir in the strained annatto water and 3 cups of the reserved stock; bring to a gentle simmer.",
+          "Whisk the peanut butter, ground roasted peanuts and toasted rice powder with the remaining 1 cup hot stock until smooth, then whisk it into the pan.",
+          "Simmer gently for 10-15 minutes, stirring along the bottom, until the rice powder is cooked and the sauce is smooth and coats a spoon."
         ]
       },
       {
         "phase": "Finish",
         "steps": [
-          "Turn off the heat and drizzle a final little extra sesame oil over the top \u2014 this is what gives japchae its signature aroma.",
-          "Cut the noodle strands with scissors to an easy eating length, then plate into wide bowls.",
-          "Top with sesame seeds and chopped green onion."
+          "Return the oxtail and tripe to the sauce and simmer 5-10 minutes until hot throughout.",
+          "Adjust with extra stock to a thick-but-pourable consistency \u2014 it should coat the meat, not set around it.",
+          "Add the drained vegetables just long enough to reheat, or arrange them beside the stew.",
+          "Taste before adding any more salt \u2014 remember the bagoong you're serving alongside is salty."
         ]
       },
       {
         "phase": "Serve",
         "steps": [
-          "Serve warm or at room temperature. It keeps in an airtight container in the fridge for up to 4 days \u2014 reheat gently with a splash of water to loosen the noodles."
+          "Serve hot over steamed white rice with the saut\u00e9ed bagoong on the side, stirred into each bite. The sauce base can be made a day ahead \u2014 the flavour deepens overnight."
         ]
       }
     ],
     "pro_tips": [
-      "Cook each vegetable separately \u2014 it feels like extra work, but tossing everything into one pan turns japchae into a watery, soggy mess. Clean texture is the whole point.",
-      "The glass noodles should stay chewy (dangmyeon's signature bite). If they go soft and translucent-pale they're overdone \u2014 and the dish's texture changes completely. A splash more soy at the end keeps it glossy and slightly saucy."
+      "Use natural, unsweetened creamy peanut butter \u2014 commercial peanut butter with added sugar throws off the whole balance and makes the sauce cloying.",
+      "The bagoong on the side is non-negotiable. The peanut sauce is deliberately mild and a touch sweet; a spoonful of the fermented shrimp paste per bite is what gives kare-kare its signature salty-umami punch. Skipping it means missing half the dish."
     ],
-    "added_at": "2026-11-15T09:04:57.924045",
-    "photo": "japchae-korean-glass-noodle-stir-fry-faea209a.webp"
+    "added_at": "2026-11-15T09:16:24.135179",
+    "photo": "kare-kare-filipino-oxtail-peanut-stew-c8a37493.webp"
   }
 ]
