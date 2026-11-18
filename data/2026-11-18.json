@@ -1,0 +1,75 @@
+[
+  {
+    "date": "2026-11-18",
+    "name": "Beef Pho (Vietnamese Noodle Soup)",
+    "why": "A proper from-scratch pho is a big step up from instant soup: char the onion and ginger, toast whole spices, then let a clear aromatic broth do the work. It's the ultimate cold-weather bowl and the freezer trick for paper-thin beef is a technique you'll steal for everything.",
+    "source": "BBC Good Food",
+    "source_url": "https://www.bbcgoodfood.com/recipes/beef-pho",
+    "photo_url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/beef-pho-cbd3623.jpg",
+    "cook_time": "1 hr 10 min",
+    "difficulty": "Medium",
+    "serves": "2",
+    "author": "Henry",
+    "liked": false,
+    "ingredients": [
+      "1l low salt beef stock",
+      "1 large onion, peeled and cut into quarters",
+      "large thumb-sized piece of ginger, peeled",
+      "1 cinnamon stick",
+      "2 star anise",
+      "1 tsp coriander seeds",
+      "1/2 tsp cloves",
+      "230g sirloin steak",
+      "1 tsp palm sugar (or light muscovado)",
+      "1 tbsp fish sauce",
+      "1 1/2 tbsp soy sauce",
+      "200g flat rice noodles",
+      "2 spring onions, shredded",
+      "1 small red (bird's-eye) chilli, finely sliced",
+      "handful of Thai basil, chopped",
+      "handful of coriander, chopped",
+      "1 lime, cut into wedges"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Cut the fat from the sirloin steak, wrap it tightly in cling film and freeze for 15 mins \u2014 a semi-frozen steak slices paper-thin, which is crucial for cooking in the hot broth.",
+          "Meanwhile, char the onion quarters and ginger: put them in a dry frying pan over high heat and brown on all sides for 3-5 mins until properly charred (or char under a hot grill).",
+          "Add the cinnamon stick, star anise, coriander seeds and cloves to the same hot pan and toast 2-3 mins until fragrant."
+        ]
+      },
+      {
+        "phase": "Broth",
+        "steps": [
+          "Tip the beef stock and 500ml water into a large saucepan. Add the charred onion and ginger, then the toasted spices.",
+          "Bring to a boil, then turn down to a gentle simmer and cook for 30 mins.",
+          "Strain the broth through a sieve, discarding the solids.",
+          "Taste and season with the palm sugar, fish sauce and soy sauce \u2014 it should taste slightly salty-sweet, stronger than you'd want a finished soup to be."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "Slice the chilled steak as thinly as you can, then lay it flat on a plate in the fridge while you finish.",
+          "Cook the flat rice noodles according to the packet instructions, then drain and divide between two wide bowls."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Arrange the thin slices of raw beef over the noodles in each bowl.",
+          "Bring the broth back to a boil and pour it straight over the beef \u2014 the heat of the stock cooks the beef to just right.",
+          "Top each bowl with shredded spring onion, sliced chilli, Thai basil and coriander.",
+          "Serve immediately with lime wedges to squeeze over."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "The 15-minute freezer rest is the whole trick \u2014 it's the difference between ragged chunks and paper-thin slices that cook evenly in the broth.",
+      "Make the broth a day ahead and refrigerate \u2014 it develops overnight and the flavour gets noticeably deeper. Just reheat, slice the beef, and assemble in 10 mins."
+    ],
+    "added_at": "2026-11-18T09:06:33.055888",
+    "photo": "beef-pho-vietnamese-noodle-soup-2fa1d79e.jpg"
+  }
+]
