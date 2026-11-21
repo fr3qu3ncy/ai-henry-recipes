@@ -1,0 +1,55 @@
+[
+  {
+    "date": "2026-11-21",
+    "name": "Pozole Rojo with Pork & Guajillo Chile",
+    "why": "Mexico\u2019s most beloved winter soup \u2014 hominy plump in a deep guajillo-chile broth, slow-simmered pork, and a pile of sharp garnishes. The ultimate crowd-pleaser: it makes 10+ bowls, freezes beautifully, and tastes even better the next day.",
+    "source": "Familia Kitchen",
+    "source_url": "https://familiakitchen.com/carmens-pozole-rojo-with-pork-and-guajillo-chile/",
+    "photo_url": "https://familiakitchen.com/wp-content/uploads/2020/10/Carmen-Pozole.jpg",
+    "cook_time": "1h 30m",
+    "difficulty": "Medium",
+    "serves": "10",
+    "liked": false,
+    "author": "Henry",
+    "ingredients": [
+      "1.5 lbs guajillo chiles, stemmed and seeded (or 2 bags)",
+      "1 lb bone-in pork (shoulder or backbone \u2014 espinazo is the traditional cut)",
+      "1 head garlic, unpeeled, rinsed",
+      "4 tsp salt, plus more to taste",
+      "2 tins (75 oz total) white hominy, drained",
+      "Diced white onion, to serve",
+      "Shredded cabbage or iceberg lettuce, to serve",
+      "Dried Mexican oregano, to serve",
+      "Limes, cut in half, to serve"
+    ],
+    "instructions": [
+      {
+        "phase": "Prep",
+        "steps": [
+          "Boil the guajillo chiles in water until tender, about 15 minutes, then blend with a cup of the cooking water until smooth. Strain the puree through a fine-mesh sieve to catch seeds and skins.",
+          "In a large pot, combine the pork, the unpeeled head of garlic, and enough water to cover by 2 inches. Add 4 tsp salt."
+        ]
+      },
+      {
+        "phase": "Cook",
+        "steps": [
+          "Bring to a boil, skim off any scum, then reduce to a gentle simmer and cook uncovered for about 1 hour, until the pork is fully cooked.",
+          "Add the drained hominy and the strained guajillo sauce to the pot.",
+          "Return to a boil, then simmer on medium heat for about 30 minutes so the hominy, pork, and chile flavours meld. Taste and salt if needed."
+        ]
+      },
+      {
+        "phase": "Serve",
+        "steps": [
+          "Ladle the pozole into bowls and pile on the garnishes: diced onion, shredded cabbage, a shake of dried oregano, and a big squeeze of fresh lime."
+        ]
+      }
+    ],
+    "pro_tips": [
+      "Cook the garlic in its whole unpeeled head \u2014 it keeps from dissolving into the broth and you can just squeeze the cloves out before serving. Use bone-in pork (backbone is traditional): the marrow is what gives the broth its deep, porky richness.",
+      "Pozole improves with time \u2014 leftovers taste even better the next day and it freezes beautifully for up to 3 months. Serve with tostadas for extra crunch."
+    ],
+    "added_at": "2026-11-21T09:07:05.970867",
+    "photo": "pozole-rojo-with-pork-guajillo-chile-df1ec1ff.jpg"
+  }
+]
